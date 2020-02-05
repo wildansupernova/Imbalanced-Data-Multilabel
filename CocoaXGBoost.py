@@ -26,9 +26,9 @@ paramXGBoostMulticlass = {
 }
 
 
-class CocoaXGBoost(ProblemTransformationBase):
+class CocoaXGBoostUndersampling(ProblemTransformationBase):
     def __init__(self, numMaxCouples = 10, underSamplingPercent = 1.0, seed = 1):
-        super(CocoaXGBoost, self).__init__(XGBClassifier(**paramXGBoost), None)
+        super(CocoaXGBoostUndersampling, self).__init__(XGBClassifier(**paramXGBoost), None)
         self.multiclassClassifier = XGBClassifier(**paramXGBoostMulticlass)
         self.numMaxCouples = numMaxCouples
         self.underSamplingPercent = underSamplingPercent
@@ -94,7 +94,7 @@ class CocoaXGBoost(ProblemTransformationBase):
             self.triLabelIndices.append([]) # Actually init indices
             self.triClassifiers.append([]) # Actually init classifier
             for j in range(self.numCouples):
-                self.triClassifiers[i].append(copy.deepcopy(self.multiclassClassifier)) # AbstractClassifier.makeCopy(baseClassifier);	
+                self.triClassifiers[i].append(copy.deepcopy(self.multiclassClassifier)) 
         self.thresholds = [-1]*self._label_count #Init threshold list
         
         self.brus.fit(X, y)
@@ -108,6 +108,7 @@ class CocoaXGBoost(ProblemTransformationBase):
             rnd.shuffle(labelIndexList)
             self.triLabelIndices[i] = self.selectedLabelIndices(labelIndexList, self.labelIndices[i])
             for j in range(self.numCouples):
+                print("Coupling: ", i, " and ", j)
                 yTriClassIns = self.trt.transformLabels(self.labelIndices[i], self.triLabelIndices[i][j])
                 xUsTriClassIns, YUsTriClassIns = self.TrirandomUnderSampling(X, yTriClassIns)
                 self.triClassifiers[i][j].fit(xUsTriClassIns, YUsTriClassIns)
@@ -131,15 +132,15 @@ class CocoaXGBoost(ProblemTransformationBase):
         """
         result = []
         unique_elements, counts_elements = np.unique(y, return_counts=True)
+#         dictCount = dict(zip(unique_elements, counts_elements))
         numClass = len(unique_elements)
         c = [0]*numClass
         nData = len(y)
         minVal = counts_elements.min()
-
         sample_strategy = dict()
         for i in range(numClass):
-            sample_strategy[i] = minVal
-        print(y)
+            if i in unique_elements:
+                sample_strategy[i] = minVal
         Xres, yres = make_imbalance(X,y,sample_strategy)
         return Xres, yres
 
@@ -174,6 +175,7 @@ class CocoaXGBoost(ProblemTransformationBase):
             while d<1:
                 predictLabels = [predictConfidences[i][j]>=d for i in list(range(nData))]
                 #Using Fmeasure
+                print("Calculate Threshold Label ", j, "with d=",d)
                 value = f1_score(trueLabels, predictLabels, average='macro')
                 if value > maxVal:
                     maxVal = value
@@ -188,6 +190,14 @@ class CocoaXGBoost(ProblemTransformationBase):
             result.append(bipartition)
         return np.asarray(result)
 
+    def predict_proba(self, X):
+        nData = len(X)
+        result = []
+        for i in range(nData):
+            confidences = self.makePredictionforThreshold(X[i])
+            result.append(confidences)
+        return np.asarray(result) 
+    
     def makePredictionSingleData(self, x1):
         confidences = self.makePredictionforThreshold(x1)
         bipartition = [0]*self._label_count

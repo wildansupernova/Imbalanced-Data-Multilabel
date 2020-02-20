@@ -1,0 +1,997 @@
+review,category_sentiment,category,sentiment
+"Pelayanannya memuaskan, dan sangat ramah, kamarnya juga brsih dan rapi, snack airynya ada. Tetapi utk wifinya ckup lemot. Trimakasih ",service-pos,service,pos
+"Pelayanannya memuaskan, dan sangat ramah, kamarnya juga brsih dan rapi, snack airynya ada. Tetapi utk wifinya ckup lemot. Trimakasih ",linen_P1-pos,linen_P1,pos
+"Pelayanannya memuaskan, dan sangat ramah, kamarnya juga brsih dan rapi, snack airynya ada. Tetapi utk wifinya ckup lemot. Trimakasih ",kebersihan-pos,kebersihan,pos
+"Pelayanannya memuaskan, dan sangat ramah, kamarnya juga brsih dan rapi, snack airynya ada. Tetapi utk wifinya ckup lemot. Trimakasih ",wifi_P1-neg,wifi_P1,neg
+"hanya AC nya saja yang agak berisik, pelayanan lumayan",service-pos,service,pos
+"hanya AC nya saja yang agak berisik, pelayanan lumayan",ac_P1-neg,ac_P1,neg
+Pelayanan dan lokasi sangat oke. yang perlu diperbaiki mungkin dari segi kebersihannya saja karena terdapat serangga di dlm kamar. ,service-pos,service,pos
+Pelayanan dan lokasi sangat oke. yang perlu diperbaiki mungkin dari segi kebersihannya saja karena terdapat serangga di dlm kamar. ,kebersihan-neg,kebersihan,neg
+wifi lemot,wifi_P1-neg,wifi_P1,neg
+"Pelayanan nya sangaaaat tidak memuaskan, dan fasilitas hotel seperti AC tidak berfungsi dengan baik... Dan water heater wc bocor, sepertinya kebersihan toilet pun kurang di jaga",service-neg,service,neg
+"Pelayanan nya sangaaaat tidak memuaskan, dan fasilitas hotel seperti AC tidak berfungsi dengan baik... Dan water heater wc bocor, sepertinya kebersihan toilet pun kurang di jaga",ac_P1-neg,ac_P1,neg
+"Pelayanan nya sangaaaat tidak memuaskan, dan fasilitas hotel seperti AC tidak berfungsi dengan baik... Dan water heater wc bocor, sepertinya kebersihan toilet pun kurang di jaga",air_panas_P1-neg,air_panas_P1,neg
+"Pelayanan nya sangaaaat tidak memuaskan, dan fasilitas hotel seperti AC tidak berfungsi dengan baik... Dan water heater wc bocor, sepertinya kebersihan toilet pun kurang di jaga",kebersihan-neg,kebersihan,neg
+air mineral tidak tersedia.padahal harus ny sudah free air mineral 2 btl.air yg keluar dri keran sangat kecil.siaran tv banyak semut nya,linen_P1-neg,linen_P1,neg
+air mineral tidak tersedia.padahal harus ny sudah free air mineral 2 btl.air yg keluar dri keran sangat kecil.siaran tv banyak semut nya,tv_P1-neg,tv_P1,neg
+"plank airyrooms tidak tersedia dan kebersihan kamar kurang di perhatikan. menu makanan enak dan akses kemana-mana tidak susah, sekian dan terimakasih. ",linen_P1-neg,linen_P1,neg
+"plank airyrooms tidak tersedia dan kebersihan kamar kurang di perhatikan. menu makanan enak dan akses kemana-mana tidak susah, sekian dan terimakasih. ",kebersihan-neg,kebersihan,neg
+"Tempat oke. Hanya kebersihan saja perlu dijaga, saya nggak bisa reviews makanan karena tidak ada breakfast, thanks.",kebersihan-neg,kebersihan,neg
+"Tempat oke. Hanya kebersihan saja perlu dijaga, saya nggak bisa reviews makanan karena tidak ada breakfast, thanks.",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"penginapan sulit ditemukan, sangat terutup tidak ada resepsionis, pelayanan kurang, TV tidak bisa, standard sih dengan harganya",service-neg,service,neg
+"penginapan sulit ditemukan, sangat terutup tidak ada resepsionis, pelayanan kurang, TV tidak bisa, standard sih dengan harganya",tv_P1-neg,tv_P1,neg
+"Acnya tidak dingin, terus buat tenggorokan sakit, mungkin tidak pernah di bersihkan dan tidak ada lap ato majun apabila keluar dari toilet",ac_P1-neg,ac_P1,neg
+"Acnya tidak dingin, terus buat tenggorokan sakit, mungkin tidak pernah di bersihkan dan tidak ada lap ato majun apabila keluar dari toilet",kebersihan-neg,kebersihan,neg
+"Acnya tidak dingin, terus buat tenggorokan sakit, mungkin tidak pernah di bersihkan dan tidak ada lap ato majun apabila keluar dari toilet",linen_P1-neg,linen_P1,neg
+"Tidak sesuai dengan harapan. Ketika membuka kasur tarik yg ada di bawah, ditemukan tissue yg berserakan. Kebersihan di lobby dan kamar sangat kurang. AC tidak dingin.",kebersihan-neg,kebersihan,neg
+"Tidak sesuai dengan harapan. Ketika membuka kasur tarik yg ada di bawah, ditemukan tissue yg berserakan. Kebersihan di lobby dan kamar sangat kurang. AC tidak dingin.",ac_P1-neg,ac_P1,neg
+"kamar dapat paling ujung, sinyal wifi sama sekali g ada selebihnya bagus",wifi_P1-neg,wifi_P1,neg
+"kamar dapat paling ujung, sinyal wifi sama sekali g ada selebihnya bagus",general-pos,general,pos
+"Check in mudah , room bersih, dpt cemilan, hanya saja ketika check in tidak ada yg mengantar ke room.. repcetionist hanya memberi no kamar, kunci...",kebersihan-pos,kebersihan,pos
+"Check in mudah , room bersih, dpt cemilan, hanya saja ketika check in tidak ada yg mengantar ke room.. repcetionist hanya memberi no kamar, kunci...",linen_P1-pos,linen_P1,pos
+"Check in mudah , room bersih, dpt cemilan, hanya saja ketika check in tidak ada yg mengantar ke room.. repcetionist hanya memberi no kamar, kunci...",service-neg,service,neg
+"AC panas,harga makanannya mahal.luar biasa masuk ke lokasi agak jauh",ac_P1-neg,ac_P1,neg
+"kamar luas bagus nyaman, aman. minusny AC gak dingin, menginap 2 hari tp snack dan minum di berikan 1x. ",ac_P1-neg,ac_P1,neg
+"kamar luas bagus nyaman, aman. minusny AC gak dingin, menginap 2 hari tp snack dan minum di berikan 1x. ",linen_P1-neg,linen_P1,neg
+"kamar nyaman, kamar di lantai 3 tapi tidak ada lift jd harus naik turun tangga, tidak diberi perlengkapan mandi, sunrise meals tidak diberikan kalau tidak minta, air panas tidak merata",linen_P1-neg,linen_P1,neg
+"kamar nyaman, kamar di lantai 3 tapi tidak ada lift jd harus naik turun tangga, tidak diberi perlengkapan mandi, sunrise meals tidak diberikan kalau tidak minta, air panas tidak merata",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"kamar nyaman, kamar di lantai 3 tapi tidak ada lift jd harus naik turun tangga, tidak diberi perlengkapan mandi, sunrise meals tidak diberikan kalau tidak minta, air panas tidak merata",air_panas_P1-neg,air_panas_P1,neg
+"hotel bagus tapi kebersihan kurang,breakfast,kurang enak.juga tempat nya kurang bersih.kamar luas.pelayanan Ok.terima kasih airy untuk Snack dan disounnya.",kebersihan-neg,kebersihan,neg
+"hotel bagus tapi kebersihan kurang,breakfast,kurang enak.juga tempat nya kurang bersih.kamar luas.pelayanan Ok.terima kasih airy untuk Snack dan disounnya.",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"hotel bagus tapi kebersihan kurang,breakfast,kurang enak.juga tempat nya kurang bersih.kamar luas.pelayanan Ok.terima kasih airy untuk Snack dan disounnya.",service-pos,service,pos
+"hotel bagus tapi kebersihan kurang,breakfast,kurang enak.juga tempat nya kurang bersih.kamar luas.pelayanan Ok.terima kasih airy untuk Snack dan disounnya.",linen_P1-pos,linen_P1,pos
+"kamar mandi bau,................................",bau_P1-neg,bau_P1,neg
+"lokasi sangat strategis. di hotel progo. untuk cari makan sangat mudah banyak rumah makan dan warung warung kecil. untuk hotelnya, mungkin karena bangunan lama saat masuk kamar agak bau apek. lalu tidak ada lift, hanya tangga. selebihnya sangat bagus. kamar tidur dan kamar mandi bersih, sncak lengkap",bau_P1-neg,bau_P1,neg
+"lokasi sangat strategis. di hotel progo. untuk cari makan sangat mudah banyak rumah makan dan warung warung kecil. untuk hotelnya, mungkin karena bangunan lama saat masuk kamar agak bau apek. lalu tidak ada lift, hanya tangga. selebihnya sangat bagus. kamar tidur dan kamar mandi bersih, sncak lengkap",general-pos,general,pos
+"lokasi sangat strategis. di hotel progo. untuk cari makan sangat mudah banyak rumah makan dan warung warung kecil. untuk hotelnya, mungkin karena bangunan lama saat masuk kamar agak bau apek. lalu tidak ada lift, hanya tangga. selebihnya sangat bagus. kamar tidur dan kamar mandi bersih, sncak lengkap",linen_P1-pos,linen_P1,pos
+"lokasi sangat strategis. di hotel progo. untuk cari makan sangat mudah banyak rumah makan dan warung warung kecil. untuk hotelnya, mungkin karena bangunan lama saat masuk kamar agak bau apek. lalu tidak ada lift, hanya tangga. selebihnya sangat bagus. kamar tidur dan kamar mandi bersih, sncak lengkap",kebersihan-pos,kebersihan,pos
+service nya kurang memuaskan..,service-neg,service,neg
+"secara keseluruhan baik. kamar bersih, rapi dan nyaman. Dapat handuk juga. Resepsionis ramah. tetapi lampu di kamar tidak menyala semua (lampu tidur dan lampu depan), hanya lampu utama 1 buah yg menyala. dan air panas kurang optimal.",general-pos,general,pos
+"secara keseluruhan baik. kamar bersih, rapi dan nyaman. Dapat handuk juga. Resepsionis ramah. tetapi lampu di kamar tidak menyala semua (lampu tidur dan lampu depan), hanya lampu utama 1 buah yg menyala. dan air panas kurang optimal.",kebersihan-pos,kebersihan,pos
+"secara keseluruhan baik. kamar bersih, rapi dan nyaman. Dapat handuk juga. Resepsionis ramah. tetapi lampu di kamar tidak menyala semua (lampu tidur dan lampu depan), hanya lampu utama 1 buah yg menyala. dan air panas kurang optimal.",linen_P1-pos,linen_P1,pos
+"secara keseluruhan baik. kamar bersih, rapi dan nyaman. Dapat handuk juga. Resepsionis ramah. tetapi lampu di kamar tidak menyala semua (lampu tidur dan lampu depan), hanya lampu utama 1 buah yg menyala. dan air panas kurang optimal.",service-pos,service,pos
+"secara keseluruhan baik. kamar bersih, rapi dan nyaman. Dapat handuk juga. Resepsionis ramah. tetapi lampu di kamar tidak menyala semua (lampu tidur dan lampu depan), hanya lampu utama 1 buah yg menyala. dan air panas kurang optimal.",air_panas_P1-neg,air_panas_P1,neg
+"Hotelnya ternyata berbeda, kamar tidak sesuai dengan foto, tidak rapih/berantakan, kebersihan kurang",kebersihan-neg,kebersihan,neg
+Kecewa. Kamar gelap. Kamar mandi kurang bersih. Keran air terus nyala. AC mati hampir setiap 10 menit sekali. Tidak ada air minum gratis. Foto dan kondisi real tidak sesuai. Fasilitas yg dipromosikan airy dg kondisi real banyak yg tidak memuaskan.,kebersihan-neg,kebersihan,neg
+Kecewa. Kamar gelap. Kamar mandi kurang bersih. Keran air terus nyala. AC mati hampir setiap 10 menit sekali. Tidak ada air minum gratis. Foto dan kondisi real tidak sesuai. Fasilitas yg dipromosikan airy dg kondisi real banyak yg tidak memuaskan.,ac_P1-neg,ac_P1,neg
+Kecewa. Kamar gelap. Kamar mandi kurang bersih. Keran air terus nyala. AC mati hampir setiap 10 menit sekali. Tidak ada air minum gratis. Foto dan kondisi real tidak sesuai. Fasilitas yg dipromosikan airy dg kondisi real banyak yg tidak memuaskan.,linen_P1-neg,linen_P1,neg
+bersih kamarnya yg diperbaiki untuk tvnya sama parkirnya,kebersihan-pos,kebersihan,pos
+bersih kamarnya yg diperbaiki untuk tvnya sama parkirnya,tv_P1-neg,tv_P1,neg
+Air panasnya gak ada trs kamrnya kotor mineral waternya ko pake galon aqua gak hygenis kaya kos kosan bukan hotel tq,air_panas_P1-neg,air_panas_P1,neg
+Air panasnya gak ada trs kamrnya kotor mineral waternya ko pake galon aqua gak hygenis kaya kos kosan bukan hotel tq,kebersihan-neg,kebersihan,neg
+Air panasnya gak ada trs kamrnya kotor mineral waternya ko pake galon aqua gak hygenis kaya kos kosan bukan hotel tq,linen_P1-neg,linen_P1,neg
+cukup baik dari kondisi room-nya... yang sedikit mengurangi kenyamanan air panas tidak tersedia....,air_panas_P1-neg,air_panas_P1,neg
+Wifi y klo bisa diperbaiki dong..   Klo mau ngirim2 imail cpt.. ,wifi_P1-neg,wifi_P1,neg
+"pelayanan lumayan bagus.. perlu di tingkat kan lagi utk fasilitas wifi nya harus ada dari airy rooms, kmrn saya mnginap tdk di kasih wifi nya,. trims",service-pos,service,pos
+"pelayanan lumayan bagus.. perlu di tingkat kan lagi utk fasilitas wifi nya harus ada dari airy rooms, kmrn saya mnginap tdk di kasih wifi nya,. trims",wifi_P1-neg,wifi_P1,neg
+"Seperti biasa, untuk keseluruhan gak ada masalah, namun wifi terlebih breakfastnya mengecewakan",general-pos,general,pos
+"Seperti biasa, untuk keseluruhan gak ada masalah, namun wifi terlebih breakfastnya mengecewakan",wifi_P1-neg,wifi_P1,neg
+"Seperti biasa, untuk keseluruhan gak ada masalah, namun wifi terlebih breakfastnya mengecewakan",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Kamarnya bagus, hanya saja ada bau yang kurang sedap dr lubang pembuangan air kamar mandinya",bau_P1-neg,bau_P1,neg
+"secara keseluruhan pelayanan sangat memuaskan, hanya saja ac nya kurang dingin jd membuat kurang nyaman",service-pos,service,pos
+"secara keseluruhan pelayanan sangat memuaskan, hanya saja ac nya kurang dingin jd membuat kurang nyaman",ac_P1-neg,ac_P1,neg
+"Hotel agak bau, tapi overall ok.",bau_P1-neg,bau_P1,neg
+"Hotel agak bau, tapi overall ok.",general-pos,general,pos
+"Kelemahan : susah dijangkau, kbykn org tdk tau, tdk ada petunjuk yg jelas, cari lewat google map tyt salah, telfon cust. Service tp tyt kebijakan airy ga boleh ksh tau nama hotel apa dan patokan lokasi dimana, seprei dan sarung bantal sudah kumal, sensor T",linen_P1-neg,linen_P1,neg
+"Kelemahan : susah dijangkau, kbykn org tdk tau, tdk ada petunjuk yg jelas, cari lewat google map tyt salah, telfon cust. Service tp tyt kebijakan airy ga boleh ksh tau nama hotel apa dan patokan lokasi dimana, seprei dan sarung bantal sudah kumal, sensor T",kebersihan-neg,kebersihan,neg
+"transportasi umum agak sulit, password wifi tidak di infokan saat check in,",service-neg,service,neg
+kurang bersih,kebersihan-neg,kebersihan,neg
+"snack yg di sajikan hampir kadaluawarsa , ketika dimakan sudah tidak enak . dan tidak ada sisir di dalam poket mandi . untuk kebersihan sangat nyaman dan bersih ",linen_P1-neg,linen_P1,neg
+"snack yg di sajikan hampir kadaluawarsa , ketika dimakan sudah tidak enak . dan tidak ada sisir di dalam poket mandi . untuk kebersihan sangat nyaman dan bersih ",kebersihan-pos,kebersihan,pos
+Cukup baik. Tp stafnya kurang cekatan menanggapi masalah.,service-neg,service,neg
+"bagus, cuma bonus jajannya gak sebanyak pas nginep airy rooms di yogya.. ",linen_P1-neg,linen_P1,neg
+"bagus banget karna ada kukas mini dan kamar mandi bersih banget, tapi sarapannya kurang enak karna hanya mie dan telur rebus saos sedangkan ada yg tdk mkn mie, serta wifinya tdk bisa terpakai. tolong diperbagus lagi.yg jelas untuk kamar bagus banget ",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"bagus banget karna ada kukas mini dan kamar mandi bersih banget, tapi sarapannya kurang enak karna hanya mie dan telur rebus saos sedangkan ada yg tdk mkn mie, serta wifinya tdk bisa terpakai. tolong diperbagus lagi.yg jelas untuk kamar bagus banget ",wifi_P1-neg,wifi_P1,neg
+"bagus banget karna ada kukas mini dan kamar mandi bersih banget, tapi sarapannya kurang enak karna hanya mie dan telur rebus saos sedangkan ada yg tdk mkn mie, serta wifinya tdk bisa terpakai. tolong diperbagus lagi.yg jelas untuk kamar bagus banget ",kebersihan-pos,kebersihan,pos
+"kalau untuk kamarnya sangat nyaman untuk breakfastnya menunya lebih diperbanyak lagi dan untuk airnya, saya kurang mengerti apakah memang kamar mandinya yang bau atau airnya yang bau, untuk pintu kamarnya mohon di cek kembali karena saya mendapat kamar yang sangat sulit untuk di kunci pintu kamarnya untuk yang lainnya sudah bagus",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"kalau untuk kamarnya sangat nyaman untuk breakfastnya menunya lebih diperbanyak lagi dan untuk airnya, saya kurang mengerti apakah memang kamar mandinya yang bau atau airnya yang bau, untuk pintu kamarnya mohon di cek kembali karena saya mendapat kamar yang sangat sulit untuk di kunci pintu kamarnya untuk yang lainnya sudah bagus",bau_P1-neg,bau_P1,neg
+"kalau untuk kamarnya sangat nyaman untuk breakfastnya menunya lebih diperbanyak lagi dan untuk airnya, saya kurang mengerti apakah memang kamar mandinya yang bau atau airnya yang bau, untuk pintu kamarnya mohon di cek kembali karena saya mendapat kamar yang sangat sulit untuk di kunci pintu kamarnya untuk yang lainnya sudah bagus",general-pos,general,pos
+"yang perlu diperbaiki, mohon disiapkan sapu lantai untuk membersihkan kamar, dan tempat sabun di kamar mandi masih kotor, jadi jorok ngeliat nya.. tapi sejauh ini pelayanan baik, dan ramah.. trimaksih airyroom... ",kebersihan-neg,kebersihan,neg
+"yang perlu diperbaiki, mohon disiapkan sapu lantai untuk membersihkan kamar, dan tempat sabun di kamar mandi masih kotor, jadi jorok ngeliat nya.. tapi sejauh ini pelayanan baik, dan ramah.. trimaksih airyroom... ",service-pos,service,pos
+"Cukup,  baik. Yang mesti ditingkatkan AC kurang dingin dan Klo boleh usul pihak AiryRooms menyediakan Sendal. ",ac_P1-neg,ac_P1,neg
+"Cukup,  baik. Yang mesti ditingkatkan AC kurang dingin dan Klo boleh usul pihak AiryRooms menyediakan Sendal. ",linen_P1-neg,linen_P1,neg
+internetnya tolong,wifi_P1-neg,wifi_P1,neg
+"hotel biasa saja, air hangat ok, wifi kurang, sarapan lumayan. Kwcewa dengan snack yang disediain airy, sdh expired.",air_panas_P1-pos,air_panas_P1,pos
+"hotel biasa saja, air hangat ok, wifi kurang, sarapan lumayan. Kwcewa dengan snack yang disediain airy, sdh expired.",wifi_P1-neg,wifi_P1,neg
+"hotel biasa saja, air hangat ok, wifi kurang, sarapan lumayan. Kwcewa dengan snack yang disediain airy, sdh expired.",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"hotel biasa saja, air hangat ok, wifi kurang, sarapan lumayan. Kwcewa dengan snack yang disediain airy, sdh expired.",linen_P1-neg,linen_P1,neg
+"kamar bersih, cuma kurang wangi, dapat cemilan dr Airy. ",kebersihan-pos,kebersihan,pos
+"kamar bersih, cuma kurang wangi, dapat cemilan dr Airy. ",bau_P1-neg,bau_P1,neg
+"kamar bersih, cuma kurang wangi, dapat cemilan dr Airy. ",linen_P1-pos,linen_P1,pos
+"tidak sesuai standart airy,springbed masih dikasih plastik so tidak nyaman, tanpa televisi, tanpa air minum kemasan sangat2 mengecewakan",linen_P1-neg,linen_P1,neg
+"tidak sesuai standart airy,springbed masih dikasih plastik so tidak nyaman, tanpa televisi, tanpa air minum kemasan sangat2 mengecewakan",tv_P1-neg,tv_P1,neg
+"kebersihan kurang ya, sama kalau membeli makanan susah, jauh dari hotel ",kebersihan-neg,kebersihan,neg
+"kamar mandi kecil dan mungkin jarang dibersihkan jd tiba tiba ada kecoa dll, internet mati hidup mulu, ruang kamar so so lah .. yang pasti berisik karena dpt kamar yg paling depan dan anak kosannya berisik aja gtuh .. dapurnya ya so so sih .. ya kalo buat customer yg hanya butuh tempat tidur malem yg murah sih gak masalah ..",kebersihan-neg,kebersihan,neg
+"kamar mandi kecil dan mungkin jarang dibersihkan jd tiba tiba ada kecoa dll, internet mati hidup mulu, ruang kamar so so lah .. yang pasti berisik karena dpt kamar yg paling depan dan anak kosannya berisik aja gtuh .. dapurnya ya so so sih .. ya kalo buat customer yg hanya butuh tempat tidur malem yg murah sih gak masalah ..",wifi_P1-neg,wifi_P1,neg
+"kamar terlalu kecil... gak ada fasilitas musholla.. masjid juga lumayan jauh... QC fasilitas kurang... sperti tv led nya gambarnya udah rusak gak diganti... kalau sekedar untuk numpang tdur sich lmayan, gak ada jendelanya room standard... 😂... air minum panas ada dispenser... sayang gelasnya gak ada.. dan brada di lantai bawah 👇... nilai 6 dr 10 ",tv_P1-neg,tv_P1,neg
+"kamar terlalu kecil... gak ada fasilitas musholla.. masjid juga lumayan jauh... QC fasilitas kurang... sperti tv led nya gambarnya udah rusak gak diganti... kalau sekedar untuk numpang tdur sich lmayan, gak ada jendelanya room standard... 😂... air minum panas ada dispenser... sayang gelasnya gak ada.. dan brada di lantai bawah 👇... nilai 6 dr 10 ",linen_P1-neg,linen_P1,neg
+"baik, bersih, tp dikmr mandi hrus lebih bersih lg krna kadang gatal ",kebersihan-neg,kebersihan,neg
+Air panas kurang berfungsi baik..tp overall ok..Thank you Airy,air_panas_P1-neg,air_panas_P1,neg
+Air panas kurang berfungsi baik..tp overall ok..Thank you Airy,general-pos,general,pos
+"(-) pintu toilet rusak, ada asbak dan bau asap rokok, wifi tdk berfungsi (+) dekat dengan mall, mudah cari makan di sekitar, bersih, ac berfungsi, water heater berfungsi, over all score 7",bau_P1-neg,bau_P1,neg
+"(-) pintu toilet rusak, ada asbak dan bau asap rokok, wifi tdk berfungsi (+) dekat dengan mall, mudah cari makan di sekitar, bersih, ac berfungsi, water heater berfungsi, over all score 7",kebersihan-pos,kebersihan,pos
+"(-) pintu toilet rusak, ada asbak dan bau asap rokok, wifi tdk berfungsi (+) dekat dengan mall, mudah cari makan di sekitar, bersih, ac berfungsi, water heater berfungsi, over all score 7",ac_P1-pos,ac_P1,pos
+"(-) pintu toilet rusak, ada asbak dan bau asap rokok, wifi tdk berfungsi (+) dekat dengan mall, mudah cari makan di sekitar, bersih, ac berfungsi, water heater berfungsi, over all score 7",air_panas_P1-pos,air_panas_P1,pos
+kamar luas.namun kurang bersih dan rapih.wifi susah conect. dengan alasan gangguan jaringan.,kebersihan-neg,kebersihan,neg
+kamar luas.namun kurang bersih dan rapih.wifi susah conect. dengan alasan gangguan jaringan.,wifi_P1-neg,wifi_P1,neg
+kurang air hangat buat mandi,air_panas_P1-neg,air_panas_P1,neg
+kamar sangat nyaman untuk tidur. gedungnya bagus. kamarnya bagus. fasilitas cukup. namun lantai kurang bersih. pembuangan air juga mudah menggenang. sarapannya kurang menarik. pelayanan cukup baik :),kebersihan-neg,kebersihan,neg
+kamar sangat nyaman untuk tidur. gedungnya bagus. kamarnya bagus. fasilitas cukup. namun lantai kurang bersih. pembuangan air juga mudah menggenang. sarapannya kurang menarik. pelayanan cukup baik :),sunrise_meal_P1-neg,sunrise_meal_P1,neg
+kamar sangat nyaman untuk tidur. gedungnya bagus. kamarnya bagus. fasilitas cukup. namun lantai kurang bersih. pembuangan air juga mudah menggenang. sarapannya kurang menarik. pelayanan cukup baik :),service-pos,service,pos
+Kamar (#209) berbau apek ketika pertama kali masuk. Nampaknya sudah lama tidak ditempati dan AC lama tidak dinyalakan. Akhirnya kami meminta pewangi ruangan untu menetralisir bau apek di kamar. Bookingan kamar kami tidak mendapat sarapan sehingga bintang d,bau_P1-neg,bau_P1,neg
+Kamar (#209) berbau apek ketika pertama kali masuk. Nampaknya sudah lama tidak ditempati dan AC lama tidak dinyalakan. Akhirnya kami meminta pewangi ruangan untu menetralisir bau apek di kamar. Bookingan kamar kami tidak mendapat sarapan sehingga bintang d,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Kamar Nyaman dan Bersih. Kamar mandi oke. wifi belum nyobain. cuma karna dapat di lantai 3, lumayan capek juga turun naik.",kebersihan-pos,kebersihan,pos
+"Semua oke kecuali kamar mandi. Mulai dari pintu yang sudah jebol pintunya, flush & shower toilet bermasalah, hot water tidak bisa diatur panas terus",general-pos,general,pos
+"Semua oke kecuali kamar mandi. Mulai dari pintu yang sudah jebol pintunya, flush & shower toilet bermasalah, hot water tidak bisa diatur panas terus",air_panas_P1-neg,air_panas_P1,neg
+"ruangnya lega, fasilitasnya lengkap, pelayanan kurang ramah",service-neg,service,neg
+"biasa aja, sprei apek, kamar mandi agak kotor, tembok kamar mandi mengelupas",linen_P1-neg,linen_P1,neg
+"biasa aja, sprei apek, kamar mandi agak kotor, tembok kamar mandi mengelupas",kebersihan-neg,kebersihan,neg
+"tidak ada fasilitas airy room nya, kamar cukup besar tapi hampa, shower tdk ada hot nya, ",air_panas_P1-neg,air_panas_P1,neg
+"tidak ada fasilitas airy room nya, kamar cukup besar tapi hampa, shower tdk ada hot nya, ",linen_P1-neg,linen_P1,neg
+lokasi dekat keramaian. wifi tdk bisa connect over all bagus sesuai dengan harga,wifi_P1-neg,wifi_P1,neg
+lokasi dekat keramaian. wifi tdk bisa connect over all bagus sesuai dengan harga,general-pos,general,pos
+"Tidak ada air panas, handuk di kamar mandi tidak di provide dan harus beberapa kali request. Kamar tidak sepenuhnya ready saat check-in. Snack bites tidak di tata rapi di kotaknya; diberikan langsung ke kami saat memberikan handuk.",air_panas_P1-neg,air_panas_P1,neg
+"Tidak ada air panas, handuk di kamar mandi tidak di provide dan harus beberapa kali request. Kamar tidak sepenuhnya ready saat check-in. Snack bites tidak di tata rapi di kotaknya; diberikan langsung ke kami saat memberikan handuk.",linen_P1-neg,linen_P1,neg
+"Tidak ada air panas, handuk di kamar mandi tidak di provide dan harus beberapa kali request. Kamar tidak sepenuhnya ready saat check-in. Snack bites tidak di tata rapi di kotaknya; diberikan langsung ke kami saat memberikan handuk.",service-neg,service,neg
+acnye panas,ac_P1-neg,ac_P1,neg
+Pelayanannya tidak memuaskan Dan room meidnya tidak berpengalaman di bidang perhotelan,service-neg,service,neg
+"Pelayanan  baik, kebersihan lumayan tapi sebaiknya ditingkatkan lagi, sarapan lumayan, luas kamar lumayan. Terima kasih airy",service-pos,service,pos
+"Pelayanan  baik, kebersihan lumayan tapi sebaiknya ditingkatkan lagi, sarapan lumayan, luas kamar lumayan. Terima kasih airy",kebersihan-neg,kebersihan,neg
+"Pelayanan  baik, kebersihan lumayan tapi sebaiknya ditingkatkan lagi, sarapan lumayan, luas kamar lumayan. Terima kasih airy",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"kamarnya sempit ,kamar mandi sempit , ac suka mati sendiri ,mungkin sudah waktunya Servicr berkala",ac_P1-neg,ac_P1,neg
+"Kulkas yang tidak berfungsi, air panas tidak berfungsi ",air_panas_P1-neg,air_panas_P1,neg
+"breakfast perlu d tingkatkan,  kebersihan kamar kurang,  toilet berbau kurang sedap,  handuk tidak d siapkan dan harus request",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"breakfast perlu d tingkatkan,  kebersihan kamar kurang,  toilet berbau kurang sedap,  handuk tidak d siapkan dan harus request",kebersihan-neg,kebersihan,neg
+"breakfast perlu d tingkatkan,  kebersihan kamar kurang,  toilet berbau kurang sedap,  handuk tidak d siapkan dan harus request",linen_P1-neg,linen_P1,neg
+"kamar rapi & bersih, tapi tisu toilet lupa tidak disediakan spare, pelayanan front office ramah namun ketika pesan makanan untuk diantar ke kamar petugasnya judes",kebersihan-pos,kebersihan,pos
+"kamar rapi & bersih, tapi tisu toilet lupa tidak disediakan spare, pelayanan front office ramah namun ketika pesan makanan untuk diantar ke kamar petugasnya judes",linen_P1-neg,linen_P1,neg
+"kamar rapi & bersih, tapi tisu toilet lupa tidak disediakan spare, pelayanan front office ramah namun ketika pesan makanan untuk diantar ke kamar petugasnya judes",service-neg,service,neg
+ACnya kurang dingin,ac_P1-neg,ac_P1,neg
+"Sepertinya sprei tidak diganti, hanya dirapika ",linen_P1-neg,linen_P1,neg
+Tempatnya nyaman & bersih namun sayang ACnya kurang dingin & perlu perawatan ataupun diganti..,ac_P1-neg,ac_P1,neg
+Tempatnya nyaman & bersih namun sayang ACnya kurang dingin & perlu perawatan ataupun diganti..,kebersihan-pos,kebersihan,pos
+"ac nya cuma angin doank jadi berasa panas banget ruangannya padahal udh dipanggil teknisi tapi tetap saja ac nya cuma angin doank jadi tetap panas ruangannya, mengecewakan sekali ",ac_P1-neg,ac_P1,neg
+Kamar lebih dibersihkan. Ada semut di kasur,kebersihan-neg,kebersihan,neg
+"karena saya ambil ya no breakfast, jadi tidak tahu rasanya makanannya...wifi nya kurang kenceng speed nya",wifi_P1-neg,wifi_P1,neg
+"Lokasi susah d cari, pelayanan kurang, sepi dan akses susah",service-neg,service,neg
+kebersihan kamar perlu ditingkatkan. selebihnya bagus.,kebersihan-neg,kebersihan,neg
+kebersihan kamar perlu ditingkatkan. selebihnya bagus.,general-pos,general,pos
+"yg perlu di perbaiki tv, suaranyabaik turun sendiri...",tv_P1-neg,tv_P1,neg
+"Kamar terlalu sempit, kamar mandi becek, handuk kumel butut, banyak nyamuk, mahal",kebersihan-neg,kebersihan,neg
+"Kamar terlalu sempit, kamar mandi becek, handuk kumel butut, banyak nyamuk, mahal",linen_P1-neg,linen_P1,neg
+"kamar bersih, nyaman, staf ramah, dekat cafe yg perlu diperbaiki air hangat kadang tidak keluar, wifi tidak sampai kamar, handuk bau apek (tidak harum)",kebersihan-pos,kebersihan,pos
+"kamar bersih, nyaman, staf ramah, dekat cafe yg perlu diperbaiki air hangat kadang tidak keluar, wifi tidak sampai kamar, handuk bau apek (tidak harum)",service-pos,service,pos
+"kamar bersih, nyaman, staf ramah, dekat cafe yg perlu diperbaiki air hangat kadang tidak keluar, wifi tidak sampai kamar, handuk bau apek (tidak harum)",air_panas_P1-neg,air_panas_P1,neg
+"kamar bersih, nyaman, staf ramah, dekat cafe yg perlu diperbaiki air hangat kadang tidak keluar, wifi tidak sampai kamar, handuk bau apek (tidak harum)",wifi_P1-neg,wifi_P1,neg
+"kamar bersih, nyaman, staf ramah, dekat cafe yg perlu diperbaiki air hangat kadang tidak keluar, wifi tidak sampai kamar, handuk bau apek (tidak harum)",linen_P1-neg,linen_P1,neg
+"walau kebersihan kamar kurang baik,penerangan lampu gelap,tapi ada kelebihannya yaitu kolam renang",kebersihan-neg,kebersihan,neg
+Airy dpt kamar di ruangan tertutup..  bau tikus,bau_P1-neg,bau_P1,neg
+"terima kasih airy dan rumah casa. Kamar diupgrade ke junior suite, bisa jadi langganan terus nih. Kamarnya bersih dan wangi, cma sayang kamar mandinya ndak dikasih kamper, jadi bau got. Air panasnya lanacar, tekanan air besar enak buat pijat badan. Breakfastnya cukup enak cma sayang kita masih nunggu buat dimasakin.",kebersihan-pos,kebersihan,pos
+"terima kasih airy dan rumah casa. Kamar diupgrade ke junior suite, bisa jadi langganan terus nih. Kamarnya bersih dan wangi, cma sayang kamar mandinya ndak dikasih kamper, jadi bau got. Air panasnya lanacar, tekanan air besar enak buat pijat badan. Breakfastnya cukup enak cma sayang kita masih nunggu buat dimasakin.",bau_P1-neg,bau_P1,neg
+"terima kasih airy dan rumah casa. Kamar diupgrade ke junior suite, bisa jadi langganan terus nih. Kamarnya bersih dan wangi, cma sayang kamar mandinya ndak dikasih kamper, jadi bau got. Air panasnya lanacar, tekanan air besar enak buat pijat badan. Breakfastnya cukup enak cma sayang kita masih nunggu buat dimasakin.",air_panas_P1-pos,air_panas_P1,pos
+"terima kasih airy dan rumah casa. Kamar diupgrade ke junior suite, bisa jadi langganan terus nih. Kamarnya bersih dan wangi, cma sayang kamar mandinya ndak dikasih kamper, jadi bau got. Air panasnya lanacar, tekanan air besar enak buat pijat badan. Breakfastnya cukup enak cma sayang kita masih nunggu buat dimasakin.",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"terima kasih airy dan rumah casa. Kamar diupgrade ke junior suite, bisa jadi langganan terus nih. Kamarnya bersih dan wangi, cma sayang kamar mandinya ndak dikasih kamper, jadi bau got. Air panasnya lanacar, tekanan air besar enak buat pijat badan. Breakfastnya cukup enak cma sayang kita masih nunggu buat dimasakin.",service-neg,service,neg
+"terimakasih , untuk kedepanya sinyal wifi di bnerin, bersih dan nyaman, ",wifi_P1-neg,wifi_P1,neg
+"terimakasih , untuk kedepanya sinyal wifi di bnerin, bersih dan nyaman, ",kebersihan-pos,kebersihan,pos
+"Kamar kotor, saluran kamar mandi mampet, air kotor keluar dari kamar mandi. Terpaksa pindah hotel.",kebersihan-neg,kebersihan,neg
+tempatnya bersih cuma seharusnya mungkin bisa lebih wangi dan lebih dingin AC nya,kebersihan-pos,kebersihan,pos
+tempatnya bersih cuma seharusnya mungkin bisa lebih wangi dan lebih dingin AC nya,bau_P1-neg,bau_P1,neg
+tempatnya bersih cuma seharusnya mungkin bisa lebih wangi dan lebih dingin AC nya,ac_P1-neg,ac_P1,neg
+staff ramah tapi handuk kurang bersih. ,service-pos,service,pos
+staff ramah tapi handuk kurang bersih. ,linen_P1-neg,linen_P1,neg
+staff ramah tapi handuk kurang bersih. ,kebersihan-neg,kebersihan,neg
+ga ada ac nyaa ama tisue toiletnya,ac_P1-neg,ac_P1,neg
+ga ada ac nyaa ama tisue toiletnya,linen_P1-neg,linen_P1,neg
+"Pertama ke sini gak sebagus kayak sekarang .  sekarang audah di renovasi, makin baik..TV cukup gede dengan luar kamar seperti itu, AC dingin, dan kamar bersih. Tp Air dinginnya sempat mati, jd mandi nya pake air panas yg dibiarkan dulu di bak mandi.. tp secara keseluruhan BAIK dan recommended banget si.... trus tq b/ airy room unt diskon 50% nya.",tv_P1-pos,tv_P1,pos
+"Pertama ke sini gak sebagus kayak sekarang .  sekarang audah di renovasi, makin baik..TV cukup gede dengan luar kamar seperti itu, AC dingin, dan kamar bersih. Tp Air dinginnya sempat mati, jd mandi nya pake air panas yg dibiarkan dulu di bak mandi.. tp secara keseluruhan BAIK dan recommended banget si.... trus tq b/ airy room unt diskon 50% nya.",ac_P1-pos,ac_P1,pos
+"Pertama ke sini gak sebagus kayak sekarang .  sekarang audah di renovasi, makin baik..TV cukup gede dengan luar kamar seperti itu, AC dingin, dan kamar bersih. Tp Air dinginnya sempat mati, jd mandi nya pake air panas yg dibiarkan dulu di bak mandi.. tp secara keseluruhan BAIK dan recommended banget si.... trus tq b/ airy room unt diskon 50% nya.",kebersihan-pos,kebersihan,pos
+"Pertama ke sini gak sebagus kayak sekarang .  sekarang audah di renovasi, makin baik..TV cukup gede dengan luar kamar seperti itu, AC dingin, dan kamar bersih. Tp Air dinginnya sempat mati, jd mandi nya pake air panas yg dibiarkan dulu di bak mandi.. tp secara keseluruhan BAIK dan recommended banget si.... trus tq b/ airy room unt diskon 50% nya.",air_panas_P1-neg,air_panas_P1,neg
+"Pertama ke sini gak sebagus kayak sekarang .  sekarang audah di renovasi, makin baik..TV cukup gede dengan luar kamar seperti itu, AC dingin, dan kamar bersih. Tp Air dinginnya sempat mati, jd mandi nya pake air panas yg dibiarkan dulu di bak mandi.. tp secara keseluruhan BAIK dan recommended banget si.... trus tq b/ airy room unt diskon 50% nya.",general-pos,general,pos
+tempatnya bersih dan nyaman mungkin chanel tv hrs di perbaiki karena chanelnya dikit dan kadang tidak bersuara,kebersihan-pos,kebersihan,pos
+tempatnya bersih dan nyaman mungkin chanel tv hrs di perbaiki karena chanelnya dikit dan kadang tidak bersuara,tv_P1-neg,tv_P1,neg
+pelayanan baik. yg perlu diperbaiki fasilitas waterheater Dan kebersihkan koridor,air_panas_P1-neg,air_panas_P1,neg
+pelayanan baik. yg perlu diperbaiki fasilitas waterheater Dan kebersihkan koridor,service-pos,service,pos
+"bersih, nyaman, cuma di kamar 207 ac nya kurang sejuk..",kebersihan-pos,kebersihan,pos
+"bersih, nyaman, cuma di kamar 207 ac nya kurang sejuk..",ac_P1-neg,ac_P1,neg
+nyaman tempatnya...strategis....tp air kadang gak lancar....air panasnya kadang mati,air_panas_P1-neg,air_panas_P1,neg
+"Ruangan luas, Kebersihan lumayan, Ac jos, pilihan channel tv dikit sih, akses ke kota juga lumayan... overall memuaskan koq... ",kebersihan-pos,kebersihan,pos
+"Ruangan luas, Kebersihan lumayan, Ac jos, pilihan channel tv dikit sih, akses ke kota juga lumayan... overall memuaskan koq... ",tv_P1-neg,tv_P1,neg
+"Ruangan luas, Kebersihan lumayan, Ac jos, pilihan channel tv dikit sih, akses ke kota juga lumayan... overall memuaskan koq... ",general-pos,general,pos
+"Ruangan luas, Kebersihan lumayan, Ac jos, pilihan channel tv dikit sih, akses ke kota juga lumayan... overall memuaskan koq... ",ac_P1-pos,ac_P1,pos
+"Ramah, bersih, AC nya HOT di kamar 207  sayangnya Cafetaria nya tutup cepat jam 21.00. saran, kalo cman order minuman Cepat saji (kopi,teh,susu dll diharapkan cafetaria nya buka. kan lumayan juga Omzet... TQ UMA",service-pos,service,pos
+"Ramah, bersih, AC nya HOT di kamar 207  sayangnya Cafetaria nya tutup cepat jam 21.00. saran, kalo cman order minuman Cepat saji (kopi,teh,susu dll diharapkan cafetaria nya buka. kan lumayan juga Omzet... TQ UMA",kebersihan-pos,kebersihan,pos
+"Ramah, bersih, AC nya HOT di kamar 207  sayangnya Cafetaria nya tutup cepat jam 21.00. saran, kalo cman order minuman Cepat saji (kopi,teh,susu dll diharapkan cafetaria nya buka. kan lumayan juga Omzet... TQ UMA",ac_P1-neg,ac_P1,neg
+channel tv nya kalo bisa diperbanyak. kmrn hanya 2 channel yg aktif.,tv_P1-neg,tv_P1,neg
+kamarnya bersih sesuai di gambar tapi sayangnya kamar yang saya pesan shower mandi tidak ada air panas. ,kebersihan-pos,kebersihan,pos
+kamarnya bersih sesuai di gambar tapi sayangnya kamar yang saya pesan shower mandi tidak ada air panas. ,air_panas_P1-neg,air_panas_P1,neg
+Air panasnya tidak stabil panasnya.,air_panas_P1-neg,air_panas_P1,neg
+"lantai kamar mandi dan lanta kamar kurang bersih, terasa licin.",kebersihan-neg,kebersihan,neg
+"Bersih dan ramah petugasnya. Lampu kamar ga bisa dimatikan, cuma bisa mati kalau kartu dilepas. wifi kurang kencang.",kebersihan-pos,kebersihan,pos
+"Bersih dan ramah petugasnya. Lampu kamar ga bisa dimatikan, cuma bisa mati kalau kartu dilepas. wifi kurang kencang.",service-pos,service,pos
+"Bersih dan ramah petugasnya. Lampu kamar ga bisa dimatikan, cuma bisa mati kalau kartu dilepas. wifi kurang kencang.",wifi_P1-neg,wifi_P1,neg
+untuk makan pagi selalu terlambat,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+Complimentarynya bagus tapi kebersihan kamar mandi perlu ditingkatkan,linen_P1-pos,linen_P1,pos
+Complimentarynya bagus tapi kebersihan kamar mandi perlu ditingkatkan,kebersihan-neg,kebersihan,neg
+"Kamar mandi toilet setelah di flush akan mengeluarkan bunyi air yang sangat menganggu. Jet spray toilet terlalu kencang airnya tidak bisa diatur. Sofa kurang nyaman buat duduk, yang lain sudah ok.",general-pos,general,pos
+"Waktu saya mau cek in, tnyt saya belum terdaftar di hotel ini. Padahal saya sudah pesan jauh hari via traveloka dan sudah lunas. Kamar saya AC nya rusak, TV juga rusak. Kamar terasa sangat lembab dan pengap karena AC sama sekali tidak dingin. Lampu sangat ",ac_P1-neg,ac_P1,neg
+"Waktu saya mau cek in, tnyt saya belum terdaftar di hotel ini. Padahal saya sudah pesan jauh hari via traveloka dan sudah lunas. Kamar saya AC nya rusak, TV juga rusak. Kamar terasa sangat lembab dan pengap karena AC sama sekali tidak dingin. Lampu sangat ",tv_P1-neg,tv_P1,neg
+"Waktu saya mau cek in, tnyt saya belum terdaftar di hotel ini. Padahal saya sudah pesan jauh hari via traveloka dan sudah lunas. Kamar saya AC nya rusak, TV juga rusak. Kamar terasa sangat lembab dan pengap karena AC sama sekali tidak dingin. Lampu sangat ",bau_P1-neg,bau_P1,neg
+"kamar ok..standar,,kmar mandi bersih,cuma agak bau,sarapan mi goreng,telur kecap,sop sayur,roti tawar,salad(bwang bombay,tomat,selada),kopi,teh kolam renang bagus.. biasany dpt snack box dr airy tp dsini g dpt..",kebersihan-pos,kebersihan,pos
+"kamar ok..standar,,kmar mandi bersih,cuma agak bau,sarapan mi goreng,telur kecap,sop sayur,roti tawar,salad(bwang bombay,tomat,selada),kopi,teh kolam renang bagus.. biasany dpt snack box dr airy tp dsini g dpt..",bau_P1-neg,bau_P1,neg
+"kamar ok..standar,,kmar mandi bersih,cuma agak bau,sarapan mi goreng,telur kecap,sop sayur,roti tawar,salad(bwang bombay,tomat,selada),kopi,teh kolam renang bagus.. biasany dpt snack box dr airy tp dsini g dpt..",linen_P1-neg,linen_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",linen_P1-neg,linen_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",kebersihan-neg,kebersihan,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",bau_P1-neg,bau_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",air_panas_P1-neg,air_panas_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",tv_P1-neg,tv_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",ac_P1-neg,ac_P1,neg
+"Sprei kotor, sampah dari pengunjung sebelumnya tidak dibuang, kamar mandi bau, closet ada kotorannya, shower mati, ga ada air hangat, TV tabung gambar semut doang, AC jadul tanpa remote, peralatan mandi tidak diganti, lantai bersemut. Ketika saya komplain malah ownernya marah-marah. Terima kasih, Airy :)",service-neg,service,neg
+"Tempatnya nyaman, petugas ramah, fasilitas lengkap dan dalam kondisi baik semua. Kebersihan lebih ditingkatkan terutapa pada lantai kamar bawah kasur dan di lantai kamar mandi. ",service-pos,service,pos
+"Tempatnya nyaman, petugas ramah, fasilitas lengkap dan dalam kondisi baik semua. Kebersihan lebih ditingkatkan terutapa pada lantai kamar bawah kasur dan di lantai kamar mandi. ",kebersihan-neg,kebersihan,neg
+hotelnya bagus sih bersih pelayanan nya juga bagus ramah ramah orgnya cuman air panas nya lama bgt deh dan view kalau buka jendela jlek bngt atap warga ajaa,kebersihan-pos,kebersihan,pos
+hotelnya bagus sih bersih pelayanan nya juga bagus ramah ramah orgnya cuman air panas nya lama bgt deh dan view kalau buka jendela jlek bngt atap warga ajaa,service-pos,service,pos
+hotelnya bagus sih bersih pelayanan nya juga bagus ramah ramah orgnya cuman air panas nya lama bgt deh dan view kalau buka jendela jlek bngt atap warga ajaa,air_panas_P1-neg,air_panas_P1,neg
+bagus. tp yg punya kepo banget,service-neg,service,neg
+"kamar sempit, gak ad jendelanya, air panasnya mati",air_panas_P1-neg,air_panas_P1,neg
+"Tidak memenuhi standart airy room. Air panas tidak menyala, selimut tipis, TV kecil.",air_panas_P1-neg,air_panas_P1,neg
+"Tidak memenuhi standart airy room. Air panas tidak menyala, selimut tipis, TV kecil.",linen_P1-neg,linen_P1,neg
+"Tidak memenuhi standart airy room. Air panas tidak menyala, selimut tipis, TV kecil.",tv_P1-neg,tv_P1,neg
+lokasi cukup strategis dekat dengan tol. untuk sarapan biasa saja. saran aja untuk petugas restoran harus lebih ramah lagi.,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+lokasi cukup strategis dekat dengan tol. untuk sarapan biasa saja. saran aja untuk petugas restoran harus lebih ramah lagi.,service-neg,service,neg
+"Murah dan nyaman, hanya saja d kamar mandi saluran pembuangan airnya kurang lancar ya...jadi kaya kebanjiran gitu... Semua intinya ok lah...d tingkatkan lagi ya. Thnks",kebersihan-neg,kebersihan,neg
+"Murah dan nyaman, hanya saja d kamar mandi saluran pembuangan airnya kurang lancar ya...jadi kaya kebanjiran gitu... Semua intinya ok lah...d tingkatkan lagi ya. Thnks",general-pos,general,pos
+"Cek in harus nunggu lama, pas di kasih kamar TV jelek tidak ada gambar sama sekali",service-neg,service,neg
+"Cek in harus nunggu lama, pas di kasih kamar TV jelek tidak ada gambar sama sekali",tv_P1-neg,tv_P1,neg
+tolong sarapan diperbaiki. karena jam 8 pagi sudah tidak ada gelas untuk kopi. sendok kecil juga habis. petugas sudah bersih 2,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"mantapp, cuman wifinya aja tolong di perbaikin.",wifi_P1-neg,wifi_P1,neg
+"kali ini payah, acnya panas, spertinya ga diservis, dicek dong freonnya. matang ni badan di panggang",ac_P1-neg,ac_P1,neg
+kamarnya lega dan bersih. hanya closetnya kotor/lama jd terasa tdk nyaman,kebersihan-neg,kebersihan,neg
+"Kamarnya banyak nyamuk dan sedikit kotor, kamar mandiny sempit dan air pembuangannya menggenang setelah dipakai mandi..AC bocor..Kecewa deh sama kualitas kamarnya..",kebersihan-neg,kebersihan,neg
+"Kamarnya banyak nyamuk dan sedikit kotor, kamar mandiny sempit dan air pembuangannya menggenang setelah dipakai mandi..AC bocor..Kecewa deh sama kualitas kamarnya..",ac_P1-neg,ac_P1,neg
+"sedikit tidak seperti ekspektasi sih, ternyata ruangannya lebih sempit. Kamar mandi tidak bersih, pada daerah tidak terjangkau seperti dibalik kloset masih ada sampah tisu yang kotor.",kebersihan-neg,kebersihan,neg
+"Baik, minusnya cuman di air panasnya kurang berfungsi dengan baik",air_panas_P1-neg,air_panas_P1,neg
+"tidak ada kran air panas, tidak ada Wi-Fi, tidak ada tempat sampah di kamar, tidak ada wastafel, tidak ada tempat parkir (parkir di pinggir jalan), tangga terlalu curam, kamar tidak kedap suara jadi berisik....really not recomended 😥",air_panas_P1-neg,air_panas_P1,neg
+"tidak ada kran air panas, tidak ada Wi-Fi, tidak ada tempat sampah di kamar, tidak ada wastafel, tidak ada tempat parkir (parkir di pinggir jalan), tangga terlalu curam, kamar tidak kedap suara jadi berisik....really not recomended 😥",wifi_P1-neg,wifi_P1,neg
+"tidak ada kran air panas, tidak ada Wi-Fi, tidak ada tempat sampah di kamar, tidak ada wastafel, tidak ada tempat parkir (parkir di pinggir jalan), tangga terlalu curam, kamar tidak kedap suara jadi berisik....really not recomended 😥",linen_P1-neg,linen_P1,neg
+toioetnya bau sekali dan aksesnya sedikit susah,bau_P1-neg,bau_P1,neg
+"Overall cukup baik, pelayanan ramah, fasilitas airy (bantal biru, snack) lengkap dan tempatnya nyaman. hanya saja ACnya sulit dimatikan dan dikecilkan sehingga saya dan teman saya merasa sangat kedinginan sepanjang malam dan agak susah tidur saking dinginnya.",general-pos,general,pos
+"Overall cukup baik, pelayanan ramah, fasilitas airy (bantal biru, snack) lengkap dan tempatnya nyaman. hanya saja ACnya sulit dimatikan dan dikecilkan sehingga saya dan teman saya merasa sangat kedinginan sepanjang malam dan agak susah tidur saking dinginnya.",linen_P1-pos,linen_P1,pos
+"Overall cukup baik, pelayanan ramah, fasilitas airy (bantal biru, snack) lengkap dan tempatnya nyaman. hanya saja ACnya sulit dimatikan dan dikecilkan sehingga saya dan teman saya merasa sangat kedinginan sepanjang malam dan agak susah tidur saking dinginnya.",service-pos,service,pos
+"Overall cukup baik, pelayanan ramah, fasilitas airy (bantal biru, snack) lengkap dan tempatnya nyaman. hanya saja ACnya sulit dimatikan dan dikecilkan sehingga saya dan teman saya merasa sangat kedinginan sepanjang malam dan agak susah tidur saking dinginnya.",ac_P1-neg,ac_P1,neg
+"Kamar OK , Tapi AC NYA TIDAK DINGIN SAMA SEKALI. ",ac_P1-neg,ac_P1,neg
+bersih...rapi...cuma tv pas masuk lg rusak dan selimut ga ada...overall bagus..,kebersihan-pos,kebersihan,pos
+bersih...rapi...cuma tv pas masuk lg rusak dan selimut ga ada...overall bagus..,tv_P1-neg,tv_P1,neg
+bersih...rapi...cuma tv pas masuk lg rusak dan selimut ga ada...overall bagus..,linen_P1-neg,linen_P1,neg
+bersih...rapi...cuma tv pas masuk lg rusak dan selimut ga ada...overall bagus..,general-pos,general,pos
+"kebersihan harus dijaga banyak rambut di saluran air, lantai juga masih berdebu. tv nya jadul penuh debu dan volume tak berfungsi...tolong diperhatikan lagi",kebersihan-neg,kebersihan,neg
+"kebersihan harus dijaga banyak rambut di saluran air, lantai juga masih berdebu. tv nya jadul penuh debu dan volume tak berfungsi...tolong diperhatikan lagi",tv_P1-neg,tv_P1,neg
+"hotelny bagus & strategis. cuma ac dikamar tidak dingin & saluran air mampet. fasilitas tdk sperti kamar airy yg biasa sy dpatkan, makanya sy sempat mikir apa salah kasih kamar atau tidak. ",ac_P1-neg,ac_P1,neg
+"hotelny bagus & strategis. cuma ac dikamar tidak dingin & saluran air mampet. fasilitas tdk sperti kamar airy yg biasa sy dpatkan, makanya sy sempat mikir apa salah kasih kamar atau tidak. ",linen_P1-neg,linen_P1,neg
+kebersihan kamar mandi tolong di perhatikan,kebersihan-neg,kebersihan,neg
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",bau_P1-pos,bau_P1,pos
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",ac_P1-pos,ac_P1,pos
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",linen_P1-neg,linen_P1,neg
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",kebersihan-neg,kebersihan,neg
+"saya mendapat kamar nomor 9 (+) wangi, nyaman, ac dingin. (+) sarapan enak meski pilihan menu sedikit (-) noda kotor di seprei (wajar, tetapi seharusnya bisa dibersihkan) (-) noda kotor di keramik dinding km mandi (wajar, tetapi seharusnya bisa dibersihkan) (-) lemari pakaian di kamar mulai lapuk (-) wifi tidak bisa connect!!! mohon diperbaiki",wifi_P1-neg,wifi_P1,neg
+"nyaman untuk istirahat, tapi pelayanan nya kurang bagus.",service-neg,service,neg
+"sempit,kamar mandi bau apek,sarapan tidak enak",bau_P1-neg,bau_P1,neg
+"sempit,kamar mandi bau apek,sarapan tidak enak",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"untuk kamar bagus, wc aga sedikit kotor, dan pelayanannya tidak ramah ibu nya. aga jutex",kebersihan-neg,kebersihan,neg
+"untuk kamar bagus, wc aga sedikit kotor, dan pelayanannya tidak ramah ibu nya. aga jutex",service-neg,service,neg
+"Pelayanannya ramah, tp kamar tidur dan kmr mandi kurng bersih",service-pos,service,pos
+"Pelayanannya ramah, tp kamar tidur dan kmr mandi kurng bersih",kebersihan-neg,kebersihan,neg
+pintu toiletnya ga bisa ditutup :( wifinya juga suka ngadat. tapi kalau untuk nginep 2-3 hari nyaman,wifi_P1-neg,wifi_P1,neg
+Kebersihan tolong ditingkatkan lagi..,kebersihan-neg,kebersihan,neg
+"harga murah tp kepuasan maksimal, kamar dan toilet mewah (minus air hangat yg tidak hangat), sarapan wah sekali, dengan prasmanan dan makanan yg enak2, next kalo ke lombok pasti menginap di sini lagi, thank you airy rooms!",air_panas_P1-neg,air_panas_P1,neg
+"harga murah tp kepuasan maksimal, kamar dan toilet mewah (minus air hangat yg tidak hangat), sarapan wah sekali, dengan prasmanan dan makanan yg enak2, next kalo ke lombok pasti menginap di sini lagi, thank you airy rooms!",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"Pegawainya susah dicari, jadi kalau butuh apa2 agak ribet",service-neg,service,neg
+"Pada dasarnya lokasi sangat strategis, pelayanan juga baik, tempat tidur sangat nyaman, tapi ada beberapa hal yang perlu diperhatikan di kamar kami menginap. Sinyal agak kurang stabil (sinyal provider) di dalam kamar, bahkan bisa hilang. Daya tangkap wireless lemah, dan juga tidak ada sirkulasi udara di kamar mandi.",service-pos,service,pos
+"Pada dasarnya lokasi sangat strategis, pelayanan juga baik, tempat tidur sangat nyaman, tapi ada beberapa hal yang perlu diperhatikan di kamar kami menginap. Sinyal agak kurang stabil (sinyal provider) di dalam kamar, bahkan bisa hilang. Daya tangkap wireless lemah, dan juga tidak ada sirkulasi udara di kamar mandi.",wifi_P1-neg,wifi_P1,neg
+"Pada dasarnya lokasi sangat strategis, pelayanan juga baik, tempat tidur sangat nyaman, tapi ada beberapa hal yang perlu diperhatikan di kamar kami menginap. Sinyal agak kurang stabil (sinyal provider) di dalam kamar, bahkan bisa hilang. Daya tangkap wireless lemah, dan juga tidak ada sirkulasi udara di kamar mandi.",bau_P1-neg,bau_P1,neg
+"Nyaman suasana hotelnya. Hanya saja staff nya yg perempuan merengut, kurang ramah. ",service-neg,service,neg
+sangat strategis..ac dingin..bersih..pelayanan ramah dan cepat. cuma air panasnya gk stabil..gk panas banget..walau exclude breakfast tapi mantaf disediakan kitchen set jadi kalo bawa makanan dari luar sangat terbantu. terima kasih ntar pasti kesitu lagi.,ac_P1-pos,ac_P1,pos
+sangat strategis..ac dingin..bersih..pelayanan ramah dan cepat. cuma air panasnya gk stabil..gk panas banget..walau exclude breakfast tapi mantaf disediakan kitchen set jadi kalo bawa makanan dari luar sangat terbantu. terima kasih ntar pasti kesitu lagi.,kebersihan-pos,kebersihan,pos
+sangat strategis..ac dingin..bersih..pelayanan ramah dan cepat. cuma air panasnya gk stabil..gk panas banget..walau exclude breakfast tapi mantaf disediakan kitchen set jadi kalo bawa makanan dari luar sangat terbantu. terima kasih ntar pasti kesitu lagi.,service-pos,service,pos
+sangat strategis..ac dingin..bersih..pelayanan ramah dan cepat. cuma air panasnya gk stabil..gk panas banget..walau exclude breakfast tapi mantaf disediakan kitchen set jadi kalo bawa makanan dari luar sangat terbantu. terima kasih ntar pasti kesitu lagi.,air_panas_P1-neg,air_panas_P1,neg
+"Kamarnya bersih, tapi yg perlu dibenahi wifinya ga bisa koneksi yg lainnya msh ok. Kedepannya diskon 80% bisa sy dapatkan lagi... Tq ",kebersihan-pos,kebersihan,pos
+"Kamarnya bersih, tapi yg perlu dibenahi wifinya ga bisa koneksi yg lainnya msh ok. Kedepannya diskon 80% bisa sy dapatkan lagi... Tq ",wifi_P1-neg,wifi_P1,neg
+"Kamarnya bersih, tapi yg perlu dibenahi wifinya ga bisa koneksi yg lainnya msh ok. Kedepannya diskon 80% bisa sy dapatkan lagi... Tq ",general-pos,general,pos
+"overall lumayan nyaman, tapi sayang gak dapat sarapan padahal sdh bilang receptionist dan katanya bisa  di antar ke kamar 😒",general-pos,general,pos
+"overall lumayan nyaman, tapi sayang gak dapat sarapan padahal sdh bilang receptionist dan katanya bisa  di antar ke kamar 😒",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"overall lumayan nyaman, tapi sayang gak dapat sarapan padahal sdh bilang receptionist dan katanya bisa  di antar ke kamar 😒",service-neg,service,neg
+"pelayanan sangat tidak ramah, nomer telpon hotel tidak bisa dihubungi, kamar sempit banget",service-neg,service,neg
+"Tidak ada snack, perlatan mandi airy tdk ada. Jelek",linen_P1-neg,linen_P1,neg
+Fasilitas air hangat bermasalah saat nginap... Dan tempat tidur yang kakix sudah patah...,air_panas_P1-neg,air_panas_P1,neg
+Fasilitas air hangat bermasalah saat nginap... Dan tempat tidur yang kakix sudah patah...,linen_P1-neg,linen_P1,neg
+Air panas nya tidak bisa. Dapat kamar yang kunci pintu kamarnya rusak.,air_panas_P1-neg,air_panas_P1,neg
+sarapan sangat seadanya. AC tidak dingin.,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+sarapan sangat seadanya. AC tidak dingin.,ac_P1-neg,ac_P1,neg
+"ac yg kurang dingin, kamar yg berdebu, breakfast tdk bervariatif, tdk sesuai lah dgn kata premier.. ",ac_P1-neg,ac_P1,neg
+"ac yg kurang dingin, kamar yg berdebu, breakfast tdk bervariatif, tdk sesuai lah dgn kata premier.. ",kebersihan-neg,kebersihan,neg
+"ac yg kurang dingin, kamar yg berdebu, breakfast tdk bervariatif, tdk sesuai lah dgn kata premier.. ",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+airnya yang panas tidak berfungsi,air_panas_P1-neg,air_panas_P1,neg
+"hanya sprei,bedroom,dan handuk kurang bersih...seperti bekas pakai masih ada bercak. untuk yang lumayan baik",linen_P1-neg,linen_P1,neg
+"hanya sprei,bedroom,dan handuk kurang bersih...seperti bekas pakai masih ada bercak. untuk yang lumayan baik",kebersihan-neg,kebersihan,neg
+"hanya sprei,bedroom,dan handuk kurang bersih...seperti bekas pakai masih ada bercak. untuk yang lumayan baik",general-pos,general,pos
+overall memuaskan kecuali staffnya.. kalau bisa staffnya dikasi tau supaya lebih sopan kalau ada kepentingan sebelum masuk ke kamar tamu.. ,general-pos,general,pos
+overall memuaskan kecuali staffnya.. kalau bisa staffnya dikasi tau supaya lebih sopan kalau ada kepentingan sebelum masuk ke kamar tamu.. ,service-neg,service,neg
+"kalau menurut saya, saya cukup kecewa dikarenakan dari segi fasilitas yg di berikan seharusnya dlm hal handuk di ganti setiap hari, sebab saya khan menginap 2 hari disana, trus sncak complimentary bukanmya dapet tiap hari ya, dari segi kamar mandi, kamar mandi tsb tidak layak, karena wastafel tdk keluar.",linen_P1-neg,linen_P1,neg
+kebersihan kamar perlu ditingkatkan...banyak rambut wanita di keset kaki kamar mandi...nampaknya keset kakinya udah lama ndak dicuci...pas kluar kamar mandi trus ngelap kaki...bukannya bersih malah tambah kotor... selimutnya bau apek...gak wangi... terlambat check out... kena cas 50 ribu receptionisnya baik dan ramah... ,kebersihan-neg,kebersihan,neg
+kebersihan kamar perlu ditingkatkan...banyak rambut wanita di keset kaki kamar mandi...nampaknya keset kakinya udah lama ndak dicuci...pas kluar kamar mandi trus ngelap kaki...bukannya bersih malah tambah kotor... selimutnya bau apek...gak wangi... terlambat check out... kena cas 50 ribu receptionisnya baik dan ramah... ,linen_P1-neg,linen_P1,neg
+kebersihan kamar perlu ditingkatkan...banyak rambut wanita di keset kaki kamar mandi...nampaknya keset kakinya udah lama ndak dicuci...pas kluar kamar mandi trus ngelap kaki...bukannya bersih malah tambah kotor... selimutnya bau apek...gak wangi... terlambat check out... kena cas 50 ribu receptionisnya baik dan ramah... ,service-pos,service,pos
+"ac cuman angin. PARAH closet jorok. wastafel jorok dan kotor handuk bekas dan berbau seprei bekas tdk diganti. rambut dimana mana wifi, ketika malam down. kemudian tdk bs sama sekali. seumur umur pake airy. baru ini sangat parah sekali.",ac_P1-neg,ac_P1,neg
+"ac cuman angin. PARAH closet jorok. wastafel jorok dan kotor handuk bekas dan berbau seprei bekas tdk diganti. rambut dimana mana wifi, ketika malam down. kemudian tdk bs sama sekali. seumur umur pake airy. baru ini sangat parah sekali.",kebersihan-neg,kebersihan,neg
+"ac cuman angin. PARAH closet jorok. wastafel jorok dan kotor handuk bekas dan berbau seprei bekas tdk diganti. rambut dimana mana wifi, ketika malam down. kemudian tdk bs sama sekali. seumur umur pake airy. baru ini sangat parah sekali.",linen_P1-neg,linen_P1,neg
+"ac cuman angin. PARAH closet jorok. wastafel jorok dan kotor handuk bekas dan berbau seprei bekas tdk diganti. rambut dimana mana wifi, ketika malam down. kemudian tdk bs sama sekali. seumur umur pake airy. baru ini sangat parah sekali.",wifi_P1-neg,wifi_P1,neg
+pelayanan kamar yang tidak ramah serta kurangnya fasilitas seperti handuk. juga siaran tv yang kabur,service-neg,service,neg
+pelayanan kamar yang tidak ramah serta kurangnya fasilitas seperti handuk. juga siaran tv yang kabur,linen_P1-neg,linen_P1,neg
+pelayanan kamar yang tidak ramah serta kurangnya fasilitas seperti handuk. juga siaran tv yang kabur,tv_P1-neg,tv_P1,neg
+"tidak memuaskan,wc tidak terawat handuk tidak ada,bnyak nyamuknya,kamar bau.",linen_P1-neg,linen_P1,neg
+"tidak memuaskan,wc tidak terawat handuk tidak ada,bnyak nyamuknya,kamar bau.",bau_P1-neg,bau_P1,neg
+"tidak memuaskan,wc tidak terawat handuk tidak ada,bnyak nyamuknya,kamar bau.",kebersihan-neg,kebersihan,neg
+terpaksa pindah kamar karena bau sisa asap rokok (kata petugas habis di fogging). tp yakin kalo itu aroma asap rokok sih. selebihnya oke,bau_P1-neg,bau_P1,neg
+terpaksa pindah kamar karena bau sisa asap rokok (kata petugas habis di fogging). tp yakin kalo itu aroma asap rokok sih. selebihnya oke,general-pos,general,pos
+AC nya tidak dingin,ac_P1-neg,ac_P1,neg
+"baik, dikasih snack pula. Ac tidak dingin. ",linen_P1-pos,linen_P1,pos
+"baik, dikasih snack pula. Ac tidak dingin. ",ac_P1-neg,ac_P1,neg
+Lumayan harga murah dan buat transit nyaman tapi yaitu TV nya gangguan mulu dan air nya bau besi,tv_P1-neg,tv_P1,neg
+"Nggak dikasih sarapan, terlalu banyak aturan denda, pelayanan sangat tidak ramah.",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Nggak dikasih sarapan, terlalu banyak aturan denda, pelayanan sangat tidak ramah.",service-neg,service,neg
+"overall good, with minim cost budget. Tapi AC kurang kerasa sih.. ",general-pos,general,pos
+"overall good, with minim cost budget. Tapi AC kurang kerasa sih.. ",ac_P1-neg,ac_P1,neg
+"resepsionisnya kurang ajar, sya di tertawakan nya sya trsingung sbgai kastemer htel, sya kcewa menunggu smpai 45 menit, jdi sya msuk jm 2 lwat 45 menit trllu lma wktunya, dn kurang ajar resepsionis perempuan 2 org tlng tegur itu sya yrap dia lbh bsa mnghrgai kastemer.",service-neg,service,neg
+ac ny kurang dingin dan tidak ada sandal nya jadi habis mandi air berceceran d lantai ,ac_P1-neg,ac_P1,neg
+ac ny kurang dingin dan tidak ada sandal nya jadi habis mandi air berceceran d lantai ,linen_P1-neg,linen_P1,neg
+baik tapi kamar mandinya bau karena lubang pembuangan sepertinya,bau_P1-neg,bau_P1,neg
+ac kurang dingin . tempat kurang lega . tidak ada tisunya .,ac_P1-neg,ac_P1,neg
+ac kurang dingin . tempat kurang lega . tidak ada tisunya .,linen_P1-neg,linen_P1,neg
+"Lokasi sulit dicari, klo mau msk hotel harus lewat hiburan di lt atas.. Malam tidur terdengar bunyi bising dr lt atas.. Temperature air shower susah diatur, kebersihan kamar perlu ditingkatkan lg.. Kamar cukup luas.. Thanks airy..",air_panas_P1-neg,air_panas_P1,neg
+"Lokasi sulit dicari, klo mau msk hotel harus lewat hiburan di lt atas.. Malam tidur terdengar bunyi bising dr lt atas.. Temperature air shower susah diatur, kebersihan kamar perlu ditingkatkan lg.. Kamar cukup luas.. Thanks airy..",kebersihan-neg,kebersihan,neg
+ac lama dinginnya,ac_P1-neg,ac_P1,neg
+ air panas tidak stabil,air_panas_P1-neg,air_panas_P1,neg
+Acnya kurang dingin,ac_P1-neg,ac_P1,neg
+AC nya kurang dingin....tolong d perhatiin ,ac_P1-neg,ac_P1,neg
+ sudah 5 x saya menginap di size inn...semua room nya AC nya kurang,ac_P1-neg,ac_P1,neg
+ac panas,ac_P1-neg,ac_P1,neg
+"AC nya suka mati sendiri, Room bagus, Air mandi kurang panas, minuman bukan dapat yg 600ml tpi yg kecil. tapi pelayanan baik.",ac_P1-neg,ac_P1,neg
+"AC nya suka mati sendiri, Room bagus, Air mandi kurang panas, minuman bukan dapat yg 600ml tpi yg kecil. tapi pelayanan baik.",air_panas_P1-neg,air_panas_P1,neg
+"AC nya suka mati sendiri, Room bagus, Air mandi kurang panas, minuman bukan dapat yg 600ml tpi yg kecil. tapi pelayanan baik.",linen_P1-neg,linen_P1,neg
+"AC nya suka mati sendiri, Room bagus, Air mandi kurang panas, minuman bukan dapat yg 600ml tpi yg kecil. tapi pelayanan baik.",service-pos,service,pos
+ keseluruhannya BAIK 😊,general-pos,general,pos
+tapi lantai agak kotor,kebersihan-neg,kebersihan,neg
+sangat baguss nyaman bersih. cuman 1 kurangnya yaitu ACnya kurang dingin,kebersihan-pos,kebersihan,pos
+sangat baguss nyaman bersih. cuman 1 kurangnya yaitu ACnya kurang dingin,ac_P1-neg,ac_P1,neg
+"BAD! Tidak ada bantal, alat mandi, snack khas airy.. Kamar tua yg sdh lama tdk dibersihkan.. Wc berkerak kotor sekali.. Pengalaman pertama kali pake Airy dpt yg jelek nih",linen_P1-neg,linen_P1,neg
+"BAD! Tidak ada bantal, alat mandi, snack khas airy.. Kamar tua yg sdh lama tdk dibersihkan.. Wc berkerak kotor sekali.. Pengalaman pertama kali pake Airy dpt yg jelek nih",kebersihan-neg,kebersihan,neg
+"pelayanan bagus cm ada beberapa masalah, kamar pertama lampu toiletnya rusak pas d pindahi k kamar kedua pancuran closetnya yg rusak, cemilan yg d sediakan jg sdh kurang seperti sbelumnya beng-bengnya gk ada",service-pos,service,pos
+"pelayanan bagus cm ada beberapa masalah, kamar pertama lampu toiletnya rusak pas d pindahi k kamar kedua pancuran closetnya yg rusak, cemilan yg d sediakan jg sdh kurang seperti sbelumnya beng-bengnya gk ada",linen_P1-neg,linen_P1,neg
+Tergolong baik untuk pilihan hotel ekonomis. Room tertata rapi dengan furnitur yang bagus. Tetapi internet lambat dan air panas hanya di pagi saja,wifi_P1-neg,wifi_P1,neg
+Tergolong baik untuk pilihan hotel ekonomis. Room tertata rapi dengan furnitur yang bagus. Tetapi internet lambat dan air panas hanya di pagi saja,air_panas_P1-neg,air_panas_P1,neg
+kamar nyaman...bersih..to sayang..WiFi di lantai 3 ga bisa..bahkan nginep d sana LG seminggu kemudian WiFi juga ga dibetulin..pdhal WiFi sangat penting..untuk airy slogannya di ganti 6 jaminan kenyamanan aja..WiFi troble,kebersihan-pos,kebersihan,pos
+kamar nyaman...bersih..to sayang..WiFi di lantai 3 ga bisa..bahkan nginep d sana LG seminggu kemudian WiFi juga ga dibetulin..pdhal WiFi sangat penting..untuk airy slogannya di ganti 6 jaminan kenyamanan aja..WiFi troble,wifi_P1-neg,wifi_P1,neg
+"bersih,dekat dengan bandara halim,tapi waktu itu dapet kamar di dekat dapur gak ada jendela dan ac.nya rusak kayak pake kipas angin.. panas..",kebersihan-pos,kebersihan,pos
+"bersih,dekat dengan bandara halim,tapi waktu itu dapet kamar di dekat dapur gak ada jendela dan ac.nya rusak kayak pake kipas angin.. panas..",ac_P1-neg,ac_P1,neg
+saya sudah lbh dr 5x tidur di sini recomen bgt buat yg doyan traveling2 kamar dan wc bagus dan bersih cmn syg wifi nya kurang memuaskan hehehe tp overall bagus dan recomended bgt ,kebersihan-pos,kebersihan,pos
+saya sudah lbh dr 5x tidur di sini recomen bgt buat yg doyan traveling2 kamar dan wc bagus dan bersih cmn syg wifi nya kurang memuaskan hehehe tp overall bagus dan recomended bgt ,wifi_P1-neg,wifi_P1,neg
+saya sudah lbh dr 5x tidur di sini recomen bgt buat yg doyan traveling2 kamar dan wc bagus dan bersih cmn syg wifi nya kurang memuaskan hehehe tp overall bagus dan recomended bgt ,general-pos,general,pos
+"kamarnya luas, pemandangan indah, lokasi strategis, sarapan lumayan enak. sayang AC nya ga dingin. udah komplain ke pihak hotel, tp masih ga dingin jg.",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"kamarnya luas, pemandangan indah, lokasi strategis, sarapan lumayan enak. sayang AC nya ga dingin. udah komplain ke pihak hotel, tp masih ga dingin jg.",ac_P1-neg,ac_P1,neg
+"AC Panas walaupun sudah di suhu minimal, tolong diperbaiki",ac_P1-neg,ac_P1,neg
+"ac dingin, tv oke,  kasur bantal empuk, air panas nyala, anduk ada cuma airy bite dan toiletries nya cuma dapat 1 hari. untuk menginap 1-3 hari saja oke. tapi kalau kehabisan sabun dn sampo harus beli sndiri. trims.. overall cukup. ",ac_P1-pos,ac_P1,pos
+"ac dingin, tv oke,  kasur bantal empuk, air panas nyala, anduk ada cuma airy bite dan toiletries nya cuma dapat 1 hari. untuk menginap 1-3 hari saja oke. tapi kalau kehabisan sabun dn sampo harus beli sndiri. trims.. overall cukup. ",tv_P1-pos,tv_P1,pos
+"ac dingin, tv oke,  kasur bantal empuk, air panas nyala, anduk ada cuma airy bite dan toiletries nya cuma dapat 1 hari. untuk menginap 1-3 hari saja oke. tapi kalau kehabisan sabun dn sampo harus beli sndiri. trims.. overall cukup. ",air_panas_P1-pos,air_panas_P1,pos
+"ac dingin, tv oke,  kasur bantal empuk, air panas nyala, anduk ada cuma airy bite dan toiletries nya cuma dapat 1 hari. untuk menginap 1-3 hari saja oke. tapi kalau kehabisan sabun dn sampo harus beli sndiri. trims.. overall cukup. ",linen_P1-neg,linen_P1,neg
+"ac dingin, tv oke,  kasur bantal empuk, air panas nyala, anduk ada cuma airy bite dan toiletries nya cuma dapat 1 hari. untuk menginap 1-3 hari saja oke. tapi kalau kehabisan sabun dn sampo harus beli sndiri. trims.. overall cukup. ",general-pos,general,pos
+"Kamarnya nyaman dan bersih, oke banget, tapi shower untuk mandi tidak ada air panasnya.. mungkin bisa ditambahin ya :)",kebersihan-pos,kebersihan,pos
+"Kamarnya nyaman dan bersih, oke banget, tapi shower untuk mandi tidak ada air panasnya.. mungkin bisa ditambahin ya :)",air_panas_P1-neg,air_panas_P1,neg
+"saya dikamar no. 5, wifi n sinyal jelek...hampir gk ada, sarapannya biasa aja. yang lainnya ok n bagus",wifi_P1-neg,wifi_P1,neg
+"saya dikamar no. 5, wifi n sinyal jelek...hampir gk ada, sarapannya biasa aja. yang lainnya ok n bagus",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"saya dikamar no. 5, wifi n sinyal jelek...hampir gk ada, sarapannya biasa aja. yang lainnya ok n bagus",general-pos,general,pos
+Bagus cuman air panasnya kadang ga ada,air_panas_P1-neg,air_panas_P1,neg
+"AC berisik, toilet flushernya rusak, lampu banyak mati, exhaust kamar mandi mati, keran shower lepas, lift pintunya ga bener. ",ac_P1-neg,ac_P1,neg
+"minus :wastafel rusak tidak keluar air, kloset duduk nya air nya macet , wifi tidak stabil plus : AC cukup,ruangan nyaman dan luas harap tingkat kan kebersihan toilet nya",wifi_P1-neg,wifi_P1,neg
+"minus :wastafel rusak tidak keluar air, kloset duduk nya air nya macet , wifi tidak stabil plus : AC cukup,ruangan nyaman dan luas harap tingkat kan kebersihan toilet nya",ac_P1-pos,ac_P1,pos
+"minus :wastafel rusak tidak keluar air, kloset duduk nya air nya macet , wifi tidak stabil plus : AC cukup,ruangan nyaman dan luas harap tingkat kan kebersihan toilet nya",kebersihan-neg,kebersihan,neg
+"air hangat tidak berfungsi, selimutnya ada bekas noda darah, karpet yang dilantai masih kotor, haduk yg dikamar mandi juga masih kotor. ",air_panas_P1-neg,air_panas_P1,neg
+"air hangat tidak berfungsi, selimutnya ada bekas noda darah, karpet yang dilantai masih kotor, haduk yg dikamar mandi juga masih kotor. ",linen_P1-neg,linen_P1,neg
+"air hangat tidak berfungsi, selimutnya ada bekas noda darah, karpet yang dilantai masih kotor, haduk yg dikamar mandi juga masih kotor. ",kebersihan-neg,kebersihan,neg
+tidak memberi pelayanan airy,service-neg,service,neg
+"standar aja, ac nya panas",ac_P1-neg,ac_P1,neg
+Ac kurang dingin,ac_P1-neg,ac_P1,neg
+Bad AC bocor Kamar bau Gambar siaran TV tidak jelas,ac_P1-neg,ac_P1,neg
+Bad AC bocor Kamar bau Gambar siaran TV tidak jelas,bau_P1-neg,bau_P1,neg
+Bad AC bocor Kamar bau Gambar siaran TV tidak jelas,tv_P1-neg,tv_P1,neg
+Complimen-nya tidak di berikan. Parah!!!,linen_P1-neg,linen_P1,neg
+"kurang baik ,sabun sikat gigi tidak ada , fasilitas airy nya tidak ada cemilanya dll",linen_P1-neg,linen_P1,neg
+"Tdk sesuai di gambar kamarx,pesan yg double di kasih twin,breakfastx kehabisan makanan,padahal bru jam 8 pagi,staff tdk ramah cenderung cuek,tdk recommeded lah utk hotel ini,",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Tdk sesuai di gambar kamarx,pesan yg double di kasih twin,breakfastx kehabisan makanan,padahal bru jam 8 pagi,staff tdk ramah cenderung cuek,tdk recommeded lah utk hotel ini,",service-neg,service,neg
+air panas tidak ada kamar terlalu gelap,air_panas_P1-neg,air_panas_P1,neg
+"toiletnya kotor, dan receptionisnya jutek",kebersihan-neg,kebersihan,neg
+"toiletnya kotor, dan receptionisnya jutek",service-neg,service,neg
+"panas, kurang bersih, air panas tidak ada",ac_P1-neg,ac_P1,neg
+"panas, kurang bersih, air panas tidak ada",kebersihan-neg,kebersihan,neg
+"panas, kurang bersih, air panas tidak ada",air_panas_P1-neg,air_panas_P1,neg
+parah tidak ada snack seperti kamar hotel lain,linen_P1-neg,linen_P1,neg
+wifi nya gak sampe kamar :(,wifi_P1-neg,wifi_P1,neg
+"kamar tidak sesuai dengan gambar, kamar mandi kotor , ac tidak dingin",kebersihan-neg,kebersihan,neg
+"kamar tidak sesuai dengan gambar, kamar mandi kotor , ac tidak dingin",ac_P1-neg,ac_P1,neg
+Bagus cuma di daerah close set air tergenang,kebersihan-neg,kebersihan,neg
+"kamar 316 AC panas,  Dan tidak Ada lift. kamar utk airy terletak di lantai 3",ac_P1-neg,ac_P1,neg
+"lokasi strategis, makanan jg enak hanya wifi nya mudah putus-putus",wifi_P1-neg,wifi_P1,neg
+hanya kurang bersih dan tempat kurang strategis untuk menjangkau ke luar,kebersihan-neg,kebersihan,neg
+sinyal seluler gak ada dan wifi gak sampe kamar,wifi_P1-neg,wifi_P1,neg
+Kasurnya kotor. Tdk tampak seperti penginapan dari luar. ,linen_P1-neg,linen_P1,neg
+Kasurnya kotor. Tdk tampak seperti penginapan dari luar. ,kebersihan-neg,kebersihan,neg
+Baik... Tapi kalo lama nginep dsini karyawannya bgitu kurang suka,service-neg,service,neg
+"pelayanan baik,, cma snacknya diisi hanya satu kali.saat pertma cekin aja",service-pos,service,pos
+"pelayanan baik,, cma snacknya diisi hanya satu kali.saat pertma cekin aja",linen_P1-neg,linen_P1,neg
+belum sempat menginap di sini. pesawat delay sampai 3 jam dan mungkin sudah terlalu malam. untuk check-in. saya mengira juga akan buka 24 jam resepsionisnya. jadi mau tidak mau uang saya hangus. ,service-neg,service,neg
+"secara keseluruhan baik, wifi internet agak lambat & berisik pada malam hari, karena pada saat itu ada group anak sekolahan.",general-pos,general,pos
+"secara keseluruhan baik, wifi internet agak lambat & berisik pada malam hari, karena pada saat itu ada group anak sekolahan.",wifi_P1-neg,wifi_P1,neg
+tidak ada pelayanan airy room sama sekali. tidak ada snack nya jg. tidak seperti airy room yg lain. air panasnya tidak ada,service-neg,service,neg
+tidak ada pelayanan airy room sama sekali. tidak ada snack nya jg. tidak seperti airy room yg lain. air panasnya tidak ada,linen_P1-neg,linen_P1,neg
+tidak ada pelayanan airy room sama sekali. tidak ada snack nya jg. tidak seperti airy room yg lain. air panasnya tidak ada,air_panas_P1-neg,air_panas_P1,neg
+baik tp dlm kamar mndi berair dan AC keluar air merambat smpe tmpat tdur,kebersihan-neg,kebersihan,neg
+baik tp dlm kamar mndi berair dan AC keluar air merambat smpe tmpat tdur,ac_P1-neg,ac_P1,neg
+"Kolam renang not recommended, yg bagian dalam airnya keruh banget. Sarapannya sedih banget, refillnya lama, menu ala kadarnya. Yg bagus cuma kamarnya luas banget, tp posisi TV kurang pas dan kamar mandi kurang bersih.",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Kolam renang not recommended, yg bagian dalam airnya keruh banget. Sarapannya sedih banget, refillnya lama, menu ala kadarnya. Yg bagus cuma kamarnya luas banget, tp posisi TV kurang pas dan kamar mandi kurang bersih.",tv_P1-neg,tv_P1,neg
+"Kolam renang not recommended, yg bagian dalam airnya keruh banget. Sarapannya sedih banget, refillnya lama, menu ala kadarnya. Yg bagus cuma kamarnya luas banget, tp posisi TV kurang pas dan kamar mandi kurang bersih.",kebersihan-neg,kebersihan,neg
+"kamar mandi bersih. Bau rokok sangat kuat. Colokan hanya ada di belakang tv, saran untuk ditambah, kabel sambungannya diperpanjang. ",kebersihan-pos,kebersihan,pos
+"kamar mandi bersih. Bau rokok sangat kuat. Colokan hanya ada di belakang tv, saran untuk ditambah, kabel sambungannya diperpanjang. ",bau_P1-neg,bau_P1,neg
+"Kamar tidak sesuai dengan di foto, kasur gatal gatal, tidak ada lemari, free snack juga tidak ada hanya air minum saja, harga pun terlalu mahal untuk kamar sepertiitu",kebersihan-neg,kebersihan,neg
+"Kamar tidak sesuai dengan di foto, kasur gatal gatal, tidak ada lemari, free snack juga tidak ada hanya air minum saja, harga pun terlalu mahal untuk kamar sepertiitu",linen_P1-neg,linen_P1,neg
+cemilannya sudah tidak ada lagi. minum nya biasanya 2botol ni 1 botol. sarapan pagi nya dah ngak ada lagi,linen_P1-neg,linen_P1,neg
+cemilannya sudah tidak ada lagi. minum nya biasanya 2botol ni 1 botol. sarapan pagi nya dah ngak ada lagi,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"Penjaga kurang ramah, ribet, not recomended",service-neg,service,neg
+"servis and pelayanannya memuaskan,kebersihan kamar harus d perhatikan lagi.terima kasih",service-pos,service,pos
+"servis and pelayanannya memuaskan,kebersihan kamar harus d perhatikan lagi.terima kasih",kebersihan-neg,kebersihan,neg
+kurang air panasnya gak nyala,air_panas_P1-neg,air_panas_P1,neg
+"Kamar bau apek, pada saat mau chek in pelayan tau memesan kamar airy room mereka langsung pergi tidak mau membawakan koper padahal lift rusak, sedangkan kalo tamu lain yang bukan kamar airy mereka langsung membantu,  tidak ada sarapan padahl jelas-jelas diaplikasi ada sarapan, Saya kecewa dan tidak akan menginap dihotel ini lagi",bau_P1-neg,bau_P1,neg
+"Kamar bau apek, pada saat mau chek in pelayan tau memesan kamar airy room mereka langsung pergi tidak mau membawakan koper padahal lift rusak, sedangkan kalo tamu lain yang bukan kamar airy mereka langsung membantu,  tidak ada sarapan padahl jelas-jelas diaplikasi ada sarapan, Saya kecewa dan tidak akan menginap dihotel ini lagi",service-neg,service,neg
+"Kamar bau apek, pada saat mau chek in pelayan tau memesan kamar airy room mereka langsung pergi tidak mau membawakan koper padahal lift rusak, sedangkan kalo tamu lain yang bukan kamar airy mereka langsung membantu,  tidak ada sarapan padahl jelas-jelas diaplikasi ada sarapan, Saya kecewa dan tidak akan menginap dihotel ini lagi",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"tidak ada snack, minum, ",linen_P1-neg,linen_P1,neg
+sejauh ini selalu puas tapi sekarang sedikit kecewa karna kali ini tdk ada compliment snack di kamar :(,linen_P1-neg,linen_P1,neg
+"Ac kurang dingin, listrik tiba2 ngetrip .. ",ac_P1-neg,ac_P1,neg
+"Semuanya sudah bagus, hanya saja air pembuangan agak sedikit bau. Terus sarung bantal seperti tidak diganti karena saya melihat bercak. Tapi secara keseluruhan tetap oke. View, WiFi, peralatan yang disediakan sudah oke.",general-pos,general,pos
+"Semuanya sudah bagus, hanya saja air pembuangan agak sedikit bau. Terus sarung bantal seperti tidak diganti karena saya melihat bercak. Tapi secara keseluruhan tetap oke. View, WiFi, peralatan yang disediakan sudah oke.",linen_P1-neg,linen_P1,neg
+"Semuanya sudah bagus, hanya saja air pembuangan agak sedikit bau. Terus sarung bantal seperti tidak diganti karena saya melihat bercak. Tapi secara keseluruhan tetap oke. View, WiFi, peralatan yang disediakan sudah oke.",kebersihan-neg,kebersihan,neg
+"Semuanya sudah bagus, hanya saja air pembuangan agak sedikit bau. Terus sarung bantal seperti tidak diganti karena saya melihat bercak. Tapi secara keseluruhan tetap oke. View, WiFi, peralatan yang disediakan sudah oke.",wifi_P1-pos,wifi_P1,pos
+"overall bagus, tapi channel di tvnya burem burem... welcome snack nya terlalu berlebihan berbanding dengan air mineral yang di sediakan.",general-pos,general,pos
+"overall bagus, tapi channel di tvnya burem burem... welcome snack nya terlalu berlebihan berbanding dengan air mineral yang di sediakan.",tv_P1-neg,tv_P1,neg
+"overall bagus, tapi channel di tvnya burem burem... welcome snack nya terlalu berlebihan berbanding dengan air mineral yang di sediakan.",linen_P1-neg,linen_P1,neg
+WiFi tidak berfungsi sama sekali. Niatnya mau kerja seharian jadi gagal total. Interior bagus dan nyaman. Tetapi ada bagian yang belum bersih. Untuk kenyamanan oke. Untuk fasilitas kurang. Pas malam waktu itu masih ada pembangunan jadi berisik sampai pagi. Jika tidak ada pasti nyaman sekali.,wifi_P1-neg,wifi_P1,neg
+WiFi tidak berfungsi sama sekali. Niatnya mau kerja seharian jadi gagal total. Interior bagus dan nyaman. Tetapi ada bagian yang belum bersih. Untuk kenyamanan oke. Untuk fasilitas kurang. Pas malam waktu itu masih ada pembangunan jadi berisik sampai pagi. Jika tidak ada pasti nyaman sekali.,kebersihan-neg,kebersihan,neg
+"Ga ada perlengkapan mandi dan selimut banyak noda merah, lainnya mantab",linen_P1-neg,linen_P1,neg
+"Ga ada perlengkapan mandi dan selimut banyak noda merah, lainnya mantab",kebersihan-neg,kebersihan,neg
+"Ga ada perlengkapan mandi dan selimut banyak noda merah, lainnya mantab",general-pos,general,pos
+kurang bersih,kebersihan-neg,kebersihan,neg
+"Kamar nya bau minyak orang yang abis diurut, sampe nempel kebaju-baju",bau_P1-neg,bau_P1,neg
+"Parah abis tidak sesuai ama gambar, kamar kotor, kamar mandi kotor, atap bocor.. Kasur basah rembes.",kebersihan-neg,kebersihan,neg
+"Parah abis tidak sesuai ama gambar, kamar kotor, kamar mandi kotor, atap bocor.. Kasur basah rembes.",linen_P1-neg,linen_P1,neg
+"Bersih, nyaman, tapi WiFi-nya trouble",wifi_P1-neg,wifi_P1,neg
+"Bersih, nyaman, tapi WiFi-nya trouble",kebersihan-pos,kebersihan,pos
+"kmr mandi kurang bersih jrng di bersihkan, kmr nya baubapek",kebersihan-neg,kebersihan,neg
+"kmr mandi kurang bersih jrng di bersihkan, kmr nya baubapek",bau_P1-neg,bau_P1,neg
+"Internet di kamar bawah susah connect, lambat, putus2",wifi_P1-neg,wifi_P1,neg
+sangat buruk.... AC Dan shower selalu jelek,ac_P1-neg,ac_P1,neg
+"Tempat bersih, sayang tidak ada snack. Amenities di salah satu kamar juga tidak disiapkan. Wifi mati.",kebersihan-pos,kebersihan,pos
+"Tempat bersih, sayang tidak ada snack. Amenities di salah satu kamar juga tidak disiapkan. Wifi mati.",linen_P1-neg,linen_P1,neg
+"Tempat bersih, sayang tidak ada snack. Amenities di salah satu kamar juga tidak disiapkan. Wifi mati.",wifi_P1-neg,wifi_P1,neg
+yg berkesan: - disediakan snack gratis. - bisa late check out sampai jam 1 siang yg perlu diperbaiki: - dinding kamar terkesan kumal/kotor. - di tepian handuk mandi ada robeknya. - sprei terdapat noda dan warna sudah agak kuning,kebersihan-neg,kebersihan,neg
+yg berkesan: - disediakan snack gratis. - bisa late check out sampai jam 1 siang yg perlu diperbaiki: - dinding kamar terkesan kumal/kotor. - di tepian handuk mandi ada robeknya. - sprei terdapat noda dan warna sudah agak kuning,linen_P1-neg,linen_P1,neg
+"Kamar bersih Tp masih ada nyamuk, pelayanan bagus,  wifi kencang, gak ada hot water..",kebersihan-pos,kebersihan,pos
+"Kamar bersih Tp masih ada nyamuk, pelayanan bagus,  wifi kencang, gak ada hot water..",service-pos,service,pos
+"Kamar bersih Tp masih ada nyamuk, pelayanan bagus,  wifi kencang, gak ada hot water..",wifi_P1-pos,wifi_P1,pos
+"Kamar bersih Tp masih ada nyamuk, pelayanan bagus,  wifi kencang, gak ada hot water..",air_panas_P1-neg,air_panas_P1,neg
+Kotor kumuh dan bau sprei dan selimut banyak noda dan bau,kebersihan-neg,kebersihan,neg
+Kotor kumuh dan bau sprei dan selimut banyak noda dan bau,linen_P1-neg,linen_P1,neg
+Kotor kumuh dan bau sprei dan selimut banyak noda dan bau,bau_P1-neg,bau_P1,neg
+"sering saya menggunakan airy. kluar kota juga selalu pakai airy. baru kali ini sya kecewa. gak ada snack nya,gak ada wifi nya. pintu nya gak bisa dikunci. sprei nya kotor. gak ada keset nya. mohon di perhatikan lagi.",wifi_P1-neg,wifi_P1,neg
+"sering saya menggunakan airy. kluar kota juga selalu pakai airy. baru kali ini sya kecewa. gak ada snack nya,gak ada wifi nya. pintu nya gak bisa dikunci. sprei nya kotor. gak ada keset nya. mohon di perhatikan lagi.",linen_P1-neg,linen_P1,neg
+"sering saya menggunakan airy. kluar kota juga selalu pakai airy. baru kali ini sya kecewa. gak ada snack nya,gak ada wifi nya. pintu nya gak bisa dikunci. sprei nya kotor. gak ada keset nya. mohon di perhatikan lagi.",kebersihan-neg,kebersihan,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",bau_P1-neg,bau_P1,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",kebersihan-neg,kebersihan,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",ac_P1-neg,ac_P1,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",air_panas_P1-neg,air_panas_P1,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",tv_P1-neg,tv_P1,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",linen_P1-neg,linen_P1,neg
+"kamar Mandinya Bau dan Jorok, Airnya Mati, AC tidak dingin, tidak ada air hangatnya, kabel antena tv tergantung gantung dalam kamar, air minum tunggu diminta dl baru di kasih. Dulu saya sering kesini beberapa kali, saya tidak pernah Kecewa. Setelah menginap baru baru ini bulan Juli 2018 saya sangat kecewa sekali. pengurus yg dulu berbeda dgn skrang",service-neg,service,neg
+"kurang aktif pelayanannya, so far utk kamar oke.",service-neg,service,neg
+"kamarnya bersih, hanya saja telpon dan kloset di kamar mandinya tidak brrfungsi dengan baik, lalu snacknya hanya air mineral saja.a",kebersihan-pos,kebersihan,pos
+"kamarnya bersih, hanya saja telpon dan kloset di kamar mandinya tidak brrfungsi dengan baik, lalu snacknya hanya air mineral saja.a",linen_P1-neg,linen_P1,neg
+"kondisi hotel masih byk debu, pelayanan kurang baik, sy sewa 2 kmr, untuk kmr yg 1 checkout dari jam 9.00 barang2 sy sudah sy pindahkan ke kmr 1 nya, sy tau hari itu sy hrs check out tp karna tiba2 sy hrs ke rumah sakit, sy minta dispen checkout sampe jam 13.00 gpp bayar denda jg,  pelayan tetap tidak memperbolehkan, kecewa sekali. ",kebersihan-neg,kebersihan,neg
+"kondisi hotel masih byk debu, pelayanan kurang baik, sy sewa 2 kmr, untuk kmr yg 1 checkout dari jam 9.00 barang2 sy sudah sy pindahkan ke kmr 1 nya, sy tau hari itu sy hrs check out tp karna tiba2 sy hrs ke rumah sakit, sy minta dispen checkout sampe jam 13.00 gpp bayar denda jg,  pelayan tetap tidak memperbolehkan, kecewa sekali. ",service-neg,service,neg
+"ac panas, kamar kotor karena jarang dibersihkan. banyak nyamuk dan mereka gak sediakan obat nyamuk semprot. suasana sepi sekali, lokasi didalam, makanan nasi bungkus",ac_P1-neg,ac_P1,neg
+"ac panas, kamar kotor karena jarang dibersihkan. banyak nyamuk dan mereka gak sediakan obat nyamuk semprot. suasana sepi sekali, lokasi didalam, makanan nasi bungkus",kebersihan-neg,kebersihan,neg
+"hot shower di 3 kamar tidak tersedia, kamar yg berbau pengap, fasilitas kamar mandi yg mengecewakan alat mandi yg rusak.",air_panas_P1-neg,air_panas_P1,neg
+"hot shower di 3 kamar tidak tersedia, kamar yg berbau pengap, fasilitas kamar mandi yg mengecewakan alat mandi yg rusak.",bau_P1-neg,bau_P1,neg
+"hot shower di 3 kamar tidak tersedia, kamar yg berbau pengap, fasilitas kamar mandi yg mengecewakan alat mandi yg rusak.",linen_P1-neg,linen_P1,neg
+"Kamarnya cukup lega, ada dispenser di dalam kamar, tapi sedikit lembab. koneksi internet bermasalah.",bau_P1-neg,bau_P1,neg
+"Kamarnya cukup lega, ada dispenser di dalam kamar, tapi sedikit lembab. koneksi internet bermasalah.",wifi_P1-neg,wifi_P1,neg
+mohon maaf dpt 2 kamar AC nya tidak dingin dan agak bau,bau_P1-neg,bau_P1,neg
+mohon maaf dpt 2 kamar AC nya tidak dingin dan agak bau,ac_P1-neg,ac_P1,neg
+bagus .tp syg ga ada wifi,wifi_P1-neg,wifi_P1,neg
+"Tempatnya strategis dan bagus, kamar bagus, pelayanan juga ramah, cuma satu yang kurang, kasurnya busa, jadi buat tidur sakit, air juga bau.",service-pos,service,pos
+"Tempatnya strategis dan bagus, kamar bagus, pelayanan juga ramah, cuma satu yang kurang, kasurnya busa, jadi buat tidur sakit, air juga bau.",linen_P1-neg,linen_P1,neg
+Saya checkin pukul 22.00 dan tetap diterima. Semua baik hanya mungkin kamar mandi perlu dibersihkan karena saya harus mengaliri air di seluruh lantai kamar mandi yang penuh debu. Selimut bisa diganti juga jika memang sudah tidak lagi putih. Sarapan enak. AC agak bising jadi mungkin bisa diperbaiki.,general-pos,general,pos
+Saya checkin pukul 22.00 dan tetap diterima. Semua baik hanya mungkin kamar mandi perlu dibersihkan karena saya harus mengaliri air di seluruh lantai kamar mandi yang penuh debu. Selimut bisa diganti juga jika memang sudah tidak lagi putih. Sarapan enak. AC agak bising jadi mungkin bisa diperbaiki.,kebersihan-neg,kebersihan,neg
+Saya checkin pukul 22.00 dan tetap diterima. Semua baik hanya mungkin kamar mandi perlu dibersihkan karena saya harus mengaliri air di seluruh lantai kamar mandi yang penuh debu. Selimut bisa diganti juga jika memang sudah tidak lagi putih. Sarapan enak. AC agak bising jadi mungkin bisa diperbaiki.,linen_P1-neg,linen_P1,neg
+Saya checkin pukul 22.00 dan tetap diterima. Semua baik hanya mungkin kamar mandi perlu dibersihkan karena saya harus mengaliri air di seluruh lantai kamar mandi yang penuh debu. Selimut bisa diganti juga jika memang sudah tidak lagi putih. Sarapan enak. AC agak bising jadi mungkin bisa diperbaiki.,sunrise_meal_P1-pos,sunrise_meal_P1,pos
+Saya checkin pukul 22.00 dan tetap diterima. Semua baik hanya mungkin kamar mandi perlu dibersihkan karena saya harus mengaliri air di seluruh lantai kamar mandi yang penuh debu. Selimut bisa diganti juga jika memang sudah tidak lagi putih. Sarapan enak. AC agak bising jadi mungkin bisa diperbaiki.,ac_P1-neg,ac_P1,neg
+"Maaf ulasan jujur, semoga pelayanan ditingkatkan, sejak nginep disini sy jadi Was Was, Karena sy kira Airy terpercaya, tapi ternyata Kamar Kotor, Kamar mandi kotor, Ac bocor, tv rusak dan petugasnya tidak berseragam hanya menggunakan Kaos oblong dan celana pendek. Semoga pelayanan ditingkatkan",service-neg,service,neg
+"Maaf ulasan jujur, semoga pelayanan ditingkatkan, sejak nginep disini sy jadi Was Was, Karena sy kira Airy terpercaya, tapi ternyata Kamar Kotor, Kamar mandi kotor, Ac bocor, tv rusak dan petugasnya tidak berseragam hanya menggunakan Kaos oblong dan celana pendek. Semoga pelayanan ditingkatkan",kebersihan-neg,kebersihan,neg
+"Maaf ulasan jujur, semoga pelayanan ditingkatkan, sejak nginep disini sy jadi Was Was, Karena sy kira Airy terpercaya, tapi ternyata Kamar Kotor, Kamar mandi kotor, Ac bocor, tv rusak dan petugasnya tidak berseragam hanya menggunakan Kaos oblong dan celana pendek. Semoga pelayanan ditingkatkan",ac_P1-neg,ac_P1,neg
+"Maaf ulasan jujur, semoga pelayanan ditingkatkan, sejak nginep disini sy jadi Was Was, Karena sy kira Airy terpercaya, tapi ternyata Kamar Kotor, Kamar mandi kotor, Ac bocor, tv rusak dan petugasnya tidak berseragam hanya menggunakan Kaos oblong dan celana pendek. Semoga pelayanan ditingkatkan",tv_P1-neg,tv_P1,neg
+"Pelayanan resepsionis baik,  hanya kurang ramah. Kamar bersih nyaman,  sayang tidak ada lemari pakaian padahal di foto ada lemarinya.  Air panas bisa,  sayang wifi tidak bisa.  Overall oke",service-neg,service,neg
+"Pelayanan resepsionis baik,  hanya kurang ramah. Kamar bersih nyaman,  sayang tidak ada lemari pakaian padahal di foto ada lemarinya.  Air panas bisa,  sayang wifi tidak bisa.  Overall oke",kebersihan-pos,kebersihan,pos
+"Pelayanan resepsionis baik,  hanya kurang ramah. Kamar bersih nyaman,  sayang tidak ada lemari pakaian padahal di foto ada lemarinya.  Air panas bisa,  sayang wifi tidak bisa.  Overall oke",air_panas_P1-pos,air_panas_P1,pos
+"Pelayanan resepsionis baik,  hanya kurang ramah. Kamar bersih nyaman,  sayang tidak ada lemari pakaian padahal di foto ada lemarinya.  Air panas bisa,  sayang wifi tidak bisa.  Overall oke",wifi_P1-neg,wifi_P1,neg
+"Pelayanan resepsionis baik,  hanya kurang ramah. Kamar bersih nyaman,  sayang tidak ada lemari pakaian padahal di foto ada lemarinya.  Air panas bisa,  sayang wifi tidak bisa.  Overall oke",general-pos,general,pos
+AC nya kurang dingin. selebihnya Ok.,ac_P1-neg,ac_P1,neg
+AC nya kurang dingin. selebihnya Ok.,general-pos,general,pos
+"Pengap, kurang bersih, cat banyak banget yg mengelupas, foto tidak sesuai dengan yg ada di aplikasi traveloka, ac berisik, resepsionis tidak ramah, saya menginap disini seperti di kamar esek2. Nyesel saya nginep disini",bau_P1-neg,bau_P1,neg
+"Pengap, kurang bersih, cat banyak banget yg mengelupas, foto tidak sesuai dengan yg ada di aplikasi traveloka, ac berisik, resepsionis tidak ramah, saya menginap disini seperti di kamar esek2. Nyesel saya nginep disini",kebersihan-neg,kebersihan,neg
+"Pengap, kurang bersih, cat banyak banget yg mengelupas, foto tidak sesuai dengan yg ada di aplikasi traveloka, ac berisik, resepsionis tidak ramah, saya menginap disini seperti di kamar esek2. Nyesel saya nginep disini",ac_P1-neg,ac_P1,neg
+"Pengap, kurang bersih, cat banyak banget yg mengelupas, foto tidak sesuai dengan yg ada di aplikasi traveloka, ac berisik, resepsionis tidak ramah, saya menginap disini seperti di kamar esek2. Nyesel saya nginep disini",service-neg,service,neg
+all good minus TV gak bisa nyala,general-pos,general,pos
+all good minus TV gak bisa nyala,tv_P1-neg,tv_P1,neg
+"tidak tersedia towel, kamar luar, fasilitas air panas tidak ada shingga mandi malam kedinginan. deket dgn terminal bungurasih, tp jauh dari tempat kuliner",air_panas_P1-neg,air_panas_P1,neg
+"tidak tersedia towel, kamar luar, fasilitas air panas tidak ada shingga mandi malam kedinginan. deket dgn terminal bungurasih, tp jauh dari tempat kuliner",linen_P1-neg,linen_P1,neg
+"ok juga cuma lampu kmr mandi redup,n gak ada Snack cuma 2 btl air minerall",linen_P1-neg,linen_P1,neg
+tv kurang baik handuk cuma 1,tv_P1-neg,tv_P1,neg
+tv kurang baik handuk cuma 1,linen_P1-neg,linen_P1,neg
+kebersihan di jaga dan snacknya expair n sdh d gigit tikus,kebersihan-neg,kebersihan,neg
+kebersihan di jaga dan snacknya expair n sdh d gigit tikus,linen_P1-neg,linen_P1,neg
+"dekat dg kuliner ramah d kantong, letak strategis klo mau ngemall, samping ind*maret, tp kamar mandi perlu di kasih pengharum ruangan ya biar tdk bau",bau_P1-neg,bau_P1,neg
+"wifi tidak terjangkau dikamar belakang, saran dikasih penguat sinyal",wifi_P1-neg,wifi_P1,neg
+"mbak nya ramah dan informatif krn ke airport free pick up and drop, tapi toiletnya berkarat kerannya jadi airnya bau trus kamarnya pengap. tolong dijaga kebersihannya",service-pos,service,pos
+"mbak nya ramah dan informatif krn ke airport free pick up and drop, tapi toiletnya berkarat kerannya jadi airnya bau trus kamarnya pengap. tolong dijaga kebersihannya",bau_P1-neg,bau_P1,neg
+"mbak nya ramah dan informatif krn ke airport free pick up and drop, tapi toiletnya berkarat kerannya jadi airnya bau trus kamarnya pengap. tolong dijaga kebersihannya",kebersihan-neg,kebersihan,neg
+Saya suka tempatnya tetapi AC di ruangan tidak dingin dan chanel TV tidak ada yang jernih.,ac_P1-neg,ac_P1,neg
+Saya suka tempatnya tetapi AC di ruangan tidak dingin dan chanel TV tidak ada yang jernih.,tv_P1-neg,tv_P1,neg
+"Mengecewakan, tidak seperti yang di gambar, kamar mandi bau, air panas tidak hidup",bau_P1-neg,bau_P1,neg
+"Mengecewakan, tidak seperti yang di gambar, kamar mandi bau, air panas tidak hidup",air_panas_P1-neg,air_panas_P1,neg
+"Kamar tidak bersih,, sprei tidak di ganti dan bau",kebersihan-neg,kebersihan,neg
+"Kamar tidak bersih,, sprei tidak di ganti dan bau",linen_P1-neg,linen_P1,neg
+kamar bau dan kamar mandi juga bau sekali sperti tidak di bersihkan.,bau_P1-neg,bau_P1,neg
+kamar bau dan kamar mandi juga bau sekali sperti tidak di bersihkan.,kebersihan-neg,kebersihan,neg
+"kamar luas, kurang bersih, jorok, air closed mampet gak keluar sama sekali, Snack gak ada air mineral juga, pokoknya kecewa, remote tv pun gak ada",kebersihan-neg,kebersihan,neg
+"kamar luas, kurang bersih, jorok, air closed mampet gak keluar sama sekali, Snack gak ada air mineral juga, pokoknya kecewa, remote tv pun gak ada",linen_P1-neg,linen_P1,neg
+"kamar luas, kurang bersih, jorok, air closed mampet gak keluar sama sekali, Snack gak ada air mineral juga, pokoknya kecewa, remote tv pun gak ada",tv_P1-neg,tv_P1,neg
+"pertama menginap di airy room malah mendapat pelayanan yang sangat jelek dari pihak hotel. baru semalam menginap sudah harus di pindah ke hotel lain, di tambah dari pihak hotel yang salah kasih kamar. intinya saya kecewa sama pelayanan hotel!",service-neg,service,neg
+"kebersihan toiletnya kalo bisa ditingkatkan lagi dan kalo ada furniture yg rusak mohon segera diganti tapi yg paling penting kebersihan toilet sih, toiletnya harus diperhatikan lagi",kebersihan-neg,kebersihan,neg
+kamar cukup besar. tapi kamar mandi kotor krn hotel lama. harganya murah.,kebersihan-neg,kebersihan,neg
+"Tidak tersedia nya amenitiys pouch khas airy, ga ada snack khas airy dan ga ada bantal kecil bertuliskan airy seperti hotel airy yg lainnya klo kerjasama hrs bener2 komit jgn stgh2 ",linen_P1-neg,linen_P1,neg
+"Kamar mandinya selangnya bocor dan kurang bersih, kamarnya ga bersih. ",kebersihan-neg,kebersihan,neg
+Tempat sarapanya enak.. kalo kamar bagus sih cuma separainya banyak bercak2 ,sunrise_meal_P1-pos,sunrise_meal_P1,pos
+Tempat sarapanya enak.. kalo kamar bagus sih cuma separainya banyak bercak2 ,linen_P1-neg,linen_P1,neg
+Tempat sarapanya enak.. kalo kamar bagus sih cuma separainya banyak bercak2 ,kebersihan-neg,kebersihan,neg
+kamarx kecil dan jangkaun k tempat nginap jauh dan tempatx agak kotor,kebersihan-neg,kebersihan,neg
+Bagus cuma ac kurang dingin ya,ac_P1-neg,ac_P1,neg
+"kamar agak bau apek, sinyal HP kurang bagus dan wifi putus nyambung.",bau_P1-neg,bau_P1,neg
+"kamar agak bau apek, sinyal HP kurang bagus dan wifi putus nyambung.",wifi_P1-neg,wifi_P1,neg
+"selimut dan kasurnya agak asem mungkin jemurnya kurang kering tapi tetap nyaman meski sedikit kecut terima kasih semoga bisa diperbaiki lagi klo bs meski harga tdk trlalu mahal alangkah baiknya room d bersihkan jika tamu sedang keluar kan disana ada info please clean my room klo ga salah, biar sama kualitasnya dgn hotel2 berbintang hehe",linen_P1-neg,linen_P1,neg
+"selimut dan kasurnya agak asem mungkin jemurnya kurang kering tapi tetap nyaman meski sedikit kecut terima kasih semoga bisa diperbaiki lagi klo bs meski harga tdk trlalu mahal alangkah baiknya room d bersihkan jika tamu sedang keluar kan disana ada info please clean my room klo ga salah, biar sama kualitasnya dgn hotel2 berbintang hehe",service-neg,service,neg
+"foto tidak sesuai dengan aslinya. tidak dikasih sandal dalam, tidak ada laundry bag, remote ac juga tidak ada di ruangan. kamr mandi kurang bersih dan tekanan closet kecil sekali. waktu buka lemari juga ada kecoaknya. tidak sempat komplain karena check in larut malam sehingga langsung tidur dan check out pagi2",linen_P1-neg,linen_P1,neg
+"foto tidak sesuai dengan aslinya. tidak dikasih sandal dalam, tidak ada laundry bag, remote ac juga tidak ada di ruangan. kamr mandi kurang bersih dan tekanan closet kecil sekali. waktu buka lemari juga ada kecoaknya. tidak sempat komplain karena check in larut malam sehingga langsung tidur dan check out pagi2",ac_P1-neg,ac_P1,neg
+"foto tidak sesuai dengan aslinya. tidak dikasih sandal dalam, tidak ada laundry bag, remote ac juga tidak ada di ruangan. kamr mandi kurang bersih dan tekanan closet kecil sekali. waktu buka lemari juga ada kecoaknya. tidak sempat komplain karena check in larut malam sehingga langsung tidur dan check out pagi2",kebersihan-neg,kebersihan,neg
+sempit. kamar mandi mampet. ac berisik. murah bingit,ac_P1-neg,ac_P1,neg
+tempat sangat oke. sayang kamar yg saya tempati ac nya ga dingin. ,ac_P1-neg,ac_P1,neg
+kotor dan bangunan sdh lama,kebersihan-neg,kebersihan,neg
+"kamar dibersihkan tanpa konfirmasi dl krn tdk ada notice card di hotel. brg sy ada yg dicuri & dirusak oleh petugas house keeping yg bertugas di kmr 213 tgl 10 agustus 2018. kmr mandi jg msh kotor, lantainya licin. gk disikat sepertinya",service-neg,service,neg
+"kamar dibersihkan tanpa konfirmasi dl krn tdk ada notice card di hotel. brg sy ada yg dicuri & dirusak oleh petugas house keeping yg bertugas di kmr 213 tgl 10 agustus 2018. kmr mandi jg msh kotor, lantainya licin. gk disikat sepertinya",kebersihan-neg,kebersihan,neg
+"toilet dan lantai kmar mandi sangat jorok berkerak, air panas dimatikan, sprei berdebu, sangat tidak untuk direkomendasikan",kebersihan-neg,kebersihan,neg
+"toilet dan lantai kmar mandi sangat jorok berkerak, air panas dimatikan, sprei berdebu, sangat tidak untuk direkomendasikan",air_panas_P1-neg,air_panas_P1,neg
+"toilet dan lantai kmar mandi sangat jorok berkerak, air panas dimatikan, sprei berdebu, sangat tidak untuk direkomendasikan",linen_P1-neg,linen_P1,neg
+"Bukan hotel, tapi kos kosan. Bau, pengap. Seram. Gada sarapan.",bau_P1-neg,bau_P1,neg
+"Bukan hotel, tapi kos kosan. Bau, pengap. Seram. Gada sarapan.",sunrise_meal_P1-neg,sunrise_meal_P1,neg
+"kamar mandi perlu dibersihkan total karena banyak jentik. bantal airy warna nya sudah menguning. lebih baik diganti baru atau dihilangkan kekuningannya. remote tv sedikit bermasalah, sebaiknya diservis atau diganti.",kebersihan-neg,kebersihan,neg
+"kamar mandi perlu dibersihkan total karena banyak jentik. bantal airy warna nya sudah menguning. lebih baik diganti baru atau dihilangkan kekuningannya. remote tv sedikit bermasalah, sebaiknya diservis atau diganti.",linen_P1-neg,linen_P1,neg
+"kamar mandi perlu dibersihkan total karena banyak jentik. bantal airy warna nya sudah menguning. lebih baik diganti baru atau dihilangkan kekuningannya. remote tv sedikit bermasalah, sebaiknya diservis atau diganti.",tv_P1-neg,tv_P1,neg
+sinyal wifi tidak sampai ke kamar,wifi_P1-neg,wifi_P1,neg
+kamar mandi flush nya suka rusak dan kurang bersih,kebersihan-neg,kebersihan,neg
+"kamar gelap, lantai berdubu, lemari kayu bonyok, lemari ktor, bathub karet bolong, kolam berlumut lengket dan ktor, 1 tmpt tgal sama owner jdi gk bebas",kebersihan-neg,kebersihan,neg
+saya menginap disini tidak mendapatkan box snack ,linen_P1-neg,linen_P1,neg
+kebersihan kamar mandinya mohon diperbaiki lagi...trm ksh,kebersihan-neg,kebersihan,neg
+Bau,bau_P1-neg,bau_P1,neg
+"AC panas tukar kamar tidak bisa alasan sudah malam. Seharusnya kalau mau jadi kamar hotel, kamar harus dipersiapkan sebelum menerima tamu AC dingin atau tidak. Saya bawa tamu dari daerah. Bikin malu saja. ",ac_P1-neg,ac_P1,neg
+"Pelayanan ramah dan baik, tapi kondisi AC tidak dingin sehingga kamar terasa pengap. mungkin harus lebih diperhatikan maintenancenya. Selain itu, tidak adanya lift agak menyulitkan untuk tamu yang sudah tua serta membawa banyak barang ",service-pos,service,pos
+"Pelayanan ramah dan baik, tapi kondisi AC tidak dingin sehingga kamar terasa pengap. mungkin harus lebih diperhatikan maintenancenya. Selain itu, tidak adanya lift agak menyulitkan untuk tamu yang sudah tua serta membawa banyak barang ",ac_P1-neg,ac_P1,neg
+"Pelayanan ramah dan baik, tapi kondisi AC tidak dingin sehingga kamar terasa pengap. mungkin harus lebih diperhatikan maintenancenya. Selain itu, tidak adanya lift agak menyulitkan untuk tamu yang sudah tua serta membawa banyak barang ",bau_P1-neg,bau_P1,neg
+"overall bagus, cuma housekeepernya tidak mengganti handuk tiap pagi padahal handuk bau sekali pas pertama datang, bau apek. selebihnya oke.",general-pos,general,pos
+"overall bagus, cuma housekeepernya tidak mengganti handuk tiap pagi padahal handuk bau sekali pas pertama datang, bau apek. selebihnya oke.",service-neg,service,neg
+"overall bagus, cuma housekeepernya tidak mengganti handuk tiap pagi padahal handuk bau sekali pas pertama datang, bau apek. selebihnya oke.",linen_P1-neg,linen_P1,neg
+"untuk harga sangat bersahabat, tapi aku ga suka sama sprei nya..kurang bersih gitu tapi pelayanan oke, makanan oke kurang sprei ajah sih ",linen_P1-neg,linen_P1,neg
+"untuk harga sangat bersahabat, tapi aku ga suka sama sprei nya..kurang bersih gitu tapi pelayanan oke, makanan oke kurang sprei ajah sih ",kebersihan-neg,kebersihan,neg
+"untuk harga sangat bersahabat, tapi aku ga suka sama sprei nya..kurang bersih gitu tapi pelayanan oke, makanan oke kurang sprei ajah sih ",service-pos,service,pos
+ga ada kotak snack dr airy,linen_P1-neg,linen_P1,neg
+"apek banget kamarnya. uda trlanjur bayar gbs refund, gajadi stay de",bau_P1-neg,bau_P1,neg
+"AC nya gerah,kurang dingin, overal oke bersih",ac_P1-neg,ac_P1,neg
+"AC nya gerah,kurang dingin, overal oke bersih",general-pos,general,pos
+"AC nya gerah,kurang dingin, overal oke bersih",kebersihan-pos,kebersihan,pos
+Kamar mandi rusak semua lampu mati ada kecoa kurang ramah gk sesuai foto ,kebersihan-neg,kebersihan,neg
+"kamarnya kurang bersih, banyak debu, jendela kotor, kamar mandi kotor, lemarinya bau. handuknya banyak bercak hitam, di buat ada air panas sementara tidak, tolong di perbaiki. ",kebersihan-neg,kebersihan,neg
+"kamarnya kurang bersih, banyak debu, jendela kotor, kamar mandi kotor, lemarinya bau. handuknya banyak bercak hitam, di buat ada air panas sementara tidak, tolong di perbaiki. ",linen_P1-neg,linen_P1,neg
+"kamarnya kurang bersih, banyak debu, jendela kotor, kamar mandi kotor, lemarinya bau. handuknya banyak bercak hitam, di buat ada air panas sementara tidak, tolong di perbaiki. ",air_panas_P1-neg,air_panas_P1,neg
+ada bunyi sesuatu yg kurang menyenangkan d dalam kamar.. yg buat pengunjung sepert saya takut tidur sendiri.. kamarnya kurang bersih.. ,kebersihan-neg,kebersihan,neg
+"Kamar luas dan ada kulkas serta shower air panasnya. Hanya saja cukup menguras tenaga untuk sampai ke kamar karena dapat kamar di lantai 2 dan tidak ada lift (resepsionis di bawah lantai 1). Jika dapat kamar di lantai 4, mungkin saya akan berpikir 2 kali untuk tinggal lebih dari semalam. Kebersihan perlu ditingkatkan. Selebihnya oke.",air_panas_P1-pos,air_panas_P1,pos
+"Kamar luas dan ada kulkas serta shower air panasnya. Hanya saja cukup menguras tenaga untuk sampai ke kamar karena dapat kamar di lantai 2 dan tidak ada lift (resepsionis di bawah lantai 1). Jika dapat kamar di lantai 4, mungkin saya akan berpikir 2 kali untuk tinggal lebih dari semalam. Kebersihan perlu ditingkatkan. Selebihnya oke.",kebersihan-neg,kebersihan,neg
+"Kamar luas dan ada kulkas serta shower air panasnya. Hanya saja cukup menguras tenaga untuk sampai ke kamar karena dapat kamar di lantai 2 dan tidak ada lift (resepsionis di bawah lantai 1). Jika dapat kamar di lantai 4, mungkin saya akan berpikir 2 kali untuk tinggal lebih dari semalam. Kebersihan perlu ditingkatkan. Selebihnya oke.",general-pos,general,pos
+kamar murang beraih dan kamar mandi licin sehingga terpeleset 2 kali...terima.kasih,kebersihan-neg,kebersihan,neg
+"Ini bukan hotel, tempat bau kotor kaya sampah, dari pada tidur disini lebih baik tidur di mobil! Tidak ada peralatan mandi! Sprei banyak bekas cairan! Air dingin! Tidak ada meja, lantai penuh debu! Parkiran jauh!",bau_P1-neg,bau_P1,neg
+"Ini bukan hotel, tempat bau kotor kaya sampah, dari pada tidur disini lebih baik tidur di mobil! Tidak ada peralatan mandi! Sprei banyak bekas cairan! Air dingin! Tidak ada meja, lantai penuh debu! Parkiran jauh!",kebersihan-neg,kebersihan,neg
+"Ini bukan hotel, tempat bau kotor kaya sampah, dari pada tidur disini lebih baik tidur di mobil! Tidak ada peralatan mandi! Sprei banyak bekas cairan! Air dingin! Tidak ada meja, lantai penuh debu! Parkiran jauh!",linen_P1-neg,linen_P1,neg
+"Ini bukan hotel, tempat bau kotor kaya sampah, dari pada tidur disini lebih baik tidur di mobil! Tidak ada peralatan mandi! Sprei banyak bekas cairan! Air dingin! Tidak ada meja, lantai penuh debu! Parkiran jauh!",air_panas_P1-neg,air_panas_P1,neg
+tv perlu diperbaiki dan perlu ditambah tv kabel parabola,tv_P1-neg,tv_P1,neg
+"Lokasi seram, gelap, kamar kotor..toilet kotor...not recomended ..",kebersihan-neg,kebersihan,neg
+"Kamar cukup lumayan, Kamar mandi agak kotor ",kebersihan-neg,kebersihan,neg
+ga rekomen pokoknya. tripood sy ilang disini. mrk blg ga nemu,general-neg,general,neg
+ga rekomen pokoknya. tripood sy ilang disini. mrk blg ga nemu,service-neg,service,neg
+"Karyawan Hotel terlalu berisik, suara troli di lantai atas sangat mengganggu kamar tidak kenal suara. Pesanan saya airy. Tetapi fasilitas seperti snack, toiletres tidak saya dapatkan. ",service-neg,service,neg
+"Karyawan Hotel terlalu berisik, suara troli di lantai atas sangat mengganggu kamar tidak kenal suara. Pesanan saya airy. Tetapi fasilitas seperti snack, toiletres tidak saya dapatkan. ",linen_P1-neg,linen_P1,neg
+Fasilitas kamar berupa sprai dan sarung bantal sudah usang dan kucel sehingga membuat tdk nyaman utk tidur... Lokasi penginapan bagus dan dekat dg fasilitas penunjang berupa resto.cafe.pasar. Mall dan tempat hiburan,linen_P1-neg,linen_P1,neg
+"kamar nya bau, satpam nya kasar, resepsionisnya tidak ramah, wifi nya tidak connect",bau_P1-neg,bau_P1,neg
+"kamar nya bau, satpam nya kasar, resepsionisnya tidak ramah, wifi nya tidak connect",service-neg,service,neg
+"kamar nya bau, satpam nya kasar, resepsionisnya tidak ramah, wifi nya tidak connect",wifi_P1-neg,wifi_P1,neg
+kamar mandi nya kurang bersih.. dan aroma nya juga gak enal,kebersihan-neg,kebersihan,neg
+kamar mandi nya kurang bersih.. dan aroma nya juga gak enal,bau_P1-neg,bau_P1,neg
+"wifinya ga bisa, kamar ok pelayanan ok",wifi_P1-neg,wifi_P1,neg
+"wifinya ga bisa, kamar ok pelayanan ok",service-pos,service,pos
+"Kurang bersih untuk seprei dan selimutnya, kamar mandi kurang terawat ",kebersihan-neg,kebersihan,neg
+"Kurang bersih untuk seprei dan selimutnya, kamar mandi kurang terawat ",linen_P1-neg,linen_P1,neg
+pelayanan baik. kamar baik. kamar mandi perlu exost. agak bau di km mandi.,service-pos,service,pos
+pelayanan baik. kamar baik. kamar mandi perlu exost. agak bau di km mandi.,bau_P1-neg,bau_P1,neg
+"kurang senyum, selebihnya baik",service-neg,service,neg
+"kurang senyum, selebihnya baik",general-pos,general,pos
+"Handuknya cuma 1 dan basah, kamar mandinya bau, tidak ada air hangatnya, staff reseptionisnya kurang profesional ",linen_P1-neg,linen_P1,neg
+"Handuknya cuma 1 dan basah, kamar mandinya bau, tidak ada air hangatnya, staff reseptionisnya kurang profesional ",bau_P1-neg,bau_P1,neg
+"Handuknya cuma 1 dan basah, kamar mandinya bau, tidak ada air hangatnya, staff reseptionisnya kurang profesional ",service-neg,service,neg
+"kotor, banyak puntung rokok, setelah saya masuk harus menunggu 2 jam utk bisa masuk krn kamar kami sudah diisi oleh tamu lain, dan saat itu semua kamar katanya penuh, petugasnya malah tidak ada ditempat maka yg melayani satpam setempat saja yg tidak mengerti apa2  ",kebersihan-neg,kebersihan,neg
+"kotor, banyak puntung rokok, setelah saya masuk harus menunggu 2 jam utk bisa masuk krn kamar kami sudah diisi oleh tamu lain, dan saat itu semua kamar katanya penuh, petugasnya malah tidak ada ditempat maka yg melayani satpam setempat saja yg tidak mengerti apa2  ",service-neg,service,neg
+"Kebersihan hotel ini sangat kurang, kamar mandi kotor, tidak sesuai dengan gambar di foto. kami memang tdk berharap bersih sekali. tapi perlu dibersihkan dengan baik. hal yang baiknya adalah seprai dan bantal bersih, walaupun kasur sudah tipis, sudah lama, perlu ditambah busa supaya enak tidur. air hangat tidak ada. petugas kurang ramah. ",kebersihan-neg,kebersihan,neg
+"Kebersihan hotel ini sangat kurang, kamar mandi kotor, tidak sesuai dengan gambar di foto. kami memang tdk berharap bersih sekali. tapi perlu dibersihkan dengan baik. hal yang baiknya adalah seprai dan bantal bersih, walaupun kasur sudah tipis, sudah lama, perlu ditambah busa supaya enak tidur. air hangat tidak ada. petugas kurang ramah. ",linen_P1-neg,linen_P1,neg
+"Kebersihan hotel ini sangat kurang, kamar mandi kotor, tidak sesuai dengan gambar di foto. kami memang tdk berharap bersih sekali. tapi perlu dibersihkan dengan baik. hal yang baiknya adalah seprai dan bantal bersih, walaupun kasur sudah tipis, sudah lama, perlu ditambah busa supaya enak tidur. air hangat tidak ada. petugas kurang ramah. ",service-neg,service,neg
+"Kebersihan hotel ini sangat kurang, kamar mandi kotor, tidak sesuai dengan gambar di foto. kami memang tdk berharap bersih sekali. tapi perlu dibersihkan dengan baik. hal yang baiknya adalah seprai dan bantal bersih, walaupun kasur sudah tipis, sudah lama, perlu ditambah busa supaya enak tidur. air hangat tidak ada. petugas kurang ramah. ",air_panas_P1-neg,air_panas_P1,neg
+"Plus point: lokasi cukup bagus, kamar cukup bersih. Minus point: wifi lemot perlu di-upgrade. TV tidak bisa menangkap siaran indonesia secara lengkap, perlu antena parabola.",kebersihan-pos,kebersihan,pos
+"Plus point: lokasi cukup bagus, kamar cukup bersih. Minus point: wifi lemot perlu di-upgrade. TV tidak bisa menangkap siaran indonesia secara lengkap, perlu antena parabola.",wifi_P1-neg,wifi_P1,neg
+"Plus point: lokasi cukup bagus, kamar cukup bersih. Minus point: wifi lemot perlu di-upgrade. TV tidak bisa menangkap siaran indonesia secara lengkap, perlu antena parabola.",tv_P1-neg,tv_P1,neg
+lumayan sih untuk harga segitu . yang kurang cuman toilet nya aja kotor ky ga dibersihin soalnya ada bekas permen karet dan tisu dan siaran TV nya byk semutnya😂,kebersihan-neg,kebersihan,neg
+lumayan sih untuk harga segitu . yang kurang cuman toilet nya aja kotor ky ga dibersihin soalnya ada bekas permen karet dan tisu dan siaran TV nya byk semutnya😂,tv_P1-neg,tv_P1,neg
+"Lumayan aja. harga murah... fasilitas standard. saran... perhatikan kebersihan handuk dan sprei. yang lainnya sudah baik. overall Cukup puas, kecuali 2 hal tadi. ",linen_P1-neg,linen_P1,neg
+"Lumayan aja. harga murah... fasilitas standard. saran... perhatikan kebersihan handuk dan sprei. yang lainnya sudah baik. overall Cukup puas, kecuali 2 hal tadi. ",kebersihan-neg,kebersihan,neg
+"Lumayan aja. harga murah... fasilitas standard. saran... perhatikan kebersihan handuk dan sprei. yang lainnya sudah baik. overall Cukup puas, kecuali 2 hal tadi. ",general-pos,general,pos
+Kamar cukup luas. WIFI nggak bisa sama sekali. Banyak nyamuk baik di lobby maupun di kamar. Perlu renovasi untuk kebersihan kamar mandi.,wifi_P1-neg,wifi_P1,neg
+Kamar cukup luas. WIFI nggak bisa sama sekali. Banyak nyamuk baik di lobby maupun di kamar. Perlu renovasi untuk kebersihan kamar mandi.,kebersihan-neg,kebersihan,neg
+"kebersihan sangat kurang. air panas tidak keluar. lantai kamar banyak debu juga. ada free air minum cuma di dalam teko gitu, bukan botolan yang tersegel. jauh dari yang diharapkan dengan harga yang cukup mahal. mending cari hotel2 yang masih baru aja lah. hotel ini bangunannya udah tua.",kebersihan-neg,kebersihan,neg
+"kebersihan sangat kurang. air panas tidak keluar. lantai kamar banyak debu juga. ada free air minum cuma di dalam teko gitu, bukan botolan yang tersegel. jauh dari yang diharapkan dengan harga yang cukup mahal. mending cari hotel2 yang masih baru aja lah. hotel ini bangunannya udah tua.",linen_P1-neg,linen_P1,neg
+"Air panasnya tidak ada,, pemutar kran ada yang terlepas wkt di putar...selain itu memuaskan!!!",air_panas_P1-neg,air_panas_P1,neg
+"Air panasnya tidak ada,, pemutar kran ada yang terlepas wkt di putar...selain itu memuaskan!!!",general-pos,general,pos
+"Terdapat banyak sawang di langit langit, spreynya kotor ada bercak ",kebersihan-neg,kebersihan,neg
+"Terdapat banyak sawang di langit langit, spreynya kotor ada bercak ",linen_P1-neg,linen_P1,neg
+Kamar sesuai dgn foto. Cm satu keluhan saja tlng kebersihan kamarnya ditingkatkan lg agar tamu nyaman. ,kebersihan-neg,kebersihan,neg
+"Tidak ada snack cuma wadahnya saja, kamar mandi bau, petugas tidak ramah, ",linen_P1-neg,linen_P1,neg
+"Tidak ada snack cuma wadahnya saja, kamar mandi bau, petugas tidak ramah, ",bau_P1-neg,bau_P1,neg
+"Tidak ada snack cuma wadahnya saja, kamar mandi bau, petugas tidak ramah, ",service-neg,service,neg
+Handuknya terlihat kotor dan kasur berdebu.,kebersihan-neg,kebersihan,neg
+Handuknya terlihat kotor dan kasur berdebu.,linen_P1-neg,linen_P1,neg
+Kamar dan fasilitasnya sih lumayan lengkap dan bagus. Tapi kamar mandinya saja yang kurang bersih. Jadi sedikit kurang nyaman. Tapi dengan harga yg ditawarkan sih menurut saya cocok saja,kebersihan-neg,kebersihan,neg
+"Air Panas tidak keluar, Bantal Bau",air_panas_P1-neg,air_panas_P1,neg
+"Air Panas tidak keluar, Bantal Bau",linen_P1-neg,linen_P1,neg
+"pelayananan kurang ramah, kamar saya tidak dibersihkan selama 5 hari saya menginap, alasannya adalah tidak enak meminta kunci kepada saya.  Wifi selalu terputus dan tidak kencang di kamar.   Untuk meminjam alat makan saja tidak dilayani  Petugas hotel agak acuh, yang dibersihkan hanya kantor Hotel tetapi kamar tidak  ",service-neg,service,neg
+"pelayananan kurang ramah, kamar saya tidak dibersihkan selama 5 hari saya menginap, alasannya adalah tidak enak meminta kunci kepada saya.  Wifi selalu terputus dan tidak kencang di kamar.   Untuk meminjam alat makan saja tidak dilayani  Petugas hotel agak acuh, yang dibersihkan hanya kantor Hotel tetapi kamar tidak  ",wifi_P1-neg,wifi_P1,neg
+"washtafel ga mau berhenti ngalir. map di google dan lokasi bisa sampe beda 3 kilometer. resepsionis yang menjaga sakit sakitan, saya sampe bantu berikan obat. tv ga ada tayangan sama sekali. wifi ga ada.",service-neg,service,neg
+"washtafel ga mau berhenti ngalir. map di google dan lokasi bisa sampe beda 3 kilometer. resepsionis yang menjaga sakit sakitan, saya sampe bantu berikan obat. tv ga ada tayangan sama sekali. wifi ga ada.",tv_P1-neg,tv_P1,neg
+"washtafel ga mau berhenti ngalir. map di google dan lokasi bisa sampe beda 3 kilometer. resepsionis yang menjaga sakit sakitan, saya sampe bantu berikan obat. tv ga ada tayangan sama sekali. wifi ga ada.",wifi_P1-neg,wifi_P1,neg
+"Lokasi oke, kamar jorok apalagi di bawah bed, kamar mandi wajib renovasi dan kalau malam hanya satu petugas hotel yang ready dan itu merangkap semua (resepsionis, room boy dan lain-lain).. ",kebersihan-neg,kebersihan,neg
+"Lokasi oke, kamar jorok apalagi di bawah bed, kamar mandi wajib renovasi dan kalau malam hanya satu petugas hotel yang ready dan itu merangkap semua (resepsionis, room boy dan lain-lain).. ",service-neg,service,neg
+"Air panas tidak bagus, kebersihan kurang.",air_panas_P1-neg,air_panas_P1,neg
+"Air panas tidak bagus, kebersihan kurang.",kebersihan-neg,kebersihan,neg
+ACnya gak dingin hanya itu yang saya mengeluhkan ,ac_P1-neg,ac_P1,neg
+"Kamarnya Bersih, Cuma AC kurang dingin.",kebersihan-pos,kebersihan,pos
+"Kamarnya Bersih, Cuma AC kurang dingin.",ac_P1-neg,ac_P1,neg
+"WiFi tidak ada,air panas tidak nyala, pelayanan kurang",wifi_P1-neg,wifi_P1,neg
+"WiFi tidak ada,air panas tidak nyala, pelayanan kurang",air_panas_P1-neg,air_panas_P1,neg
+"WiFi tidak ada,air panas tidak nyala, pelayanan kurang",service-neg,service,neg
+good.. tapi kamar mandi kadang bau gak enak yang keluar dari westafel,bau_P1-neg,bau_P1,neg
+"check in nya lama, penyaringan air untuk MCK kurang bersih, tangga naik ke kasurnya ada yg retak agak ngeri diinjak, tapi saya suka design kamarnya minimalis, unik",service-neg,service,neg
+"check in nya lama, penyaringan air untuk MCK kurang bersih, tangga naik ke kasurnya ada yg retak agak ngeri diinjak, tapi saya suka design kamarnya minimalis, unik",kebersihan-neg,kebersihan,neg
+"check in nya lama, penyaringan air untuk MCK kurang bersih, tangga naik ke kasurnya ada yg retak agak ngeri diinjak, tapi saya suka design kamarnya minimalis, unik",linen_P1-neg,linen_P1,neg
+secara keseluruhan baik...tempatnya juga bersih...cuman uang jaminan sy tdk dikembalikan katanya deposito makanan pdhal pesen makanan dri hotel tidak dilakukan. itu mungkin pelayanan yg agak mengecewakan dari hotel ini...krn harusnya tiap pegawainya koordinasi dulu sama yg nginap serta harusnya ada bukti struknya klw belanja di hotel biar tau pemesanan makanan itu dari kamarnya yg mana jangan menaruh biaya pemesanan makanan ke yg menginap di kamar yg lain.,general-pos,general,pos
+secara keseluruhan baik...tempatnya juga bersih...cuman uang jaminan sy tdk dikembalikan katanya deposito makanan pdhal pesen makanan dri hotel tidak dilakukan. itu mungkin pelayanan yg agak mengecewakan dari hotel ini...krn harusnya tiap pegawainya koordinasi dulu sama yg nginap serta harusnya ada bukti struknya klw belanja di hotel biar tau pemesanan makanan itu dari kamarnya yg mana jangan menaruh biaya pemesanan makanan ke yg menginap di kamar yg lain.,kebersihan-pos,kebersihan,pos
+secara keseluruhan baik...tempatnya juga bersih...cuman uang jaminan sy tdk dikembalikan katanya deposito makanan pdhal pesen makanan dri hotel tidak dilakukan. itu mungkin pelayanan yg agak mengecewakan dari hotel ini...krn harusnya tiap pegawainya koordinasi dulu sama yg nginap serta harusnya ada bukti struknya klw belanja di hotel biar tau pemesanan makanan itu dari kamarnya yg mana jangan menaruh biaya pemesanan makanan ke yg menginap di kamar yg lain.,service-neg,service,neg
+"WiFi kencang, AC sangat-sangat tidak berfungsi seperti lagi di sauna, airnya kurang bagus karena sabun-sabun tidak ada yang berbusa bikin kulit kering. Untuk harga segitu paling tidak AC-nya dingin saja sudah sukur banget.",wifi_P1-pos,wifi_P1,pos
+"WiFi kencang, AC sangat-sangat tidak berfungsi seperti lagi di sauna, airnya kurang bagus karena sabun-sabun tidak ada yang berbusa bikin kulit kering. Untuk harga segitu paling tidak AC-nya dingin saja sudah sukur banget.",ac_P1-neg,ac_P1,neg
+"Kamar sama seperti foto, bersih, nyaman, cuman air panasnya agak kurang berfungsi dengan baik, Utnuk lainnya okk Menyenangan 😊😊😊",kebersihan-pos,kebersihan,pos
+"Kamar sama seperti foto, bersih, nyaman, cuman air panasnya agak kurang berfungsi dengan baik, Utnuk lainnya okk Menyenangan 😊😊😊",air_panas_P1-neg,air_panas_P1,neg
+"Kamar sama seperti foto, bersih, nyaman, cuman air panasnya agak kurang berfungsi dengan baik, Utnuk lainnya okk Menyenangan 😊😊😊",general-pos,general,pos
+AC tidak dingin,ac_P1-neg,ac_P1,neg
+tv gak jelas lokasi di dlm gang,tv_P1-neg,tv_P1,neg
+"Ketika sy datang tempatnya sedang direnovasi, suatu ketika sy mau istirahat sore jam 16.00 terdengar keras suara palu & gergaji, sangat mengganggu tidur. Kalau malam bunyi suara pompa yg cukup mengganggu. Tukang2 yg kerja di area renovasi tsb merokok, asap rokoknya masuk ke kamar. Sangat mengganggu. Waktu sy laporkan petugas ttg bau rokok, dia hanya sarankan agar saya nyalakan exhaust fan kamar mandi. Realitasnya walau exhaus dinyalakan, bau rokok tsb tetap ada.",bau_P1-neg,bau_P1,neg
+"Ketika sy datang tempatnya sedang direnovasi, suatu ketika sy mau istirahat sore jam 16.00 terdengar keras suara palu & gergaji, sangat mengganggu tidur. Kalau malam bunyi suara pompa yg cukup mengganggu. Tukang2 yg kerja di area renovasi tsb merokok, asap rokoknya masuk ke kamar. Sangat mengganggu. Waktu sy laporkan petugas ttg bau rokok, dia hanya sarankan agar saya nyalakan exhaust fan kamar mandi. Realitasnya walau exhaus dinyalakan, bau rokok tsb tetap ada.",service-neg,service,neg
+"Hotelnya bersih dan murah, tempatnya nyaman, sayangnya air panas tidak berfungsi.",kebersihan-pos,kebersihan,pos
+"Hotelnya bersih dan murah, tempatnya nyaman, sayangnya air panas tidak berfungsi.",air_panas_P1-neg,air_panas_P1,neg
+"Kamar kotor, toilet jorok, banyaknya kecoa di dalam kamar. Hotel ini sangat sangat tidak bisa direkomendasi",kebersihan-neg,kebersihan,neg
+"Kamarnya ada nyamuk, mohon lebih diperhatikan lagi untuk kebersihan dan kenyamannya ",kebersihan-neg,kebersihan,neg
+kamar dibersihkan dan handuk diganti setiap hari membuat nyaman tapi sayang snack hanya diberikan dihari pertama padahal saya menginap 5 hari 4 malam ,service-pos,service,pos
+kamar dibersihkan dan handuk diganti setiap hari membuat nyaman tapi sayang snack hanya diberikan dihari pertama padahal saya menginap 5 hari 4 malam ,linen_P1-neg,linen_P1,neg
+"Kamarnya oke. Pelayanan memuaskan, sarapannya oke. Cuma yang disayangkan AC kurang dingin, kamar mandinya terlalu kecil.",service-pos,service,pos
+"Kamarnya oke. Pelayanan memuaskan, sarapannya oke. Cuma yang disayangkan AC kurang dingin, kamar mandinya terlalu kecil.",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"Kamarnya oke. Pelayanan memuaskan, sarapannya oke. Cuma yang disayangkan AC kurang dingin, kamar mandinya terlalu kecil.",ac_P1-neg,ac_P1,neg
+kamar mandi kotor. lampu kamar mandi tdk menyala. kunci kamar rusak. lampu kamar remang2. tdk dapat air mineral dan snack dlm kamar. alat mandi tdk lengkap. tdk ada shampo. tidak sesuai foto. tdk ada air panas. toilet shower flush ngalirnya sangat pelan. bad service untuk hotel bintang 3. payah,kebersihan-neg,kebersihan,neg
+kamar mandi kotor. lampu kamar mandi tdk menyala. kunci kamar rusak. lampu kamar remang2. tdk dapat air mineral dan snack dlm kamar. alat mandi tdk lengkap. tdk ada shampo. tidak sesuai foto. tdk ada air panas. toilet shower flush ngalirnya sangat pelan. bad service untuk hotel bintang 3. payah,linen_P1-neg,linen_P1,neg
+kamar mandi kotor. lampu kamar mandi tdk menyala. kunci kamar rusak. lampu kamar remang2. tdk dapat air mineral dan snack dlm kamar. alat mandi tdk lengkap. tdk ada shampo. tidak sesuai foto. tdk ada air panas. toilet shower flush ngalirnya sangat pelan. bad service untuk hotel bintang 3. payah,air_panas_P1-neg,air_panas_P1,neg
+kamar mandi kotor. lampu kamar mandi tdk menyala. kunci kamar rusak. lampu kamar remang2. tdk dapat air mineral dan snack dlm kamar. alat mandi tdk lengkap. tdk ada shampo. tidak sesuai foto. tdk ada air panas. toilet shower flush ngalirnya sangat pelan. bad service untuk hotel bintang 3. payah,service-neg,service,neg
+"Toilet bau, handuk dan sabun telat, air minum dan snack gak dapet !",bau_P1-neg,bau_P1,neg
+"Toilet bau, handuk dan sabun telat, air minum dan snack gak dapet !",linen_P1-neg,linen_P1,neg
+"fasilitas memuaskan sih, tp yg g memuaskan pelayanannya masa reservasi Uda kamar deluxe buat 2 org, awal dtg 1 pas mlm dtg lg 1 ewhh jam 8 mlm di usir dengan alasan jam kunjung tamu sudah habis... udah gitu pas cek out pake di periksa semacam pencuri gitu.. pokoknya kapok nginep sana",service-neg,service,neg
+"fasilitas memuaskan sih, tp yg g memuaskan pelayanannya masa reservasi Uda kamar deluxe buat 2 org, awal dtg 1 pas mlm dtg lg 1 ewhh jam 8 mlm di usir dengan alasan jam kunjung tamu sudah habis... udah gitu pas cek out pake di periksa semacam pencuri gitu.. pokoknya kapok nginep sana",general-neg,general,neg
+kurang bersih,kebersihan-neg,kebersihan,neg
+"pelayanan di hostelnya kurang, pelayannya kurang ramah n  kurang memperhatikan,.  masa minta wifi hostel aja mereka pada sibuk game ",service-neg,service,neg
+"ac tidak dingin, kamar tdak d kasih pengharum ",ac_P1-neg,ac_P1,neg
+"ac tidak dingin, kamar tdak d kasih pengharum ",bau_P1-neg,bau_P1,neg
+Sangat sangat beda dengan foto yg ada di traveloka. Suasany smgt tdk menyenangkan dan fasilitas sangat buruk pelayanan acuh tak acuh (kurang baik bukan kuramg baik tp sangat buruk ) sy sangat menyesal kecewa sdh memesan airy rooms jl. Pengayoman akik hijau,service-neg,service,neg
+"dibawah tempat tidur masih kotor,dan kamar mandi kolam renang tidak ada shampo dan sabun mandi",kebersihan-neg,kebersihan,neg
+"dibawah tempat tidur masih kotor,dan kamar mandi kolam renang tidak ada shampo dan sabun mandi",linen_P1-neg,linen_P1,neg
+"Lokasi OK ya, plan stay lama di situ.tapi kecewa dan akhirnya pindah.karna kecewa saat minta di bersihin kamar penjaga wanita bilang kalo kamar tidak tiap hari di bersihkan, dan kalo mau hanya ganti sprei dan sapu saja...aku Ok in aja di banding enggak kan yaaa, dia mulai menyapu dn ganti sprei dengan muka BT nya dia, hzzzz pelayanannya enggak bgt dah, mana wifi jelek bngt, sinyal juga jelek.setiap x rekan kerja nelfn saya harus ke luar kamar Aka depan hotel Peer banget kan, sedangkan saya lg kerja buka laptop sinyal hp dan wifi ga connect terus !!!",service-neg,service,neg
+"Lokasi OK ya, plan stay lama di situ.tapi kecewa dan akhirnya pindah.karna kecewa saat minta di bersihin kamar penjaga wanita bilang kalo kamar tidak tiap hari di bersihkan, dan kalo mau hanya ganti sprei dan sapu saja...aku Ok in aja di banding enggak kan yaaa, dia mulai menyapu dn ganti sprei dengan muka BT nya dia, hzzzz pelayanannya enggak bgt dah, mana wifi jelek bngt, sinyal juga jelek.setiap x rekan kerja nelfn saya harus ke luar kamar Aka depan hotel Peer banget kan, sedangkan saya lg kerja buka laptop sinyal hp dan wifi ga connect terus !!!",wifi_P1-neg,wifi_P1,neg
+"Kualitas kamar kurang enak, kebersihan juga kurang.",kebersihan-neg,kebersihan,neg
+"fasilitasnya tampak baru, Nyaman, bersih, harga terjangkau, mantap... wivi nya doang sih yg problem, ga connect2 (semoga udah d perbaiki)",kebersihan-pos,kebersihan,pos
+"fasilitasnya tampak baru, Nyaman, bersih, harga terjangkau, mantap... wivi nya doang sih yg problem, ga connect2 (semoga udah d perbaiki)",wifi_P1-neg,wifi_P1,neg
+kamar kurang bersih masih banyak sampah rokok,kebersihan-neg,kebersihan,neg
+"check in tepat waktu, kamar bersih rapi, AC oke, ada kulkas, hanya saja TV tdk bs dinyalakan krn stop kontak rusak.. ",service-pos,service,pos
+"check in tepat waktu, kamar bersih rapi, AC oke, ada kulkas, hanya saja TV tdk bs dinyalakan krn stop kontak rusak.. ",kebersihan-pos,kebersihan,pos
+"check in tepat waktu, kamar bersih rapi, AC oke, ada kulkas, hanya saja TV tdk bs dinyalakan krn stop kontak rusak.. ",ac_P1-pos,ac_P1,pos
+"check in tepat waktu, kamar bersih rapi, AC oke, ada kulkas, hanya saja TV tdk bs dinyalakan krn stop kontak rusak.. ",tv_P1-neg,tv_P1,neg
+Kamar mandi na agak bau dan kurang strategis tempat na,bau_P1-neg,bau_P1,neg
+"Pelayanan hotel tidak ramah, kamar mandi kotor dan bau, kasur sangat berisik, untuk tontonan TV sudah bagus dan jernih ditambah pakai indovision. Sekali lagi mohon untuk diperhatikan pelayanannya ya.",service-neg,service,neg
+"Pelayanan hotel tidak ramah, kamar mandi kotor dan bau, kasur sangat berisik, untuk tontonan TV sudah bagus dan jernih ditambah pakai indovision. Sekali lagi mohon untuk diperhatikan pelayanannya ya.",kebersihan-neg,kebersihan,neg
+"Pelayanan hotel tidak ramah, kamar mandi kotor dan bau, kasur sangat berisik, untuk tontonan TV sudah bagus dan jernih ditambah pakai indovision. Sekali lagi mohon untuk diperhatikan pelayanannya ya.",bau_P1-neg,bau_P1,neg
+"Pelayanan hotel tidak ramah, kamar mandi kotor dan bau, kasur sangat berisik, untuk tontonan TV sudah bagus dan jernih ditambah pakai indovision. Sekali lagi mohon untuk diperhatikan pelayanannya ya.",linen_P1-neg,linen_P1,neg
+"Pelayanan hotel tidak ramah, kamar mandi kotor dan bau, kasur sangat berisik, untuk tontonan TV sudah bagus dan jernih ditambah pakai indovision. Sekali lagi mohon untuk diperhatikan pelayanannya ya.",tv_P1-pos,tv_P1,pos
+"Sayangnya saya tidak foto2,,pertama masuk ke kamar,, baunya seperti bau kamar lama,, Pengap..Sprei Dan sarung bantal kusam,,tempat snack aga kotor,, trutama toilet Ada Bekas (maaf kotoran kecil yg tidak Dibersihkan),,jendela Samping wastafel Dan wastafel aga kotor.   Maaf Kalau saya sedetail Itu karena memang seharusnya semua penginapan Itu apalagi Sekelas Airy yg Sudah iklan Di Traveloka harusnya Wangi Dan beraih.  Semoga kedepannya Tambah bagus",bau_P1-neg,bau_P1,neg
+"Sayangnya saya tidak foto2,,pertama masuk ke kamar,, baunya seperti bau kamar lama,, Pengap..Sprei Dan sarung bantal kusam,,tempat snack aga kotor,, trutama toilet Ada Bekas (maaf kotoran kecil yg tidak Dibersihkan),,jendela Samping wastafel Dan wastafel aga kotor.   Maaf Kalau saya sedetail Itu karena memang seharusnya semua penginapan Itu apalagi Sekelas Airy yg Sudah iklan Di Traveloka harusnya Wangi Dan beraih.  Semoga kedepannya Tambah bagus",linen_P1-neg,linen_P1,neg
+"Sayangnya saya tidak foto2,,pertama masuk ke kamar,, baunya seperti bau kamar lama,, Pengap..Sprei Dan sarung bantal kusam,,tempat snack aga kotor,, trutama toilet Ada Bekas (maaf kotoran kecil yg tidak Dibersihkan),,jendela Samping wastafel Dan wastafel aga kotor.   Maaf Kalau saya sedetail Itu karena memang seharusnya semua penginapan Itu apalagi Sekelas Airy yg Sudah iklan Di Traveloka harusnya Wangi Dan beraih.  Semoga kedepannya Tambah bagus",kebersihan-neg,kebersihan,neg
+"Secara keseluruhan cukup bersih tempatnya, cukup nyaman, sarapan enak. Saya ga tau kamar yg lain, tpi di kamar saya 102 klo ga salah,, Ac krg dingin, kamar mandi saluran nya agak tersumbat jadi menggenang airnya klo mandi agak lama. Dgn kondisi sprti itu harga nya jadi krg sesuai,, ",general-pos,general,pos
+"Secara keseluruhan cukup bersih tempatnya, cukup nyaman, sarapan enak. Saya ga tau kamar yg lain, tpi di kamar saya 102 klo ga salah,, Ac krg dingin, kamar mandi saluran nya agak tersumbat jadi menggenang airnya klo mandi agak lama. Dgn kondisi sprti itu harga nya jadi krg sesuai,, ",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"Secara keseluruhan cukup bersih tempatnya, cukup nyaman, sarapan enak. Saya ga tau kamar yg lain, tpi di kamar saya 102 klo ga salah,, Ac krg dingin, kamar mandi saluran nya agak tersumbat jadi menggenang airnya klo mandi agak lama. Dgn kondisi sprti itu harga nya jadi krg sesuai,, ",ac_P1-neg,ac_P1,neg
+"Secara keseluruhan cukup bersih tempatnya, cukup nyaman, sarapan enak. Saya ga tau kamar yg lain, tpi di kamar saya 102 klo ga salah,, Ac krg dingin, kamar mandi saluran nya agak tersumbat jadi menggenang airnya klo mandi agak lama. Dgn kondisi sprti itu harga nya jadi krg sesuai,, ",kebersihan-neg,kebersihan,neg
+"Tidak sesuai ekspektasi, kamar tidak sesuai foto. Staf resto kurang ramah.",service-neg,service,neg
+"Kamarnya kotor bgt dan banyak nyamuk, tidak ada petugas saat chek in jadi harus menunggu dulu, kamar sangat sempit dan sumpek",kebersihan-neg,kebersihan,neg
+"Kamarnya kotor bgt dan banyak nyamuk, tidak ada petugas saat chek in jadi harus menunggu dulu, kamar sangat sempit dan sumpek",service-neg,service,neg
+"Kamarnya kotor bgt dan banyak nyamuk, tidak ada petugas saat chek in jadi harus menunggu dulu, kamar sangat sempit dan sumpek",bau_P1-neg,bau_P1,neg
+Air Panas tidak tersedia.Tidak sesuai deskripsi saat awal mula pemesanan Thanks,air_panas_P1-neg,air_panas_P1,neg
+"kamarnya bagus sih, awalnya bapak penjaga nya bilang nanti dipindahkan ke kamar khusus airy, giliran sore harinya saya balik dr jalan2 dia batal pindahin dg alasan sudah di booking orang (overcomit). terus hari jumat ada air panas, hari sabtu dan minggu air panasnya ga bisa. saya bbrp kali ke airy dapat showerkit air n cemilan yg diberikan setiap hari n dapat 2pack, tapi 2malam disitu saya cm dapat air n shower kitt di hari pertama saja. akhirnya beli air sendiri diluar.",service-neg,service,neg
+"kamarnya bagus sih, awalnya bapak penjaga nya bilang nanti dipindahkan ke kamar khusus airy, giliran sore harinya saya balik dr jalan2 dia batal pindahin dg alasan sudah di booking orang (overcomit). terus hari jumat ada air panas, hari sabtu dan minggu air panasnya ga bisa. saya bbrp kali ke airy dapat showerkit air n cemilan yg diberikan setiap hari n dapat 2pack, tapi 2malam disitu saya cm dapat air n shower kitt di hari pertama saja. akhirnya beli air sendiri diluar.",air_panas_P1-neg,air_panas_P1,neg
+"kamarnya bagus sih, awalnya bapak penjaga nya bilang nanti dipindahkan ke kamar khusus airy, giliran sore harinya saya balik dr jalan2 dia batal pindahin dg alasan sudah di booking orang (overcomit). terus hari jumat ada air panas, hari sabtu dan minggu air panasnya ga bisa. saya bbrp kali ke airy dapat showerkit air n cemilan yg diberikan setiap hari n dapat 2pack, tapi 2malam disitu saya cm dapat air n shower kitt di hari pertama saja. akhirnya beli air sendiri diluar.",linen_P1-neg,linen_P1,neg
+"Kamar tidak sesuai dengan pesanan,saya pesan kamar dengan singel bad yg besar di kasih doubel bad,di penawaran bangunan baru ternyata bangunan lama serta Handuk terkesan kotor dan bau kurang enak sehingga tidak nyaman di pakai,yang intinya Pihak Hotel menyampaikan kalau Airy Rooms over booking.Saya tidak terlalu mempermasalahkan pihak Hotel namun yang saya Sesalkan adalah Pihak AIRY ROOMS Yang tidak ada Konfirmasi sama sekali ke kasaya soal over booking tersebut.Saya kecewa!",linen_P1-neg,linen_P1,neg
+"Kamar tidak sesuai dengan pesanan,saya pesan kamar dengan singel bad yg besar di kasih doubel bad,di penawaran bangunan baru ternyata bangunan lama serta Handuk terkesan kotor dan bau kurang enak sehingga tidak nyaman di pakai,yang intinya Pihak Hotel menyampaikan kalau Airy Rooms over booking.Saya tidak terlalu mempermasalahkan pihak Hotel namun yang saya Sesalkan adalah Pihak AIRY ROOMS Yang tidak ada Konfirmasi sama sekali ke kasaya soal over booking tersebut.Saya kecewa!",kebersihan-neg,kebersihan,neg
+"Kamar tidak sesuai dengan pesanan,saya pesan kamar dengan singel bad yg besar di kasih doubel bad,di penawaran bangunan baru ternyata bangunan lama serta Handuk terkesan kotor dan bau kurang enak sehingga tidak nyaman di pakai,yang intinya Pihak Hotel menyampaikan kalau Airy Rooms over booking.Saya tidak terlalu mempermasalahkan pihak Hotel namun yang saya Sesalkan adalah Pihak AIRY ROOMS Yang tidak ada Konfirmasi sama sekali ke kasaya soal over booking tersebut.Saya kecewa!",service-neg,service,neg
+"wifinya gak bisa, untuk yg lainnya cukup baik",wifi_P1-neg,wifi_P1,neg
+"wifinya gak bisa, untuk yg lainnya cukup baik",general-pos,general,pos
+"Kamar mandi jorok, lingkungan tiap kamar jorok banyak sampah berserakan, pelayanan kurang ramah, diberikan charge tanpa penjelasan.",kebersihan-neg,kebersihan,neg
+"Kamar mandi jorok, lingkungan tiap kamar jorok banyak sampah berserakan, pelayanan kurang ramah, diberikan charge tanpa penjelasan.",service-neg,service,neg
+"Untuk pelayanan dan kebersihan sangat baik. Ditambah dapat menyediakan makanan di saat perut kosong dengan memesan nasi box. Fasilitas kamar, tv, dan kamar mandi juga oke banget. Masukan terdapat pada ac karena saya rasa kurang dingin apalagi lokasi hotel berdekatan dengan pantai utara sehingga kalau siang cenderung terasa panas. ",service-pos,service,pos
+"Untuk pelayanan dan kebersihan sangat baik. Ditambah dapat menyediakan makanan di saat perut kosong dengan memesan nasi box. Fasilitas kamar, tv, dan kamar mandi juga oke banget. Masukan terdapat pada ac karena saya rasa kurang dingin apalagi lokasi hotel berdekatan dengan pantai utara sehingga kalau siang cenderung terasa panas. ",kebersihan-pos,kebersihan,pos
+"Untuk pelayanan dan kebersihan sangat baik. Ditambah dapat menyediakan makanan di saat perut kosong dengan memesan nasi box. Fasilitas kamar, tv, dan kamar mandi juga oke banget. Masukan terdapat pada ac karena saya rasa kurang dingin apalagi lokasi hotel berdekatan dengan pantai utara sehingga kalau siang cenderung terasa panas. ",tv_P1-pos,tv_P1,pos
+"Untuk pelayanan dan kebersihan sangat baik. Ditambah dapat menyediakan makanan di saat perut kosong dengan memesan nasi box. Fasilitas kamar, tv, dan kamar mandi juga oke banget. Masukan terdapat pada ac karena saya rasa kurang dingin apalagi lokasi hotel berdekatan dengan pantai utara sehingga kalau siang cenderung terasa panas. ",ac_P1-neg,ac_P1,neg
+"Hotel ini banyak sekali nyamuk,,lemari nya bau, kamar mandi banyak rambutnya dan lantainya agak lengket..ga sampai semalam disini langsung keluar sendiri karena ga nyaman sama sekali..murah sih..cuma ya jangan jadi murahan juga 😌",kebersihan-neg,kebersihan,neg
+kami di usir krena tidak kecocokan ktp...pdahal kmi kluarga.,service-neg,service,neg
+"Tempatnya kotor (bnyak rambut diatad kasur) , pelayanan kurang ramah, fasilitas tdk sesuai (harusnya bed double itu handuk 2 tp hanya dikasi 2)",kebersihan-neg,kebersihan,neg
+"Tempatnya kotor (bnyak rambut diatad kasur) , pelayanan kurang ramah, fasilitas tdk sesuai (harusnya bed double itu handuk 2 tp hanya dikasi 2)",service-neg,service,neg
+"Tempatnya kotor (bnyak rambut diatad kasur) , pelayanan kurang ramah, fasilitas tdk sesuai (harusnya bed double itu handuk 2 tp hanya dikasi 2)",linen_P1-neg,linen_P1,neg
+Saya dapat kamar dgn kamar mandi nya penuh serangga dan bauu. Tempat tidurnya bikin gatal2. Shower macet air panas ndak ada. bener bener Parah,kebersihan-neg,kebersihan,neg
+Saya dapat kamar dgn kamar mandi nya penuh serangga dan bauu. Tempat tidurnya bikin gatal2. Shower macet air panas ndak ada. bener bener Parah,linen_P1-neg,linen_P1,neg
+Saya dapat kamar dgn kamar mandi nya penuh serangga dan bauu. Tempat tidurnya bikin gatal2. Shower macet air panas ndak ada. bener bener Parah,bau_P1-neg,bau_P1,neg
+Saya dapat kamar dgn kamar mandi nya penuh serangga dan bauu. Tempat tidurnya bikin gatal2. Shower macet air panas ndak ada. bener bener Parah,air_panas_P1-neg,air_panas_P1,neg
+selimutnya tipis n agak bau. ketika saya minta ganti pihak hotel ny tdk mau mengganti. sampah di dpn kamar saya g prnh dibersihkan,linen_P1-neg,linen_P1,neg
+selimutnya tipis n agak bau. ketika saya minta ganti pihak hotel ny tdk mau mengganti. sampah di dpn kamar saya g prnh dibersihkan,service-neg,service,neg
+selimutnya tipis n agak bau. ketika saya minta ganti pihak hotel ny tdk mau mengganti. sampah di dpn kamar saya g prnh dibersihkan,kebersihan-neg,kebersihan,neg
+"diberikan kamar yg ac nya rusak, tidur 3 malam serasa di sauna.. panasnya puoll.. seharusnya dicarikan solusinya",ac_P1-neg,ac_P1,neg
+kamarnya tidak bagus. sprei kotor.pascheckin kmar msih banyak sampah berserakan. airminum dan cemilan tidak ada. tv kabel siarannya tidak bagus. tidak recomanded buat penginapan,linen_P1-neg,linen_P1,neg
+kamarnya tidak bagus. sprei kotor.pascheckin kmar msih banyak sampah berserakan. airminum dan cemilan tidak ada. tv kabel siarannya tidak bagus. tidak recomanded buat penginapan,kebersihan-neg,kebersihan,neg
+kamarnya tidak bagus. sprei kotor.pascheckin kmar msih banyak sampah berserakan. airminum dan cemilan tidak ada. tv kabel siarannya tidak bagus. tidak recomanded buat penginapan,tv_P1-neg,tv_P1,neg
+Kamar yang tidak seluas dengan difoto.Kebersihan kamar tidak diperhatikan.,kebersihan-neg,kebersihan,neg
+"Tidak sesuai dengan foto.. Selimutnya tipis, seprainya keliatan kuno. Lebih baik ganti putih bersih saja seprainya. Handuknya yg 1 agak bau beda dgn airy di Jakarta.",linen_P1-neg,linen_P1,neg
+"Bantal tidurnya bau, bantal airy malah lebih bau. Kran shower patah sehingga saya tidak bisa mandi. Tetapi lokasi sangat strategis, kamar mandi bersih, kamar tidur cukul luas, dan staf juga membantu serta ramah.",linen_P1-neg,linen_P1,neg
+"Bantal tidurnya bau, bantal airy malah lebih bau. Kran shower patah sehingga saya tidak bisa mandi. Tetapi lokasi sangat strategis, kamar mandi bersih, kamar tidur cukul luas, dan staf juga membantu serta ramah.",kebersihan-pos,kebersihan,pos
+"Bantal tidurnya bau, bantal airy malah lebih bau. Kran shower patah sehingga saya tidak bisa mandi. Tetapi lokasi sangat strategis, kamar mandi bersih, kamar tidur cukul luas, dan staf juga membantu serta ramah.",service-pos,service,pos
+"Dua hari menginap di sini dua kali mati lampu, dan pas TV juga rusak, untuk tempat cukup nyaman, minum bisa ambil sepuasnya di depan ada galon dan di pojok jajan bisa ambil jajan, permen sepuasnya, untuk teman-teman yang mau menginap disini lebih dari 1 hari kamar mau dibersihkan langsung kasihkan kunci ke pengurus ya. Mbanya cukup ramah.",tv_P1-neg,tv_P1,neg
+"Dua hari menginap di sini dua kali mati lampu, dan pas TV juga rusak, untuk tempat cukup nyaman, minum bisa ambil sepuasnya di depan ada galon dan di pojok jajan bisa ambil jajan, permen sepuasnya, untuk teman-teman yang mau menginap disini lebih dari 1 hari kamar mau dibersihkan langsung kasihkan kunci ke pengurus ya. Mbanya cukup ramah.",service-pos,service,pos
+"Dua hari menginap di sini dua kali mati lampu, dan pas TV juga rusak, untuk tempat cukup nyaman, minum bisa ambil sepuasnya di depan ada galon dan di pojok jajan bisa ambil jajan, permen sepuasnya, untuk teman-teman yang mau menginap disini lebih dari 1 hari kamar mau dibersihkan langsung kasihkan kunci ke pengurus ya. Mbanya cukup ramah.",linen_P1-pos,linen_P1,pos
+"bed tidak sesuai pesanan, pelayanan sangat lama",service-neg,service,neg
+"Kamar mandi kotor, ada binatang2 kecil sejenis cacing  di lantai kamar mandi.. Lantai kamar kotor.. selimut kecil bgt.. seprai kotor.. overall fasilitasnya tidak terawat.",kebersihan-neg,kebersihan,neg
+"Kamar mandi kotor, ada binatang2 kecil sejenis cacing  di lantai kamar mandi.. Lantai kamar kotor.. selimut kecil bgt.. seprai kotor.. overall fasilitasnya tidak terawat.",linen_P1-neg,linen_P1,neg
+"Kamar mandi kotor, ada binatang2 kecil sejenis cacing  di lantai kamar mandi.. Lantai kamar kotor.. selimut kecil bgt.. seprai kotor.. overall fasilitasnya tidak terawat.",general-neg,general,neg
+"Kondisi kamar jauh dibawah dari expectasi, tidak seperti foto foto yang dilampirkan di traveloka. Wifi tidak bisa digunakan di kamar. Kunci kamar baru diberikan saat sudah malam hari,  Sementara sebelumnya keluar masuk harus pinjam kunci kamar ke resepsionis. Kamar mandi dalam kondisi kotor. selang air shower dan toilet bocor jika digunakan dibawah wastafel ditemukan bangkai kecoak mati. Maaf, tapi nampaknya Hotel ini perlu penanganan dan manajemen yang lebih serius.",wifi_P1-neg,wifi_P1,neg
+"Kondisi kamar jauh dibawah dari expectasi, tidak seperti foto foto yang dilampirkan di traveloka. Wifi tidak bisa digunakan di kamar. Kunci kamar baru diberikan saat sudah malam hari,  Sementara sebelumnya keluar masuk harus pinjam kunci kamar ke resepsionis. Kamar mandi dalam kondisi kotor. selang air shower dan toilet bocor jika digunakan dibawah wastafel ditemukan bangkai kecoak mati. Maaf, tapi nampaknya Hotel ini perlu penanganan dan manajemen yang lebih serius.",kebersihan-neg,kebersihan,neg
+"Kondisi kamar jauh dibawah dari expectasi, tidak seperti foto foto yang dilampirkan di traveloka. Wifi tidak bisa digunakan di kamar. Kunci kamar baru diberikan saat sudah malam hari,  Sementara sebelumnya keluar masuk harus pinjam kunci kamar ke resepsionis. Kamar mandi dalam kondisi kotor. selang air shower dan toilet bocor jika digunakan dibawah wastafel ditemukan bangkai kecoak mati. Maaf, tapi nampaknya Hotel ini perlu penanganan dan manajemen yang lebih serius.",service-neg,service,neg
+"kamar mandi yang kotor dan berbau sangat membuat tidak nyaman, dan lampu kamar yang terlalu redup sehingga sangat menyusahkan untuk membaca, sprei nya pun juga kurang bersih",kebersihan-neg,kebersihan,neg
+"kamar mandi yang kotor dan berbau sangat membuat tidak nyaman, dan lampu kamar yang terlalu redup sehingga sangat menyusahkan untuk membaca, sprei nya pun juga kurang bersih",bau_P1-neg,bau_P1,neg
+"kamar mandi yang kotor dan berbau sangat membuat tidak nyaman, dan lampu kamar yang terlalu redup sehingga sangat menyusahkan untuk membaca, sprei nya pun juga kurang bersih",linen_P1-neg,linen_P1,neg
+"Lokasi mudah dijangkau, dekat daerah2 ramai di Gandaria, Pondok Indah. Sayangnya saya book 2 malam, tapi di hari kedua kamarnya tidak dibersihkan. Padahal waktu check in sudah diminta untuk menyerahkan kunci pagi-pagi supaya kamarnya bisa dibersihkan.",service-neg,service,neg
+"MINTA TOLONG KEPADA TIM AIRY ROOM UNTUK MENGUNJUNGI LOKASI HOTEL INI !!! TIDAK LAYAK,KOTOR,TIDAK ADA SABUN DARI AIRY TIDAK ADA SNACK YG BIASA DI SEDIAKAN KALO SAYA SEDANG MENGINAP DI AIRY😲😲 DAN 1 LAGI TEMPAT NYA TIDAK LAYAK MENJADI AGEN AIRY ,PLEASE LIAT LOKASI NYA ",kebersihan-neg,kebersihan,neg
+"MINTA TOLONG KEPADA TIM AIRY ROOM UNTUK MENGUNJUNGI LOKASI HOTEL INI !!! TIDAK LAYAK,KOTOR,TIDAK ADA SABUN DARI AIRY TIDAK ADA SNACK YG BIASA DI SEDIAKAN KALO SAYA SEDANG MENGINAP DI AIRY😲😲 DAN 1 LAGI TEMPAT NYA TIDAK LAYAK MENJADI AGEN AIRY ,PLEASE LIAT LOKASI NYA ",linen_P1-neg,linen_P1,neg
+"sprei kurang wangi, makanan dianter ke kamar dkenakan biaya. entah kebijakan hotelnya begitu atau gimana kurang paham.",linen_P1-neg,linen_P1,neg
+"sprei kurang wangi, makanan dianter ke kamar dkenakan biaya. entah kebijakan hotelnya begitu atau gimana kurang paham.",service-neg,service,neg
+"Di kamar 2001, kamar mandi tidak ada air panas...siaran tv kabel tidak jernih...proses menunggu cek in lama (kami menunggu 1 jam). Tapi breakfast enak, banyak variasi,,,",air_panas_P1-neg,air_panas_P1,neg
+"Di kamar 2001, kamar mandi tidak ada air panas...siaran tv kabel tidak jernih...proses menunggu cek in lama (kami menunggu 1 jam). Tapi breakfast enak, banyak variasi,,,",tv_P1-neg,tv_P1,neg
+"Di kamar 2001, kamar mandi tidak ada air panas...siaran tv kabel tidak jernih...proses menunggu cek in lama (kami menunggu 1 jam). Tapi breakfast enak, banyak variasi,,,",service-neg,service,neg
+"Di kamar 2001, kamar mandi tidak ada air panas...siaran tv kabel tidak jernih...proses menunggu cek in lama (kami menunggu 1 jam). Tapi breakfast enak, banyak variasi,,,",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+Memuaskan cuma minus tidak ada TV buat hiburan,tv_P1-neg,tv_P1,neg
+"kamarnya bersih..tapi acnya kurang dingin, makanannya juga terlalu mahal.",kebersihan-pos,kebersihan,pos
+"kamarnya bersih..tapi acnya kurang dingin, makanannya juga terlalu mahal.",ac_P1-neg,ac_P1,neg
+"apa yang digambarkan tidak sesuai dengan kenyataannya... sangat kotor, karyawan ribut, tidak ramah, bantal dan kasurnya tidak empuk sama sekali, dengan harga yang ditawarkan sangat tidak sesuai, pokoknya untuk yang lain saya sarankan jangan mau menginap di sini, semuanya mengecewakan",kebersihan-neg,kebersihan,neg
+"apa yang digambarkan tidak sesuai dengan kenyataannya... sangat kotor, karyawan ribut, tidak ramah, bantal dan kasurnya tidak empuk sama sekali, dengan harga yang ditawarkan sangat tidak sesuai, pokoknya untuk yang lain saya sarankan jangan mau menginap di sini, semuanya mengecewakan",service-neg,service,neg
+"apa yang digambarkan tidak sesuai dengan kenyataannya... sangat kotor, karyawan ribut, tidak ramah, bantal dan kasurnya tidak empuk sama sekali, dengan harga yang ditawarkan sangat tidak sesuai, pokoknya untuk yang lain saya sarankan jangan mau menginap di sini, semuanya mengecewakan",linen_P1-neg,linen_P1,neg
+"apa yang digambarkan tidak sesuai dengan kenyataannya... sangat kotor, karyawan ribut, tidak ramah, bantal dan kasurnya tidak empuk sama sekali, dengan harga yang ditawarkan sangat tidak sesuai, pokoknya untuk yang lain saya sarankan jangan mau menginap di sini, semuanya mengecewakan",general-neg,general,neg
+"Fasilitas sesuai dengan yg diharapkan. tapi ada 1 yg kurang, Wifi. mohon diperbaiki. terimakasih!",wifi_P1-neg,wifi_P1,neg
+"Nyaman hotelnya, resepsionis nya ramah, tapi kamar nya kotor",kebersihan-neg,kebersihan,neg
+"Nyaman hotelnya, resepsionis nya ramah, tapi kamar nya kotor",service-pos,service,pos
+"Kamarnya bau rokok, kamar mandinya bau dan jorok, pelayanan nya asal, fasilitasnya kurang, intinya sangat mengecewakan",bau_P1-neg,bau_P1,neg
+"Kamarnya bau rokok, kamar mandinya bau dan jorok, pelayanan nya asal, fasilitasnya kurang, intinya sangat mengecewakan",kebersihan-neg,kebersihan,neg
+"Kamarnya bau rokok, kamar mandinya bau dan jorok, pelayanan nya asal, fasilitasnya kurang, intinya sangat mengecewakan",service-neg,service,neg
+"Kamarnya bau rokok, kamar mandinya bau dan jorok, pelayanan nya asal, fasilitasnya kurang, intinya sangat mengecewakan",general-neg,general,neg
+"yey! finally dpt room menginap yg nyaman dan murceee. jadi airy rooms Jogja Mergangsan ini good sebenernya. cuma satu pagi pagi kok ada kecoanyaa yah. hiks pas mandi lagi.. sarannya tiap kamar di semprot anti serangga dulu yaaah, pelayanan udah oke gk mungkin kan jd image jelek karena kecoa. 😋 thankyou airy rooms, you made ma day! 😇",kebersihan-neg,kebersihan,neg
+"yey! finally dpt room menginap yg nyaman dan murceee. jadi airy rooms Jogja Mergangsan ini good sebenernya. cuma satu pagi pagi kok ada kecoanyaa yah. hiks pas mandi lagi.. sarannya tiap kamar di semprot anti serangga dulu yaaah, pelayanan udah oke gk mungkin kan jd image jelek karena kecoa. 😋 thankyou airy rooms, you made ma day! 😇",service-pos,service,pos
+Pelayanan receptionis nya kurang baik,service-neg,service,neg
+Sangat memuaskan sekali tapi wifi nya tolong di tingkat kan,wifi_P1-neg,wifi_P1,neg
+"Cukup nyaman, tapi di meja dan tempat gula banyak semut. ACnya bocor dan airnya juga menetes di meja. Perlu lebih diperhatikan dan dirawat ACnya dan kebersihan meja serta tempat gula sehingga tidak bersemut.",ac_P1-neg,ac_P1,neg
+"Cukup nyaman, tapi di meja dan tempat gula banyak semut. ACnya bocor dan airnya juga menetes di meja. Perlu lebih diperhatikan dan dirawat ACnya dan kebersihan meja serta tempat gula sehingga tidak bersemut.",kebersihan-neg,kebersihan,neg
+"AC nya tidak bagus remot nya,sabun nya bau menyan",ac_P1-neg,ac_P1,neg
+"AC nya tidak bagus remot nya,sabun nya bau menyan",linen_P1-neg,linen_P1,neg
+"Mengecewakan, receptionists tidak ramah, dinding kotor, kamar mandi kotor, tidak ada air panas padahal dikatakan ada, bantal+sprei bau apek lembab sekali, lampu hanya 1 saklar, overall sangat mengecewakan.",service-neg,service,neg
+"Mengecewakan, receptionists tidak ramah, dinding kotor, kamar mandi kotor, tidak ada air panas padahal dikatakan ada, bantal+sprei bau apek lembab sekali, lampu hanya 1 saklar, overall sangat mengecewakan.",kebersihan-neg,kebersihan,neg
+"Mengecewakan, receptionists tidak ramah, dinding kotor, kamar mandi kotor, tidak ada air panas padahal dikatakan ada, bantal+sprei bau apek lembab sekali, lampu hanya 1 saklar, overall sangat mengecewakan.",general-neg,general,neg
+"Mengecewakan, receptionists tidak ramah, dinding kotor, kamar mandi kotor, tidak ada air panas padahal dikatakan ada, bantal+sprei bau apek lembab sekali, lampu hanya 1 saklar, overall sangat mengecewakan.",air_panas_P1-neg,air_panas_P1,neg
+"Mengecewakan, receptionists tidak ramah, dinding kotor, kamar mandi kotor, tidak ada air panas padahal dikatakan ada, bantal+sprei bau apek lembab sekali, lampu hanya 1 saklar, overall sangat mengecewakan.",linen_P1-neg,linen_P1,neg
+sudah cukup nyaman hanya wifi di kamar kadang putus nyambung.... akses menuju lokasinya rada susah (jalannya sempit) ,wifi_P1-neg,wifi_P1,neg
+Kurang bersih dan banyak semut,kebersihan-neg,kebersihan,neg
+suasana nyaman hanya saja room servicenya perlu ditingkatkan,service-neg,service,neg
+sprei kotor,kebersihan-neg,kebersihan,neg
+sprei kotor,linen_P1-neg,linen_P1,neg
+"penataan ruang kurang baik, kamr tidur sempit sementara kamar mandi besar. ruangan kirang bersih, bantal lepek, tempat tidur reyot",kebersihan-neg,kebersihan,neg
+"penataan ruang kurang baik, kamr tidur sempit sementara kamar mandi besar. ruangan kirang bersih, bantal lepek, tempat tidur reyot",linen_P1-neg,linen_P1,neg
+"Wifi lambat, ruangan gelap dan sinyal hp kadang susah",wifi_P1-neg,wifi_P1,neg
+kotor. tak terawat. terutama kmr mandi,kebersihan-neg,kebersihan,neg
+kebersihan dan fasilitas kamar lmyn bgs utk harga segitu.  apalagi masih dpt sarapan. Wifi jg kenceng. sayang remot AC tidak berfungsi dan kran kamar mandi jg rusak. kurang perawatan,wifi_P1-pos,wifi_P1,pos
+kebersihan dan fasilitas kamar lmyn bgs utk harga segitu.  apalagi masih dpt sarapan. Wifi jg kenceng. sayang remot AC tidak berfungsi dan kran kamar mandi jg rusak. kurang perawatan,sunrise_meal_P1-pos,sunrise_meal_P1,pos
+kebersihan dan fasilitas kamar lmyn bgs utk harga segitu.  apalagi masih dpt sarapan. Wifi jg kenceng. sayang remot AC tidak berfungsi dan kran kamar mandi jg rusak. kurang perawatan,ac_P1-neg,ac_P1,neg
+kamar sangat rekomendasi (kebetulan ssya mengambil yg double bed) ac berfungsi baik cs penginapan sangat membantu kekurangan hanya tidak ada selimut saja terima kasih,service-pos,service,pos
+kamar sangat rekomendasi (kebetulan ssya mengambil yg double bed) ac berfungsi baik cs penginapan sangat membantu kekurangan hanya tidak ada selimut saja terima kasih,linen_P1-neg,linen_P1,neg
+kamar sangat rekomendasi (kebetulan ssya mengambil yg double bed) ac berfungsi baik cs penginapan sangat membantu kekurangan hanya tidak ada selimut saja terima kasih,ac_P1-pos,ac_P1,pos
+"Pertama cek in ribet, waktu sampai di kamar, ternyata kamarnya belum dibersihkan. Jadi musti nunggu. Baru masuk kamar jam 3. Ac menetes. ",service-neg,service,neg
+"Pertama cek in ribet, waktu sampai di kamar, ternyata kamarnya belum dibersihkan. Jadi musti nunggu. Baru masuk kamar jam 3. Ac menetes. ",ac_P1-neg,ac_P1,neg
+lantai wc nya agak licin breakfast nya lumayan,kebersihan-neg,kebersihan,neg
+lantai wc nya agak licin breakfast nya lumayan,sunrise_meal_P1-pos,sunrise_meal_P1,pos
+sunrise meal hanya berisi 1/3 bagian dari yang tertera. toiletries tidak lengkap. kamar yang didapat tidak sesuai dengan yang dipesan. saya pesan kamar deluxe taoi hanya dapat yg superior. complain hanya ditanggapi permintaan maaf tanpa ada pemberian kompensasi.,sunrise_meal_P1-neg,sunrise_meal_P1,neg
+sunrise meal hanya berisi 1/3 bagian dari yang tertera. toiletries tidak lengkap. kamar yang didapat tidak sesuai dengan yang dipesan. saya pesan kamar deluxe taoi hanya dapat yg superior. complain hanya ditanggapi permintaan maaf tanpa ada pemberian kompensasi.,linen_P1-neg,linen_P1,neg
+sunrise meal hanya berisi 1/3 bagian dari yang tertera. toiletries tidak lengkap. kamar yang didapat tidak sesuai dengan yang dipesan. saya pesan kamar deluxe taoi hanya dapat yg superior. complain hanya ditanggapi permintaan maaf tanpa ada pemberian kompensasi.,service-neg,service,neg
+"kamar dan kolam renang bagus, service wkt c/i agar dapat lebih attentive dan pro aktif, service staf wkt c/o bagus, staf di restoran dkt pool garing no greeting terkesan cuek ",service-neg,service,neg
+"hotel tua, ac tidak dingin, pintu kamar mandi rusak, toilett rusak dan kamar mandi kotor",ac_P1-neg,ac_P1,neg
+"hotel tua, ac tidak dingin, pintu kamar mandi rusak, toilett rusak dan kamar mandi kotor",kebersihan-neg,kebersihan,neg
+"cuma air panas buat mandi nya yg agak kurang hangat, pelayanan baik",service-pos,service,pos
+"cuma air panas buat mandi nya yg agak kurang hangat, pelayanan baik",air_panas_P1-neg,air_panas_P1,neg
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",service-pos,service,pos
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",sunrise_meal_P1-pos,sunrise_meal_P1,pos
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",kebersihan-neg,kebersihan,neg
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",bau_P1-pos,bau_P1,pos
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",ac_P1-pos,ac_P1,pos
+"Situ rooms emang oke banget. murah dan nyaman, dapat makanan gratis juga. proses check in cepat dan berjalan lancar n sarapan enak. ac dingin n kamar juga wangi . cuma kebersihan besar cover dan sprei tolong di tingkatkan. bed cover tidak di ganti. hanya di balik saja karena masih ada sisa noda pelanggan sebelumnya. kmudian pengering rambut juga tidak ada seperti di keterangan.",linen_P1-neg,linen_P1,neg
+sudah cukup baik namun kekurangan nya di TV nya. sinyal kadang ilang sendiri nya. tapi semua nya cukup baik kok ,tv_P1-neg,tv_P1,neg
+sudah cukup baik namun kekurangan nya di TV nya. sinyal kadang ilang sendiri nya. tapi semua nya cukup baik kok ,general-pos,general,pos
+kamar kurang bersih. sarung bantal dan sprei tidak wangi. parkiran sempit ,kebersihan-neg,kebersihan,neg
+kamar kurang bersih. sarung bantal dan sprei tidak wangi. parkiran sempit ,linen_P1-neg,linen_P1,neg
+Bau rokok..  Sesak krn bau rokok,bau_P1-neg,bau_P1,neg
+"wifi jelek banget, bahkan gak bisa loading sama sekali, percuma ada juga. kondisi kamar bawah membuat sinyal buruk, saat melakukan telepon suara tidak jelas dan tidak bisa internetan juga meskipun menggunakan data seluler.",wifi_P1-neg,wifi_P1,neg
+Internet dan air panasnya payah banget. Tapi ruangan oke lah.,wifi_P1-neg,wifi_P1,neg
+Internet dan air panasnya payah banget. Tapi ruangan oke lah.,air_panas_P1-neg,air_panas_P1,neg
+"Wifi lagi ada masalah, air di kamar mandi kadang kurang lancar.",wifi_P1-neg,wifi_P1,neg
+Kamarnya nyaman. hanya kebersihan yang harus diperbaiki. Banyak sisa barang penghuni kamar sebelumnya. Serta AC mengeluarkan bau tidak sedap,kebersihan-neg,kebersihan,neg
+Kamarnya nyaman. hanya kebersihan yang harus diperbaiki. Banyak sisa barang penghuni kamar sebelumnya. Serta AC mengeluarkan bau tidak sedap,ac_P1-neg,ac_P1,neg
+Banyak nyamuk. Sprai kotor.handuk kotor.pintu kamar mandi rusak.pintu belakang bercelah(orang bisa liat dari luar).pintu depan berongga tidak rapat kebetulan hari 1 banyak.semut.api di teras kalau saya tidak komplain tidak ada tindakan.makanan dari airy be,linen_P1-neg,linen_P1,neg
+Banyak nyamuk. Sprai kotor.handuk kotor.pintu kamar mandi rusak.pintu belakang bercelah(orang bisa liat dari luar).pintu depan berongga tidak rapat kebetulan hari 1 banyak.semut.api di teras kalau saya tidak komplain tidak ada tindakan.makanan dari airy be,kebersihan-neg,kebersihan,neg
+Banyak nyamuk. Sprai kotor.handuk kotor.pintu kamar mandi rusak.pintu belakang bercelah(orang bisa liat dari luar).pintu depan berongga tidak rapat kebetulan hari 1 banyak.semut.api di teras kalau saya tidak komplain tidak ada tindakan.makanan dari airy be,service-neg,service,neg
+proses check in cepat dan mudah...hanya didlm kmr tdk ada disediakan tissu....kebersihan  kmr kurang karena saat saya geser tmpt tidurnya msh banyak ditemukan debu dan kotoran...,linen_P1-neg,linen_P1,neg
+proses check in cepat dan mudah...hanya didlm kmr tdk ada disediakan tissu....kebersihan  kmr kurang karena saat saya geser tmpt tidurnya msh banyak ditemukan debu dan kotoran...,kebersihan-neg,kebersihan,neg
+"212.000 termasuk sarapan itu murah 😁 tempatnya sangat strategis, fasilitasnya juga bagus. Hanya, tata letak kamarnya yg kurang pas. Posisi tv yg berada di samping tempat tidur, lalu tidak adanya shampoo membuat nilai tempat ini tidak sempurna. Tapi overall baguss sekali",tv_P1-neg,tv_P1,neg
+"212.000 termasuk sarapan itu murah 😁 tempatnya sangat strategis, fasilitasnya juga bagus. Hanya, tata letak kamarnya yg kurang pas. Posisi tv yg berada di samping tempat tidur, lalu tidak adanya shampoo membuat nilai tempat ini tidak sempurna. Tapi overall baguss sekali",linen_P1-neg,linen_P1,neg
+"212.000 termasuk sarapan itu murah 😁 tempatnya sangat strategis, fasilitasnya juga bagus. Hanya, tata letak kamarnya yg kurang pas. Posisi tv yg berada di samping tempat tidur, lalu tidak adanya shampoo membuat nilai tempat ini tidak sempurna. Tapi overall baguss sekali",general-pos,general,pos
+air panasnya ga berfungsi. yang lainnya sudah oke,air_panas_P1-neg,air_panas_P1,neg
+air panasnya ga berfungsi. yang lainnya sudah oke,general-pos,general,pos
+Kondisi kamar beraroma rokok dan banyak nyamuk Restoran koki merangkap waiter,bau_P1-neg,bau_P1,neg
+"AC panas, kamar jorok, handuk mandi cocoknya jadi lap lantai, kamar mandi rusak",ac_P1-neg,ac_P1,neg
+"AC panas, kamar jorok, handuk mandi cocoknya jadi lap lantai, kamar mandi rusak",kebersihan-neg,kebersihan,neg
+"AC panas, kamar jorok, handuk mandi cocoknya jadi lap lantai, kamar mandi rusak",linen_P1-neg,linen_P1,neg
+wifi nya gak nyalah,wifi_P1-neg,wifi_P1,neg
+wifi tidak sampai di lt. 2... air minum tidak ada... tivi chanelnya kabur... ,wifi_P1-neg,wifi_P1,neg
+wifi tidak sampai di lt. 2... air minum tidak ada... tivi chanelnya kabur... ,linen_P1-neg,linen_P1,neg
+wifi tidak sampai di lt. 2... air minum tidak ada... tivi chanelnya kabur... ,tv_P1-neg,tv_P1,neg
+"wifi gak konek dikamar, pintu gabs di kunci",wifi_P1-neg,wifi_P1,neg
+Ac tidak terasa dan yg paling parah closet mampet room c6,ac_P1-neg,ac_P1,neg
+Tempet tidur berbau tidak enak. ,linen_P1-neg,linen_P1,neg
+Nyaman hanya kebersihan kurang.,kebersihan-neg,kebersihan,neg
+"wifinya tidak bisa, selebihnya sangat baik",wifi_P1-neg,wifi_P1,neg
+"wifinya tidak bisa, selebihnya sangat baik",general-pos,general,pos
+tidak ada wifi seperti di airy yg lain,wifi_P1-neg,wifi_P1,neg
+"AC berisik, pintu kamar tidak rapat dan bunyi",ac_P1-neg,ac_P1,neg
+"air panasnya nggak panas di pagi hari, makanannya nggak enak (timunnya rasa obat alias berpestisida). internetnya susah konek",air_panas_P1-neg,air_panas_P1,neg
+"air panasnya nggak panas di pagi hari, makanannya nggak enak (timunnya rasa obat alias berpestisida). internetnya susah konek",wifi_P1-neg,wifi_P1,neg
+sangat nyaman.....tp sayang nya kebersihan kurang d jaga...tolong tingkat kn & slalu utamakn kebersihan...  biar yg nginep merasa nyaman.... ,kebersihan-neg,kebersihan,neg
+"Sangat nyaman, pelayanannya bagus. Namun kamar tempat saya menginap, kurang bersih, tapi semuanya bisa menutupi kekurangan itu. View nya di Lt. 7, pas breakfast sangat indah. Saya akan menginap lagi jika ada kesempatan. Mantap deh",service-pos,service,pos
+"Sangat nyaman, pelayanannya bagus. Namun kamar tempat saya menginap, kurang bersih, tapi semuanya bisa menutupi kekurangan itu. View nya di Lt. 7, pas breakfast sangat indah. Saya akan menginap lagi jika ada kesempatan. Mantap deh",kebersihan-neg,kebersihan,neg
+"Bagus. Hanya kebetulan TV atau antenanya rusak, sudah berusaha dibetulin tapi tetap belum bisa.",tv_P1-neg,tv_P1,neg
+wifinya lelet...untuk yang lain lumayan lah.sesuai dengan harga.,wifi_P1-neg,wifi_P1,neg
+wifinya lelet...untuk yang lain lumayan lah.sesuai dengan harga.,general-pos,general,pos
+WiFi tidak ada sinyal hp blankspot,wifi_P1-neg,wifi_P1,neg
+Kotor,kebersihan-neg,kebersihan,neg
+Fasilitas seperti selimut dan handuk,linen_P1-neg,linen_P1,neg
+"Nyaman,  Hanya tv nya ga da remotenya",tv_P1-neg,tv_P1,neg
+"baik, meski kamar sempit. dan wifinya kurang kencang.",wifi_P1-neg,wifi_P1,neg
+pelayanan baik. tapi tv terlalu tegak jadi susah untuk menonton tv,tv_P1-neg,tv_P1,neg
+pelayanan baik. tapi tv terlalu tegak jadi susah untuk menonton tv,service-pos,service,pos
+"lumayan murah..pelayanan baik hanya fasilitas yang kurang..kamar tidak ada jendela, toilet kurang nyaman, posisi AC kurang pas..aroma ruangan kurang harum..",service-pos,service,pos
+"lumayan murah..pelayanan baik hanya fasilitas yang kurang..kamar tidak ada jendela, toilet kurang nyaman, posisi AC kurang pas..aroma ruangan kurang harum..",ac_P1-neg,ac_P1,neg
+"lumayan murah..pelayanan baik hanya fasilitas yang kurang..kamar tidak ada jendela, toilet kurang nyaman, posisi AC kurang pas..aroma ruangan kurang harum..",bau_P1-neg,bau_P1,neg
+"ac doang kurang dingin, semuanya udah cukup baik",ac_P1-neg,ac_P1,neg
+"ac doang kurang dingin, semuanya udah cukup baik",general-pos,general,pos
+"kamar tidak secantik di foto, TV hanya ada satu channel dan itu info channel. tempat strategis. AC kurang baik.",tv_P1-neg,tv_P1,neg
+"kamar tidak secantik di foto, TV hanya ada satu channel dan itu info channel. tempat strategis. AC kurang baik.",ac_P1-neg,ac_P1,neg
+"pelayanan baik, hanya saja lantai kamar seperti blm disapu dan saluran air di kamar mandi agak mampet",kebersihan-neg,kebersihan,neg
+"pelayanan baik, hanya saja lantai kamar seperti blm disapu dan saluran air di kamar mandi agak mampet",service-pos,service,pos
+"AC tidak dingin, tidur kepanasan, seharusnya selalu dikontrol. Kamar unik, tempat tidur di atas, kamar mandi dibawah, tapi jadi repot naik turun tangga.",ac_P1-neg,ac_P1,neg
+"tlp kamar gabisa dipake, paginya tiba2 air mati, layar tv mati-nyala sndiri, selebihnya oke",tv_P1-neg,tv_P1,neg
+"tlp kamar gabisa dipake, paginya tiba2 air mati, layar tv mati-nyala sndiri, selebihnya oke",general-pos,general,pos
+panas kamarnya ac ngak jalan huft,ac_P1-neg,ac_P1,neg
+"lumayan, hanya saja gift dari airy tdk tersedia",linen_P1-neg,linen_P1,neg
+"Pelayanannya ramah, lokasiinya cukup strategis, tp sayang di bbrapa kamar ACnya ga jadi, saya kemaren sampe 3kali ganti kamar karena ACnya. Kamar Mandinya juga showernya ga jadi. saya harus nampung air biar bs mandi--",service-pos,service,pos
+"Pelayanannya ramah, lokasiinya cukup strategis, tp sayang di bbrapa kamar ACnya ga jadi, saya kemaren sampe 3kali ganti kamar karena ACnya. Kamar Mandinya juga showernya ga jadi. saya harus nampung air biar bs mandi--",ac_P1-neg,ac_P1,neg
+Kamar mandi bau bgt,bau_P1-neg,bau_P1,neg
+kamarnya agak bau. coba dikasih pengharum ruangan yg otomatis. ,bau_P1-neg,bau_P1,neg
+AC nya tidak terlalu dingin dan saya menginap 2 hari hanya dpt air mineral 1 hari saja,ac_P1-neg,ac_P1,neg
+AC nya tidak terlalu dingin dan saya menginap 2 hari hanya dpt air mineral 1 hari saja,linen_P1-neg,linen_P1,neg
+gatal gatal saat di buat tidur ac tidak dingin,ac_P1-neg,ac_P1,neg
+"Saya pesan kamar airy, tapi pas cek in dan buka kamar snack dan perlengkapan airy sama sekali tidak disediakan dikamar, seperti cek in kamar biasa saja... saya sangat kecewa",linen_P1-neg,linen_P1,neg
+saya dapat kamar yang AC-nya panas lantai 2,ac_P1-neg,ac_P1,neg
+"AC mati, tidak dingin sama sekali",ac_P1-neg,ac_P1,neg
+PELAYANAN OK HANYA AC. PANASNYA KELEWATAN.,service-pos,service,pos
+PELAYANAN OK HANYA AC. PANASNYA KELEWATAN.,ac_P1-neg,ac_P1,neg
+"Kamar g sesuai gambar, bau rokok, sangat mengecewakan",bau_P1-neg,bau_P1,neg
+AC nya gak dingin,ac_P1-neg,ac_P1,neg
+Ac kurang dingin,ac_P1-neg,ac_P1,neg
+"kamar mandi bad total, ac gak dingin",ac_P1-neg,ac_P1,neg
+"Toiletnya bau, kolam renang kotor.",bau_P1-neg,bau_P1,neg
+"overall bagus kamar nya luas, tempat nya juga nice, overall verygood sayang ac nya krg dingin, tp sangat memuaskan dengan budget minim",general-pos,general,pos
+"overall bagus kamar nya luas, tempat nya juga nice, overall verygood sayang ac nya krg dingin, tp sangat memuaskan dengan budget minim",ac_P1-neg,ac_P1,neg
+dulu kamarx nyaman kok sekarang bau apekk yaa,bau_P1-neg,bau_P1,neg
+Keran wastafel tidak berfungsi lemari dangantungan baju tidak ada. Ruangan kamar bau dan pengap tidak ada pengharum ruangan.,bau_P1-neg,bau_P1,neg
+kamar bau bekas asap rokok & kamar mandi bau,bau_P1-neg,bau_P1,neg
+kamar bawah bnyk nyamuk + bau minta pindah aja kamar atas klo mau nginep disini,bau_P1-neg,bau_P1,neg
+"lumayan, namun kamar agak bau jamur. dan tidak kedap suara, dinding cuma pakai papan dry wall tanpa peredam ",bau_P1-neg,bau_P1,neg
+"Pelayanan ramah, fasilitas sesuai harga. Satu catatan yaitu ventilasinya kurang. Begitu kamar dibuka, bau toiletnya kuat. Semoga sebelum customer masuk, kamar sudah dibersihkan dengan baik. Terima kasih.",service-pos,service,pos
+"Pelayanan ramah, fasilitas sesuai harga. Satu catatan yaitu ventilasinya kurang. Begitu kamar dibuka, bau toiletnya kuat. Semoga sebelum customer masuk, kamar sudah dibersihkan dengan baik. Terima kasih.",bau_P1-neg,bau_P1,neg
+"Air sempat mati. TV gak berfungsi baik, dan WIFI sinyal jelek. Lokasi jauh. ",tv_P1-neg,tv_P1,neg
+"Air sempat mati. TV gak berfungsi baik, dan WIFI sinyal jelek. Lokasi jauh. ",wifi_P1-neg,wifi_P1,neg
+"Kamarnya agak bau apek, petugas hotel lumayan tanggap langsung membersihkan ulang kamarnya. Lokasi agak sulit mencarinya karena papan nama hotel tidak sesuai dengan yang di website.",bau_P1-neg,bau_P1,neg
+"Kamarnya agak bau apek, petugas hotel lumayan tanggap langsung membersihkan ulang kamarnya. Lokasi agak sulit mencarinya karena papan nama hotel tidak sesuai dengan yang di website.",service-pos,service,pos
+Air panas tidak berfungsi,air_panas_P1-neg,air_panas_P1,neg
+Pegawainya ramah dan menyenangkan. Kamar mandi nya saja yg agak bau. Snack dari airy menolong sekali disaat kelaparan ,bau_P1-neg,bau_P1,neg
+Pegawainya ramah dan menyenangkan. Kamar mandi nya saja yg agak bau. Snack dari airy menolong sekali disaat kelaparan ,service-pos,service,pos
+Pegawainya ramah dan menyenangkan. Kamar mandi nya saja yg agak bau. Snack dari airy menolong sekali disaat kelaparan ,linen_P1-pos,linen_P1,pos
+"pelayanan ramah harga terjangkau, perlu ditambahkan pewangi ruangan karena sedikit bau apek.",bau_P1-neg,bau_P1,neg
+"pelayanan ramah harga terjangkau, perlu ditambahkan pewangi ruangan karena sedikit bau apek.",service-pos,service,pos
+"kamarnya bau, banyak nyamuk. kelebihannya pelayanannya cukup ramah dan dekat dengan tempat tujuan dan ada snack airy",bau_P1-neg,bau_P1,neg
+"kamarnya bau, banyak nyamuk. kelebihannya pelayanannya cukup ramah dan dekat dengan tempat tujuan dan ada snack airy",service-pos,service,pos
+"kamarnya bau, banyak nyamuk. kelebihannya pelayanannya cukup ramah dan dekat dengan tempat tujuan dan ada snack airy",linen_P1-pos,linen_P1,pos
+"Pelayanan ok,  kamar luas,  tapi air macet",service-pos,service,pos
+cuman waterheaternya kdg ga panas airnya,air_panas_P1-neg,air_panas_P1,neg
+air panas sama sekali tidak ada.. kemarin mending masih ada.. skrg malah gak ada..,air_panas_P1-neg,air_panas_P1,neg
+air panas gk nyala.. air kloset mampet,air_panas_P1-neg,air_panas_P1,neg
+Air panasnya gak berfungsi normal.,air_panas_P1-neg,air_panas_P1,neg
+gak ada air panasnya.. jd kasihan klo bawa anak balita yg bth mandi air hangat...,air_panas_P1-neg,air_panas_P1,neg
+Air panasnya ngadat,air_panas_P1-neg,air_panas_P1,neg
+jelek. kamar kotor dan berdebu. banyak kutu busuk. saya digigit dan bengkak. hindari kamar disini.,kebersihan-neg,kebersihan,neg
+"air panas nya cm berfungsi 4 jam setelah cek ini, seterusnya gak berfungsi sampai cek out.",air_panas_P1-neg,air_panas_P1,neg
+"Wi-Fi tidak ada, tdk sesuai dgn yg diharapkan",wifi_P1-neg,wifi_P1,neg
+kamarnya kurang bersih,kebersihan-neg,kebersihan,neg
+resepsionis nya kurang ramah,service-neg,service,neg

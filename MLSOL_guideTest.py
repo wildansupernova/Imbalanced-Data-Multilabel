@@ -1,4 +1,4 @@
-from imblearn.over_sampling.base import BaseOverSampler
+# from imblearn.over_sampling.base import BaseOverSampler
 import random
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np

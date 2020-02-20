@@ -28,3 +28,8 @@ class CocoaTripleClassTransformation:
             result.append(temp)
         return np.asarray(result)
 
+"""
+How to test ?
+1. Test transformLabelUtil according to Equation 4 at Zhang Paper
+2. transformLabels with more than one data
+"""

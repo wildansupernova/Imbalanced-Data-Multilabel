@@ -51,3 +51,10 @@ class BinaryRelevanceUnderSampling(BinaryRelevance):
                 X_resampled), self._ensure_output_format(y_resampled))
             self.classifiers_.append(classifier)
         return self
+
+
+"""
+How to test?
+1. Check label count if it's the same of X,y
+2. Check classifier number, it should give the same with label count
+"""

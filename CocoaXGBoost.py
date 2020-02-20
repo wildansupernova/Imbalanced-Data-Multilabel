@@ -95,7 +95,7 @@ class CocoaXGBoostUndersampling(ProblemTransformationBase):
             self.triClassifiers.append([]) # Actually init classifier
             for j in range(self.numCouples):
                 self.triClassifiers[i].append(copy.deepcopy(self.multiclassClassifier)) 
-        self.thresholds = [-1]*self._label_count #Init threshold list
+        self.thresholds = [0.0]*self._label_count #Init threshold list
         
         self.brus.fit(X, y)
 		
@@ -150,7 +150,7 @@ class CocoaXGBoostUndersampling(ProblemTransformationBase):
         yPredProba = self.brus.predict_proba(X).toarray()[0]
 
         for i in range(self._label_count):
-            confidences+=yPredProba[i]
+            confidences[i]+=yPredProba[i]
 
         for j in range(self._label_count):
             for k in range(self.numCouples):
@@ -165,7 +165,6 @@ class CocoaXGBoostUndersampling(ProblemTransformationBase):
         predictConfidences = []
         for i in range(nData):
             predictConfidences.append(self.makePredictionforThreshold(X[i]))
-
         for j in range(self._label_count):
             maxVal = -1000000000000.0
             trueLabels = [ data[j]==1 for data in y]
@@ -205,3 +204,17 @@ class CocoaXGBoostUndersampling(ProblemTransformationBase):
             bipartition[j] = int(confidences[j] > self.thresholds[j])
 
         return bipartition, confidences
+
+
+"""
+How to test ? 
+1. TrirandomUnderSampling : check if the output occuurences for all label is the same
+2. selectedLabelIndices : labelIndexList = [1,2,3,4,5], currentLabelIndex = 3. it should give output [1,2,3,5]
+3. _generate_partition : just make it can tested, make it functions (?)
+4. makePredictionforThreshold:  mock self.brus and self.triClassifier
+5. makePredictionSingleData: mock test makePredictionforThreshold
+6. predict : mock makePredictionforThreshold
+7. predict_proba : mock makePredictionforThreshold
+8. calculateThresholds : mock makePredictionforThreshold, artifcial jumlah label dan jumlah data , validating by checking self.threshold
+9. Fit ???????
+"""
